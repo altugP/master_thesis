@@ -1,0 +1,16 @@
+"ecological momentary assessment" in:README in:description
+ecological momentary assessment in:README in:description
+"experience sampling" OR "experience sample" NOT "code sample" NOT workshop in:README in:description
+"ambulatory assessment" in:README in:description
+"ecological momentary intervention" in:README in:description
+"just-in-time adaptive intervention" OR jitai OR "just-in-time intervention" in:README in:description
+"mobile intervention" OR "health intervention" NOT quantify NOT model NOT dataset in:README in:description
+"routine outcome monitoring" in:README in:description
+"patient-reported outcome measures" in:README in:description
+"mobile crowdsensing" OR "mobile sensing" in:README in:description
+"digital phenotyping" OR "digital phenotype" in:README in:description
+researchkit in:README in:description
+"clinical survey" OR "scientific survey" OR "quantitive survey" in:README in:description
+mhealth OR "mobile health" NOT visualization NOT schema NOT documentation in:description in:README
+"fhir questionnaire" OR "smart on fhir" NOT tutorial in:description in:README
+"medical questionnaire" OR notification AND questionnaire in:README in:description

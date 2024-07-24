@@ -1,0 +1,4680 @@
+1.
+TY  - CPAPER
+AU  - Gruber, Sebastian
+AU  - Neumayr, Bernd
+AU  - Schrefl, Michael
+AU  - Niebauer, Josef
+TI  - Towards multi-level modeling of just-in-time adaptive interventions (JITAIs) in mobile health
+T2  - 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+PY  - 2021
+DA  - 2021/10
+PB  - IEEE
+DO  - 10.1109/models-c53483.2021.00084
+UR  - http://dx.doi.org/10.1109/models-c53483.2021.00084
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+2.
+TY  - CPAPER
+AU  - Vogel, Carsten
+AU  - Bendig, Eileen
+AU  - Garatva, Patricia
+AU  - Stenzel, Lena
+AU  - Idrees, Abdul Rahman
+AU  - Kraft, Robin
+AU  - Baumeister, Harald
+AU  - Pryss, Rüdiger
+TI  - A highly configurable EMA and JITAI mobile app framework utilized in a large-scale German study on breast cancer aftercare
+T2  - 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)
+PY  - 2023
+DA  - 2023/6
+PB  - IEEE
+DO  - 10.1109/cbms58004.2023.00200
+UR  - http://dx.doi.org/10.1109/cbms58004.2023.00200
+AD  - Institute of Clinical Epidemiology and Biometry, University of Würzburg,Würzburg,Germany; Ulm University,Department of Clinical Psychology and Psychotherapy,Ulm,Germany
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+3.
+TY  - JOUR
+AU  - Doherty, Kevin
+AU  - Balaskas, Andreas
+AU  - Doherty, Gavin
+TI  - The design of Ecological Momentary Assessment technologies
+T2  - Interact. Comput.
+PY  - 2020
+DA  - 2020/5/17
+PB  - Oxford University Press (OUP)
+DO  - 10.1093/iwcomp/iwaa019
+UR  - http://dx.doi.org/10.1093/iwcomp/iwaa019
+AD  - School of Computer Science and Statistics, Trinity College Dublin, Dublin 2, Ireland; Copenhagen Center for Health Technology, Technical University of Denmark, Lyngby, Copenhagen, Denmark; School of Computer Science and Statistics, Trinity College Dublin, Dublin 2, Ireland
+VL  - 32
+IS  - 3
+SP  - 257-278
+AB  - Abstract Ecological Momentary Assessment (EMA) methods and technologies, designed to support the self-report of experience in the moment of daily life, have long been considered poised to revolutionize human-centred research, the practice of design and mental healthcare. The history of EMA is inextricably linked to technology, and mobile devices embody many of the characteristics required to support these methods. However, significant barriers to the design and adoption of these systems remain, including challenges of user engagement, reporting burden, data validity and honest disclosure. While prior research has examined the feasibility of a variety of EMA systems, few reviews have attended to their design. Through inter-disciplinary narrative literature review (n = 342), this paper presents a characterization of the EMA technology design space, drawing upon a diverse set of literatures, contexts, applications and demographic groups. This paper describes the options and strategies available to the EMA systems designer, with an eye towards supporting the design and deployment of EMA technologies for research and clinical practice.
+SN  - 0953-5438
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+4.
+TY  - JOUR
+AU  - Hulme, William J
+AU  - Martin, Glen P
+AU  - Sperrin, Matthew
+AU  - Casson, Alexander J
+AU  - Bucci, Sandra
+AU  - Lewis, Shon
+AU  - Peek, Niels
+TI  - Adaptive symptom monitoring using hidden Markov models - an application in ecological momentary assessment
+T2  - IEEE J. Biomed. Health Inform.
+PY  - 2021
+DA  - 2021/5
+PB  - 
+DO  - 10.1109/JBHI.2020.3031263
+UR  - http://dx.doi.org/10.1109/JBHI.2020.3031263
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33055042
+AD  - 
+VL  - 25
+IS  - 5
+SP  - 1770-1780
+AB  - Wearable and mobile technology provides new opportunities to manage health conditions remotely and unobtrusively. For example, healthcare providers can repeatedly sample a person's condition to monitor progression of symptoms and intervene if necessary. There is usually a utility-tolerability trade-off between collecting information at sufficient frequencies and quantities to be useful, and over-burdening the user or the underlying technology, particularly when active input is required from the user. Selecting the next sampling time adaptively using previous responses, so that people are only sampled at high frequency when necessary, can help to manage this trade-off. We present a novel approach to adaptive sampling using clustered continuous-time hidden Markov models. The model predicts, at any given sampling time, the probability of moving to an 'alert' state, and the next sample time is scheduled when this probability has exceeded a given threshold. The clusters, each representing a distinct sub-model, allow heterogeneity in states and state transitions. The work is illustrated using longitudinal mental-health symptom data in 49 people collected using ClinTouch, a mobile app designed to monitor people with a diagnosis of schizophrenia. Using these data, we show how the adaptive sampling scheme behaves under different model parameters and risk thresholds, and how the average sampling can be substantially reduced whilst maintaining a high sampling frequency during high-risk periods.
+SN  - 2168-2194
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+5.
+TY  - CPAPER
+AU  - Smyth,
+AU  - Heron,
+TI  - Is providing mobile interventions "just-in-time" helpful? an experimental proof of concept study of just-in-time intervention for stress management
+T2  - 2016 IEEE Wireless Health (WH)
+PY  - 2016
+DA  - 2016/10
+PB  - IEEE
+DO  - 10.1109/wh.2016.7764561
+UR  - http://dx.doi.org/10.1109/wh.2016.7764561
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+6.
+TY  - CPAPER
+AU  - Muhammad Bilal, Hafiz Syed
+AU  - Akhtar, Usman
+AU  - Chul, Shin Won
+AU  - Lee, Sungyoung
+TI  - Just in time Intervention for Personalized Healthcare: Behavior-Context based Intervention Adaptation
+T2  - 2020 International Conference on Information Networking (ICOIN)
+PY  - 2020
+DA  - 2020/1
+PB  - IEEE
+DO  - 10.1109/icoin48656.2020.9016632
+UR  - http://dx.doi.org/10.1109/icoin48656.2020.9016632
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+7.
+TY  - CPAPER
+AU  - Kelders, S M
+AU  - van Gemert-Pijnen, J E W C
+AU  - Werkman, A
+AU  - Seydel, E R
+TI  - Usage and effect of a web-based intervention for the prevention of overweight; A randomized controlled trial
+T2  - 2010 Second International Conference on eHealth, Telemedicine, and Social Medicine
+PY  - 2010
+DA  - 2010/2
+PB  - IEEE
+DO  - 10.1109/etelemed.2010.22
+UR  - http://dx.doi.org/10.1109/etelemed.2010.22
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+8.
+TY  - CPAPER
+AU  - Wangberg, Silje C
+AU  - Psychol, Cand
+TI  - Personalized technology for supporting health behaviors
+T2  - 2013 IEEE 4th International Conference on Cognitive Infocommunications (CogInfoCom)
+PY  - 2013
+DA  - 2013/12
+PB  - IEEE
+DO  - 10.1109/coginfocom.2013.6719267
+UR  - http://dx.doi.org/10.1109/coginfocom.2013.6719267
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+9.
+TY  - CPAPER
+AU  - Mukhiya, Suresh Kumar
+AU  - Rabbi, Fazle
+AU  - Pun, Ka I
+AU  - Lamo, Yngve
+TI  - An architectural design for self-reporting E-health systems
+T2  - 2019 IEEE/ACM 1st International Workshop on Software Engineering for Healthcare (SEH)
+PY  - 2019
+DA  - 2019/5
+PB  - IEEE
+DO  - 10.1109/seh.2019.00008
+UR  - http://dx.doi.org/10.1109/seh.2019.00008
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+10.
+TY  - CPAPER
+AU  - Vogel, Carsten
+AU  - Schobel, Johannes
+AU  - Schlee, Winfried
+AU  - Engelke, Milena
+AU  - Pryss, Rudiger
+TI  - UNITI mobile—EMI-apps for a large-scale European study on tinnitus
+T2  - 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+PY  - 2021
+DA  - 2021/11/1
+PB  - IEEE
+DO  - 10.1109/embc46164.2021.9630482
+UR  - http://dx.doi.org/10.1109/embc46164.2021.9630482
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+11.
+TY  - CPAPER
+AU  - Riley, William T
+AU  - Martin, Cesar A
+AU  - Rivera, Daniel E
+TI  - The importance of behavior theory in control system modeling of physical activity sensor data
+T2  - 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+PY  - 2014
+DA  - 2014/8
+PB  - IEEE
+DO  - 10.1109/embc.2014.6945209
+UR  - http://dx.doi.org/10.1109/embc.2014.6945209
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+12.
+TY  - CPAPER
+AU  - Noh, Mohd Amin Mohd
+AU  - Zin, Nor Azan Mat
+AU  - Ashaari, Noraidah Sahari
+TI  - Requirements for interactive digital intervention system to address adolescents' sexual and reproductive health problems
+T2  - 2019 International Conference on Electrical Engineering and Informatics (ICEEI)
+PY  - 2019
+DA  - 2019/7
+PB  - IEEE
+DO  - 10.1109/iceei47359.2019.8988814
+UR  - http://dx.doi.org/10.1109/iceei47359.2019.8988814
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+13.
+TY  - CPAPER
+AU  - Zhang, Peng
+AU  - Schmidt, Douglas
+AU  - White, Jules
+AU  - Mulvaney, Shelagh
+TI  - Towards precision behavioral medicine with IoT: Iterative design and optimization of a self-management tool for type 1 diabetes
+T2  - 2018 IEEE International Conference on Healthcare Informatics (ICHI)
+PY  - 2018
+DA  - 2018/6
+PB  - IEEE
+DO  - 10.1109/ichi.2018.00015
+UR  - http://dx.doi.org/10.1109/ichi.2018.00015
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+14.
+TY  - CPAPER
+AU  - Lim, Ai Keow
+AU  - Thuemmler, Christoph
+TI  - Opportunities and challenges of internet-based health interventions in the future internet
+T2  - 2015 12th International Conference on Information Technology - New Generations
+PY  - 2015
+DA  - 2015/4
+PB  - IEEE
+DO  - 10.1109/itng.2015.95
+UR  - http://dx.doi.org/10.1109/itng.2015.95
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+15.
+TY  - CPAPER
+AU  - Cheng, Chihwen
+AU  - Brown, R Clark
+AU  - Cohen, Lindsey L
+AU  - Venugopalan, Janani
+AU  - Stokes, Todd H
+AU  - Wang, May D
+TI  - iACT - An interactive mHealth monitoring system to enhance psychotherapy for adolescents with sickle cell disease
+T2  - 2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+PY  - 2013
+DA  - 2013/7
+PB  - IEEE
+DO  - 10.1109/embc.2013.6609992
+UR  - http://dx.doi.org/10.1109/embc.2013.6609992
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+16.
+TY  - CPAPER
+AU  - MacFarlane, Zane
+AU  - Gao, Yumin
+AU  - Isakadze, Nino
+AU  - Spaulding, Erin
+AU  - Marvel, Francoise
+AU  - Martin, Seth
+TI  - Comprehensive digital health intervention to improve delivery of cardiac rehabilitation
+T2  - 2021 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+PY  - 2021
+DA  - 2021/12
+PB  - IEEE
+DO  - 10.1109/chase52844.2021.00023
+UR  - http://dx.doi.org/10.1109/chase52844.2021.00023
+AD  - Digital Health Innovation Laboratory, Johns Hopkins School of Medicine,Division of Cardiology,Department of Medicine
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+17.
+TY  - CPAPER
+AU  - Jaimes, Luis G
+AU  - Calderon, Juan
+AU  - Lopez, Juan
+AU  - Raij, Andrew
+TI  - Trends in Mobile Cyber-Physical Systems for health Just-in time interventions
+T2  - SoutheastCon 2015
+PY  - 2015
+DA  - 2015/4
+PB  - IEEE
+DO  - 10.1109/secon.2015.7132887
+UR  - http://dx.doi.org/10.1109/secon.2015.7132887
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+18.
+TY  - CPAPER
+AU  - Tassnim, Rawadieh
+AU  - Tawfic Ja'far, Reem Ali
+AU  - Al-Tarawneh, Abdallah M A
+TI  - Analyzing the challenges facing digital mental health (DMH) between aspiration and reality
+T2  - 2024 2nd International Conference on Cyber Resilience (ICCR)
+PY  - 2024
+DA  - 2024/2/26
+PB  - IEEE
+DO  - 10.1109/iccr61006.2024.10533151
+UR  - http://dx.doi.org/10.1109/iccr61006.2024.10533151
+AD  - Clinical Psychology, Al-Ahliyya Amman University,Amman,Jordan
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+19.
+TY  - CPAPER
+AU  - Al-Taee, Majid A
+AU  - Al-Nuaimy, Waleed
+AU  - Al-Ataby, Ali
+AU  - Muhsin, Zahra J
+AU  - Abood, Suhail N
+TI  - Mobile health platform for diabetes management based on the Internet-of-Things
+T2  - 2015 IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)
+PY  - 2015
+DA  - 2015/11
+PB  - IEEE
+DO  - 10.1109/aeect.2015.7360551
+UR  - http://dx.doi.org/10.1109/aeect.2015.7360551
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+20.
+TY  - CPAPER
+AU  - Tipprom, Arpakorn
+AU  - Soontornpipit, Pichitpong
+AU  - Sillabutra, Jutatip
+AU  - Satitvipawee, Pratana
+AU  - Viwatwongkasem, Chukiat
+TI  - Development of a rehabilitation monitoring system on web-based application for patients with knee pain
+T2  - 2018 International Electrical Engineering Congress (iEECON)
+PY  - 2018
+DA  - 2018/3
+PB  - IEEE
+DO  - 10.1109/ieecon.2018.8712291
+UR  - http://dx.doi.org/10.1109/ieecon.2018.8712291
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+21.
+TY  - CPAPER
+AU  - Weber, Theodore
+AU  - Ferrin, Matthew
+AU  - Sweeney, Forest
+AU  - Ahmed, Shameem
+AU  - Sharmin, Moushumi
+TI  - Towards identifying the optimal timing for near real-time smoking interventions using commercial wearable devices
+T2  - 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)
+PY  - 2020
+DA  - 2020/7
+PB  - IEEE
+DO  - 10.1109/compsac48688.2020.0-212
+UR  - http://dx.doi.org/10.1109/compsac48688.2020.0-212
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+22.
+TY  - CPAPER
+AU  - Bouras, Christos
+AU  - Kapoulas, Vaggelis
+AU  - Karacapilidis, Nikos
+AU  - Kokkinos, Vasileios
+AU  - Papazois, Andreas
+TI  - A mobile learning application for self-management of health and disease
+T2  - 2015 International Conference on Interactive Mobile Communication Technologies and Learning (IMCL)
+PY  - 2015
+DA  - 2015/11
+PB  - IEEE
+DO  - 10.1109/imctl.2015.7359564
+UR  - http://dx.doi.org/10.1109/imctl.2015.7359564
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+23.
+TY  - JOUR
+AU  - Fang, Hua
+AU  - Zhang, Zhaoyang
+AU  - Wang, Chanpaul Jin
+AU  - Daneshmand, Mahmoud
+AU  - Wang, Chonggang
+AU  - Wang, Honggang
+TI  - A survey of big data research
+T2  - IEEE Netw.
+PY  - 2015
+DA  - 2015/9
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/MNET.2015.7293298
+UR  - http://dx.doi.org/10.1109/MNET.2015.7293298
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26504265
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4617656
+AD  - University of Massachusetts Medical School, MA, USA.; University of Massachusetts Medical School & University of Massachusetts Dartmouth.; Stevens Institute of Technology.; Interdigital Communications.; Department of Electrical and Computer Engineering, University of Massachusetts Dartmouth, USA.
+VL  - 29
+IS  - 5
+SP  - 6-9
+AB  - Big data create values for business and research, but pose significant challenges in terms of networking, storage, management, analytics and ethics. Multidisciplinary collaborations from engineers, computer scientists, statisticians and social scientists are needed to tackle, discover and understand big data. This survey presents an overview of big data initiatives, technologies and research in industries and academia, and discusses challenges and potential solutions.
+SN  - 0890-8044
+C2  - PMC4617656
+C1  - 
+N2  - 
+ER  - 
+
+24.
+TY  - CPAPER
+AU  - Hermanus, Davy Ronald
+AU  - Supangkat, Suhono Harso
+AU  - Hidayat, Fadhil
+AU  - Sasmoko,
+AU  - Indrianti, Yasinta
+TI  - Smart guard towns: Multi-drone systems with deep learning for situational awareness in urban management and security
+T2  - 2023 10th International Conference on ICT for Smart Society (ICISS)
+PY  - 2023
+DA  - 2023/9/6
+PB  - IEEE
+DO  - 10.1109/iciss59129.2023.10291236
+UR  - http://dx.doi.org/10.1109/iciss59129.2023.10291236
+AD  - Bina Nusantara University,Research Interest Group in Educational Technology,Computer Science Department,Bandung,Indonesia; School of Engineering and Informatics, Institut Teknologi Bandung,Bandung,Indonesia; Bina Nusantara University,Faculty of Humanities RIG Group in Educational Technology,Primary Teacher Education Department,Jakarta,Indonesia; Universitas Agung Podomoro,Entrepreneurship Department,Jakarta,Indonesia
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+25.
+TY  - CPAPER
+AU  - Sellak, Hamza
+AU  - Grobler, Marthie
+TI  - mHealth4U
+T2  - Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering Workshops
+PY  - 2020
+DA  - 2020/9/21
+PB  - ACM
+DO  - 10.1145/3417113.3422179
+UR  - http://dx.doi.org/10.1145/3417113.3422179
+AD  - CSIRO's Data61, Melbourne, VIC, Australia
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - New York, NY, USA
+N2  - 
+ER  - 
+
+26.
+TY  - JOUR
+AU  - Jaimes, Luis G
+AU  - Llofriu, Martin
+AU  - Raij, Andrew
+TI  - PREVENTER, a selection mechanism for just-in-time preventive interventions
+T2  - IEEE Trans. Affect. Comput.
+PY  - 2016
+DA  - 2016/7/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/taffc.2015.2490062
+UR  - http://dx.doi.org/10.1109/taffc.2015.2490062
+AD  - 
+VL  - 7
+IS  - 3
+SP  - 243-257
+AB  - 
+SN  - 1949-3045
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+27.
+TY  - CPAPER
+AU  - Asaeikheybari, Golnoush
+AU  - Hughart, Cory
+AU  - Gupta, Devansh
+AU  - Avery, Ann
+AU  - Step, Mary M
+AU  - Smith, Jennifer Mcmillen
+AU  - Kratz, Joshua
+AU  - Briggs, Julia
+AU  - Huang, Ming-Chun
+TI  - Precision HIV health app, positive peers, powered by data harnessing, AI, and learning
+T2  - 2020 Second International Conference on Transdisciplinary AI (TransAI)
+PY  - 2020
+DA  - 2020/9
+PB  - IEEE
+DO  - 10.1109/transai49837.2020.00024
+UR  - http://dx.doi.org/10.1109/transai49837.2020.00024
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+28.
+TY  - CPAPER
+AU  - Shminan, Ahmad Sofian
+AU  - Fauzan, Norsiah
+AU  - Aren, Merikan
+TI  - The intensity of the research activities on e learning for care givers of autistic children
+T2  - 2015 International Conference on Information Technology Systems and Innovation (ICITSI)
+PY  - 2015
+DA  - 2015/11
+PB  - IEEE
+DO  - 10.1109/icitsi.2015.7437682
+UR  - http://dx.doi.org/10.1109/icitsi.2015.7437682
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+29.
+TY  - CPAPER
+AU  - Hong, Minsik
+AU  - Rozenblit, Jerzy W
+AU  - Allen, Alicia
+AU  - Nair, Uma S
+AU  - Allen, Sharon
+TI  - A risk estimation system to predict postpartum cigarette smoking relapse
+T2  - 2021 Annual Modeling and Simulation Conference (ANNSIM)
+PY  - 2021
+DA  - 2021/7/19
+PB  - IEEE
+DO  - 10.23919/annsim52504.2021.9552047
+UR  - http://dx.doi.org/10.23919/annsim52504.2021.9552047
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+30.
+TY  - CPAPER
+AU  - Nirmal, Aayushi R
+AU  - Brahmavar, Srinidhi
+AU  - Mercier, Hannah W
+TI  - Digital Phenotyping for Spinal Cord Injury: Smartphone-based monitors for clinical utility
+T2  - 2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems (MASS)
+PY  - 2021
+DA  - 2021/10
+PB  - IEEE
+DO  - 10.1109/mass52906.2021.00080
+UR  - http://dx.doi.org/10.1109/mass52906.2021.00080
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+31.
+TY  - JOUR
+AU  - Rissler, Raphael
+AU  - Nadj, Mario
+AU  - Li, Maximilian X
+AU  - Loewe, Nico
+AU  - Knierim, Michael T
+AU  - Maedche, Alexander
+TI  - To be or not to be in flow at work: Physiological classification of flow using machine learning
+T2  - IEEE Trans. Affect. Comput.
+PY  - 2023
+DA  - 2023/1/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/taffc.2020.3045269
+UR  - http://dx.doi.org/10.1109/taffc.2020.3045269
+AD  - Institute of Information Systems and Marketing (ISSM), Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany
+VL  - 14
+IS  - 1
+SP  - 463-474
+AB  - 
+SN  - 1949-3045
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+32.
+TY  - CPAPER
+AU  - Chen, Jei-Fuu
+AU  - Wu, Ling-Ling
+AU  - Chou, Seng-Cho
+TI  - Effects of journaling dietary intake app on the health outcomes of chronic kidney disease stage 3B-5
+T2  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+PY  - 2016
+DA  - 2016/1
+PB  - IEEE
+DO  - 10.1109/hicss.2016.421
+UR  - http://dx.doi.org/10.1109/hicss.2016.421
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+33.
+TY  - CPAPER
+AU  - Dhamija, Svati
+AU  - Boult, Terrance E
+TI  - Automated action units vs. Expert raters: Face off
+T2  - 2018 IEEE Winter Conference on Applications of Computer Vision (WACV)
+PY  - 2018
+DA  - 2018/3
+PB  - IEEE
+DO  - 10.1109/wacv.2018.00035
+UR  - http://dx.doi.org/10.1109/wacv.2018.00035
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+34.
+TY  - JOUR
+AU  - Katikalapudi, Raghavendra
+AU  - Chellappan, Sriram
+AU  - Montgomery, Frances
+AU  - Wunsch, Donald
+AU  - Lutzen, Karl
+TI  - Associating internet usage with depressive behavior among college students
+T2  - IEEE Technol. Soc. Mag.
+PY  - 2012
+DA  - 2012
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/mts.2012.2225462
+UR  - http://dx.doi.org/10.1109/mts.2012.2225462
+AD  - 
+VL  - 31
+IS  - 4
+SP  - 73-80
+AB  - 
+SN  - 0278-0097
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+35.
+TY  - CPAPER
+AU  - Chen, Annie T
+AU  - Chang, Justin H
+AU  - Hallinan, Skyler
+AU  - Mohr, David C
+TI  - Mapping user trajectories to examine behavior and outcomes in digital health intervention data
+T2  - 2019 IEEE Workshop on Visual Analytics in Healthcare (VAHC)
+PY  - 2019
+DA  - 2019/10
+PB  - IEEE
+DO  - 10.1109/vahc47919.2019.8945038
+UR  - http://dx.doi.org/10.1109/vahc47919.2019.8945038
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+36.
+TY  - JOUR
+AU  - Baglione, Anna N
+AU  - Gong, Jiaqi
+AU  - Boukhechba, Mehdi
+AU  - Wells, Kristen J
+AU  - Barnes, Laura E
+TI  - Leveraging mobile sensing to understand and develop intervention strategies to improve medication adherence
+T2  - IEEE Pervasive Comput.
+PY  - 2020
+DA  - 2020/7
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/MPRV.2020.2993993
+UR  - http://dx.doi.org/10.1109/MPRV.2020.2993993
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33510585
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7837606
+AD  - Department of Engineering Systems and Environment, University of Virginia.; Department of Information Systems, University of Maryland, Baltimore County.; Department of Psychology, San Diego State University.; Department of Engineering Systems and Environment, School of Data Science, University of Virginia.
+VL  - 19
+IS  - 3
+SP  - 24-36
+AB  - Interventions to improve medication adherence have had limited success and can require significant human resources to implement. Research focused on improving medication adherence has undergone a paradigm shift, of late, with a shift towards developing personalized, theory-driven interventions. The current research integrates foundational and translational science to implement a mechanisms-focused, context-aware approach. Increasing adoption of mobile and wearable sensing systems presents new opportunities for understanding how medication-taking behaviors unfold in natural settings, especially in populations who have difficulty adhering to medications. When combined with survey and ecological momentary assessment data, these mobile and wearable sensing systems can directly capture the context of medication adherence in situ, including personal, behavioral, and environmental factors. The purpose of this paper is to present a new transdisciplinary research framework in medication adherence, highlight critical advances in this rapidly-evolving research field, and outline potential future directions for both research and clinical applications.
+SN  - 1536-1268
+C2  - PMC7837606
+C1  - 
+N2  - 
+ER  - 
+
+37.
+TY  - CPAPER
+AU  - Lee, Mirim
+AU  - Koo, Bongchang
+AU  - Jung, Heesoek
+AU  - Jung, Joongsin Park
+AU  - Jung, Juhee Cho
+AU  - Cho, Jundong
+TI  - Designing mHealth intervention for Women in Menopausal Period
+T2  - Proceedings of the 9th International Conference on Pervasive Computing Technologies for Healthcare
+PY  - 2015
+DA  - 2015
+PB  - ICST
+DO  - 10.4108/icst.pervasivehealth.2015.259284
+UR  - http://dx.doi.org/10.4108/icst.pervasivehealth.2015.259284
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - Expected age of population is increasing as the quality of medical technology and services is improving. As a result, women nowadays are expected to spend 1/3 of their lives after menopause. Precise knowledge of each of their menopausal stage and how to deal with corresponding symptoms would greatly increase the quality of their lives. There is a large amount of studies conducted on mHealth intervention, but the amount of study conducted for this particular target group is relatively small. In order to develop a mobile intervention for health management of menopausal women, this research set interviews with a focus group including middle aged women and stakeholders. As a result, we suggest a guideline for designing a health management system of menopausal women based on previous study and suggest a possible system that support women's wellness in menopausal period, with providing health information based on user's menopausal stage using mobile devices.
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+38.
+TY  - CPAPER
+AU  - Akoumianakis, Demosthenes
+AU  - Milolidakis, Giannis
+AU  - Gnagnarella, Patrizia
+AU  - Misotti, Alessandro Maria
+AU  - Bessis, Nik
+TI  - Networking tactics for online eHealth campaigns and intervention studies: Preliminary results from a case study on nutritional support for cancer patients
+T2  - 2012 Fourth International Conference on Intelligent Networking and Collaborative Systems
+PY  - 2012
+DA  - 2012/9
+PB  - IEEE
+DO  - 10.1109/incos.2012.23
+UR  - http://dx.doi.org/10.1109/incos.2012.23
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+39.
+TY  - JOUR
+AU  - Choudhury, Avishek
+AU  - Asan, Onur
+AU  - Alelyani, Turki
+TI  - Exploring the role of the internet, care quality and communication in shaping mental health: Analysis of the health information national trends survey
+T2  - IEEE J. Biomed. Health Inform.
+PY  - 2022
+DA  - 2022/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/JBHI.2021.3087083
+UR  - http://dx.doi.org/10.1109/JBHI.2021.3087083
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/34097623
+AD  - 
+VL  - 26
+IS  - 1
+SP  - 468-477
+AB  - Determinants of user mental health are diverse, interrelated, and often multifaceted. This study explores how internet use, perceived care quality, patient education, and patient centered communication influence mental health, using structural equation modeling. Findings suggest that increased internet use even for health purposes negatively impacts mental health .On the other hand, education level, patient centered-communication (PC-Com) and perception of care quality impact mental health positively [Formula: see text]. Moreover, we also explored the changes across various demographics. The influence of patient education on PC-Com was only significant for Hispanic respondents . Internet use for health purposes influenced PC-Com negatively for White American respondents (β = -0.047, P=0.015). The study reinstated that the internet use, patient centered communication, patient education, and perceived care quality might influence mental health. The society will increasingly seek health information from online sources, so our study provides recommendations to make online health information sources more user friendly and trustworthy, ultimately to minimize negative impact on mental health.
+SN  - 2168-2194
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+40.
+TY  - CPAPER
+AU  - Hameed, Nazia
+AU  - Hassan, Md Mahmudul
+AU  - Hossain, Alamgir
+TI  - An explainable real-time decision support system for identifying fish diseases and analysing water quality
+T2  - 2022 14th International Conference on Software, Knowledge, Information Management and Applications (SKIMA)
+PY  - 2022
+DA  - 2022/12/2
+PB  - IEEE
+DO  - 10.1109/skima57145.2022.10029415
+UR  - http://dx.doi.org/10.1109/skima57145.2022.10029415
+AD  - School of Computer Science University of Nottingham,Nottingham,United Kingdom; R&D Team, MediprospectsAI Limited, & Anglia Ruskin University; Vice President Office, Cambodia, University of Technology and Science,Phnom Penh
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+41.
+TY  - CPAPER
+AU  - Xu, Linping
+AU  - Ho, James
+AU  - Zhang, Zhiwei
+TI  - CIS4: Climate index of SMEs survey support system
+T2  - 2021 International Conference of Social Computing and Digital Economy (ICSCDE)
+PY  - 2021
+DA  - 2021/8
+PB  - IEEE
+DO  - 10.1109/icscde54196.2021.00027
+UR  - http://dx.doi.org/10.1109/icscde54196.2021.00027
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+42.
+TY  - JOUR
+AU  - Smets, Elena
+AU  - De Raedt, Walter
+AU  - Van Hoof, Chris
+TI  - Into the wild: The challenges of physiological stress detection in laboratory and ambulatory settings
+T2  - IEEE J. Biomed. Health Inform.
+PY  - 2019
+DA  - 2019/3
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/JBHI.2018.2883751
+UR  - http://dx.doi.org/10.1109/JBHI.2018.2883751
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/30507517
+AD  - 
+VL  - 23
+IS  - 2
+SP  - 463-473
+AB  - Stress and mental health have become major concerns worldwide. Research has already extensively investigated physiological signals as quantitative and continuous markers of stress. In recent years, the focus of the field has shifted from the laboratory to the ambulatory environment. We provide an overview of physiological stress detection in laboratory settings with a focus on identifying physiological sensing priorities, including electrocardiogram, skin conductance, and electromyogram, and the most suitable machine learning techniques, of which the choice depends on the context of the application. Additionally, an overview is given of new challenges ahead to move toward the ambulant environment, including the influence of physical activity, lower signal quality due to motion artifacts, the lack of a stress reference, and the subject-dependent nature of the physiological stress response. Finally, several recommendations for future research are listed, focusing on large-scale, longitudinal trials across different population groups and just-in-time interventions to move toward disease prevention and interception.
+SN  - 2168-2194
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+43.
+TY  - JOUR
+AU  - Sengupta, Avijit
+AU  - Dutta, Kaushik
+AU  - Beckie, Theresa
+AU  - Chellappan, Sriram
+TI  - Designing a health coach-augmented mHealth system for the secondary prevention of coronary heart disease among women
+T2  - IEEE Trans. Eng. Manage.
+PY  - 2022
+DA  - 2022/12
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/tem.2020.2997662
+UR  - http://dx.doi.org/10.1109/tem.2020.2997662
+AD  - Information Systems and Decision Sciences, University of South Florida, Tampa, FL, USA; College of Nursing, University of South Florida, Tampa, FL, USA; Department of Computer Science and Engineering, University of South Florida, Tampa, FL, USA
+VL  - 69
+IS  - 6
+SP  - 3085-3100
+AB  - 
+SN  - 0018-9391
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+44.
+TY  - CPAPER
+AU  - Witbrodt, Bradley
+AU  - Sunderam, Vaidy
+TI  - A patient centered cloud platform for mobile-health enabled clinical research
+T2  - 2016 IEEE First International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+PY  - 2016
+DA  - 2016/6
+PB  - IEEE
+DO  - 10.1109/chase.2016.50
+UR  - http://dx.doi.org/10.1109/chase.2016.50
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+45.
+TY  - JOUR
+AU  - Aranki, Daniel
+AU  - Kurillo, Gregorij
+AU  - Yan, Posu
+AU  - Liebovitz, David M
+AU  - Bajcsy, Ruzena
+TI  - Real-time Tele-monitoring of patients with chronic heart-failure using a smartphone: Lessons learned
+T2  - IEEE Trans. Affect. Comput.
+PY  - 2016
+DA  - 2016/7/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/taffc.2016.2554118
+UR  - http://dx.doi.org/10.1109/taffc.2016.2554118
+AD  - 
+VL  - 7
+IS  - 3
+SP  - 206-219
+AB  - 
+SN  - 1949-3045
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+46.
+TY  - CPAPER
+AU  - Ahsan, G M Tanimul
+AU  - Addo, Ivor D
+AU  - Ahamed, S Iqbal
+AU  - Petereit, Daniel
+AU  - Kanekar, Shalini
+AU  - Burhansstipanov, Linda
+AU  - Krebs, Linda U
+TI  - Toward an mHealth Intervention for Smoking Cessation
+T2  - 2013 IEEE 37th Annual Computer Software and Applications Conference Workshops
+PY  - 2013
+DA  - 2013/7
+PB  - IEEE
+DO  - 10.1109/compsacw.2013.61
+UR  - http://dx.doi.org/10.1109/compsacw.2013.61
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+47.
+TY  - JOUR
+AU  - Benlamri, Rachid
+AU  - Docksteader, Luke
+TI  - MORF: A Mobile Health-Monitoring Platform
+T2  - IT Prof.
+PY  - 2010
+DA  - 2010/5
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/mitp.2010.3
+UR  - http://dx.doi.org/10.1109/mitp.2010.3
+AD  - 
+VL  - 12
+IS  - 3
+SP  - 18-25
+AB  - 
+SN  - 1520-9202
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+48.
+TY  - CPAPER
+AU  - Mozgai, Sharon
+AU  - Hartholt, Arno
+AU  - Rizzo, Albert
+TI  - The passive sensing agent: A multimodal adaptive mHealth application
+T2  - 2020 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)
+PY  - 2020
+DA  - 2020/3
+PB  - IEEE
+DO  - 10.1109/percomworkshops48775.2020.9156177
+UR  - http://dx.doi.org/10.1109/percomworkshops48775.2020.9156177
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+49.
+TY  - CPAPER
+AU  - Pandey, Harshit
+AU  - Rizzo, Christie
+AU  - Collibee, Charlene
+AU  - Sathyanarayana, Aarti
+TI  - Modeling messaging metadata to identify digital disagreements among non-incarcerated adolescents in the juvenile justice system
+T2  - 2023 11th International Conference on Affective Computing and Intelligent Interaction (ACII)
+PY  - 2023
+DA  - 2023/9/10
+PB  - IEEE
+DO  - 10.1109/acii59096.2023.10388170
+UR  - http://dx.doi.org/10.1109/acii59096.2023.10388170
+AD  - Northeastern University,Khoury College of Computer Sciences,Boston,USA; Northeastern University,Bouvé College of Health Sciences,Boston,USA; Brown University,Warren Alpert Medical School,Providence,USA; Northeastern University,Bouvé College of Health Sciences & Khoury College of Computer Sciences,Boston,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+50.
+TY  - CPAPER
+AU  - Sari, Adella Anggita
+AU  - Mutiara E, Tasya Aulia
+TI  - Mobile education for asthmatic patients: Investigating the impact of mobile app-based interventions on quality of life
+T2  - 2023 3rd International Conference on Emerging Smart Technologies and Applications (eSmarTA)
+PY  - 2023
+DA  - 2023/10/10
+PB  - IEEE
+DO  - 10.1109/esmarta59349.2023.10293313
+UR  - http://dx.doi.org/10.1109/esmarta59349.2023.10293313
+AD  - School of Pharmacy, Universitas Muhammadiyah Yogyakarta,Faculty of Medicines and Health Sciences,Yogyakarta,Indonesia
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+51.
+TY  - CPAPER
+AU  - Lambusch, Fabienne
+AU  - Weigelt, Oliver
+AU  - Fellmann, Michael
+AU  - Fischer, Jana
+AU  - Kiechle, Ann-Kathrin
+TI  - Towards personalized feedback as an energizer: A randomized controlled trial
+T2  - 2023 IEEE 25th Conference on Business Informatics (CBI)
+PY  - 2023
+DA  - 2023/6/21
+PB  - IEEE
+DO  - 10.1109/cbi58679.2023.10187545
+UR  - http://dx.doi.org/10.1109/cbi58679.2023.10187545
+AD  - University of Rostock,Business Information Systems,Rostock,Germany; Wilhelm Wundt Institute of Psychology, Leipzig University,Leipzig,Germany; University of Hagen,Work and Organizational Psychology,Hagen,Germany
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+52.
+TY  - CPAPER
+AU  - Kraft, Robin
+AU  - Idrees, Abdul Rahman
+AU  - Stenzel, Lena
+AU  - Nguyen, Tran
+AU  - Reichert, Manfred
+AU  - Pryss, Rudiger
+AU  - Baumeister, Harald
+TI  - eSano – An eHealth Platform for Internet- and Mobile-based Interventions
+T2  - 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+PY  - 2021
+DA  - 2021/11/1
+PB  - IEEE
+DO  - 10.1109/embc46164.2021.9629534
+UR  - http://dx.doi.org/10.1109/embc46164.2021.9629534
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+53.
+TY  - JOUR
+AU  - Nepal, Subigya
+AU  - Pillai, Arvind
+AU  - Parrish, Emma M
+AU  - Holden, Jason
+AU  - Depp, Colin
+AU  - Campbell, Andrew T
+AU  - Granholm, Eric L
+TI  - Social isolation and serious mental illness: The role of context-aware mobile interventions
+T2  - IEEE Pervasive Comput.
+PY  - 2024
+DA  - 2024/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/mprv.2024.3377200
+UR  - http://dx.doi.org/10.1109/mprv.2024.3377200
+AD  - Dartmouth College, Hanover, NH, USA; San Diego State University/University of California San Diego Joint Doctoral Program in Clinical Psychology, San Diego, CA, USA; University of California San Diego, San Diego, CA, USA
+VL  - 23
+IS  - 1
+SP  - 46-56
+AB  - 
+SN  - 1536-1268
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+54.
+TY  - CPAPER
+AU  - Prabashana, R P K
+AU  - Nanayakkara, G A J W
+AU  - Wanniachchi, W K D C
+AU  - Arampath, S B A M B S
+AU  - Rajapaksha, Samantha
+AU  - Harshanath, S M B
+TI  - Mobile health intervention system in optimizing healthcare delivery for cardiac patients
+T2  - 2023 5th International Conference on Advancements in Computing (ICAC)
+PY  - 2023
+DA  - 2023/12/7
+PB  - IEEE
+DO  - 10.1109/icac60630.2023.10417192
+UR  - http://dx.doi.org/10.1109/icac60630.2023.10417192
+AD  - Sri Lanka Institute of Information Technology,Dept. of Computer Systems Engineering,Malabe,Sri Lanka; Sri Lanka Institute of Information Technology,dept. of Information Technology,Malabe,Sri Lanka
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+55.
+TY  - CPAPER
+AU  - Freigoun, Mohammad T
+AU  - Martin, Cesar A
+AU  - Magann, Alicia B
+AU  - Rivera, Daniel E
+AU  - Phatak, Sayali S
+AU  - Korinek, Elizabeth V
+AU  - Hekler, Eric B
+TI  - System identification of Just Walk: A behavioral mHealth intervention for promoting physical activity
+T2  - 2017 American Control Conference (ACC)
+PY  - 2017
+DA  - 2017/5
+PB  - IEEE
+DO  - 10.23919/acc.2017.7962940
+UR  - http://dx.doi.org/10.23919/acc.2017.7962940
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+56.
+TY  - CPAPER
+AU  - Yildirim, Mehmet Suleyman
+AU  - Dandil, Emre
+TI  - DeepMSWeb: A web-based decision support system via deep learning for automatic detection of MS lesions
+T2  - 2021 2nd International Informatics and Software Engineering Conference (IISEC)
+PY  - 2021
+DA  - 2021/12/16
+PB  - IEEE
+DO  - 10.1109/iisec54230.2021.9672360
+UR  - http://dx.doi.org/10.1109/iisec54230.2021.9672360
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+57.
+TY  - JOUR
+AU  - Honka, Anita M
+AU  - Nieminen, Hannu
+AU  - Simila, Heidi
+AU  - Kaartinen, Jouni
+AU  - Van Gils, Mark
+TI  - A comprehensive user modeling framework and a recommender system for personalizing well-being related behavior change interventions: Development and evaluation
+T2  - IEEE Access
+PY  - 2022
+DA  - 2022
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2022.3218776
+UR  - http://dx.doi.org/10.1109/access.2022.3218776
+AD  - Department of Smart Health, VTT Technical Research Centre of Finland Ltd., Tampere, Finland; Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland; Department of Smart Health, VTT Technical Research Centre of Finland Ltd., Oulu, Finland
+VL  - 10
+IS  - 
+SP  - 116766-116783
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+58.
+TY  - CPAPER
+AU  - Wang, Zhiyuan
+AU  - Rucker, Mark
+AU  - Toner, Emma R
+AU  - Larrazabal, Maria A
+AU  - Boukhechba, Mehdi
+AU  - Teachman, Bethany A
+AU  - Barnes, Laura E
+TI  - Understanding privacy risks versus predictive benefits in wearable sensor-based digital phenotyping: A quantitative cost-benefit analysis
+T2  - 2023 IEEE 19th International Conference on Body Sensor Networks (BSN)
+PY  - 2023
+DA  - 2023/10/9
+PB  - IEEE
+DO  - 10.1109/bsn58485.2023.10331378
+UR  - http://dx.doi.org/10.1109/bsn58485.2023.10331378
+AD  - University of Virginia,Department of Systems and Information Engineering,VA,USA; University of Virginia,Department of Psychology,VA,USA; Janssen Pharmaceutical Companies of Johnson & Johnson,NJ,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+59.
+TY  - CPAPER
+AU  - Harrison, S
+AU  - Maple, C
+AU  - Epiphaniou, G
+AU  - Arvanitis, T N
+TI  - Improving quality in Digital Health Intervention safety
+T2  - International Conference on AI and the Digital Economy (CADE 2023)
+PY  - 2023
+DA  - 2023
+PB  - Institution of Engineering and Technology
+DO  - 10.1049/icp.2023.2610
+UR  - http://dx.doi.org/10.1049/icp.2023.2610
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+60.
+TY  - CPAPER
+AU  - Coral, Roberto
+AU  - Esposito, Flavio
+AU  - Weinstock, Jeremiah
+TI  - Don't go there: A zero-permission geofencing app to alleviate gambling disorders
+T2  - 2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC)
+PY  - 2020
+DA  - 2020/1
+PB  - IEEE
+DO  - 10.1109/ccnc46108.2020.9045251
+UR  - http://dx.doi.org/10.1109/ccnc46108.2020.9045251
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+61.
+TY  - CPAPER
+AU  - Ashwinkumar, U M
+AU  - Anandakumar, K R
+TI  - A web-based patient support system using artificial intelligence to improve health monitoring and quality of life
+T2  - 2012 Second International Conference on Advanced Computing & Communication Technologies
+PY  - 2012
+DA  - 2012/1
+PB  - IEEE
+DO  - 10.1109/acct.2012.16
+UR  - http://dx.doi.org/10.1109/acct.2012.16
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+62.
+TY  - CPAPER
+AU  - Alambo, Amanuel
+AU  - Gaur, Manas
+AU  - Lokala, Usha
+AU  - Kursuncu, Ugur
+AU  - Thirunarayan, Krishnaprasad
+AU  - Gyrard, Amelie
+AU  - Sheth, Amit
+AU  - Welton, Randon S
+AU  - Pathak, Jyotishman
+TI  - Question answering for suicide risk assessment using reddit
+T2  - 2019 IEEE 13th International Conference on Semantic Computing (ICSC)
+PY  - 2019
+DA  - 2019/1
+PB  - IEEE
+DO  - 10.1109/icosc.2019.8665525
+UR  - http://dx.doi.org/10.1109/icosc.2019.8665525
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+63.
+TY  - CPAPER
+AU  - Chen, Mei-Ju
+AU  - Chiang, Shuo-Ju
+AU  - Lee, Jiun-Shiou
+AU  - Yu, Ernest W R
+TI  - The Citizen Telehealth Care Service model in Taipei: A case study
+T2  - 2012 IEEE 14th International Conference on e-Health Networking, Applications and Services (Healthcom)
+PY  - 2012
+DA  - 2012/10
+PB  - IEEE
+DO  - 10.1109/healthcom.2012.6379447
+UR  - http://dx.doi.org/10.1109/healthcom.2012.6379447
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+64.
+TY  - CPAPER
+AU  - Färber, Andri
+AU  - de Spindler, Alexandre
+AU  - Moser, Adrian
+AU  - Schwabe, Gerhard
+TI  - Closing the loop for patients with chronic diseases - from problems to a solution architecture
+T2  - 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
+PY  - 2023
+DA  - 2023/6/26
+PB  - IEEE
+DO  - 10.1109/ichi57859.2023.00055
+UR  - http://dx.doi.org/10.1109/ichi57859.2023.00055
+AD  - Zurich University of Applied Sciences,Inst. of Bus. Information Technology,Winterthur,Switzerland; University of Zurich,Department of Informatics,Zurich,Switzerland
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+65.
+TY  - JOUR
+AU  - Martín, César A
+AU  - Rivera, Daniel E
+AU  - Hekler, Eric B
+AU  - Riley, William T
+AU  - Buman, Matthew P
+AU  - Adams, Marc A
+AU  - Magann, Alicia B
+TI  - Development of a control-oriented model of social Cognitive Theory for optimized mHealth behavioral interventions
+T2  - IEEE Trans. Control Syst. Technol.
+PY  - 2020
+DA  - 2020/3
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/tcst.2018.2873538
+UR  - http://dx.doi.org/10.1109/tcst.2018.2873538
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33746479
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7977327
+AD  - ESPOL Polytechnic University, Escuela Superior Politécnica del Litoral, ESPOL, Facultad de Ingeniería en Electricidad y Computacion, Campus Gustavo Galindo Km. 30.5 Vía Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.; Control Systems Engineering Laboratory (CSEL), School for Engineering of Matter, Transport, and Energy, Arizona State University, Tempe, AZ, USA.; Center for Wireless and Population Health Systems and the Department of Family Medicine and Public Health, University of California at San Diego, CA, USA.; Office of Behavioral and Social Sciences Research, National Institutes of Health, Bethesda, MD, USA.; School of Nutrition and Health Promotion, Arizona State University, Phoenix, AZ, USA.
+VL  - 28
+IS  - 2
+SP  - 331-346
+AB  - Mobile health (mHealth) technologies are contributing to the increasing relevance of control engineering principles in understanding and improving health behaviors, such as physical activity. Social Cognitive Theory (SCT), one of the most influential theories of health behavior, has been used as the conceptual basis for behavioral interventions for smoking cessation, weight management, and other health-related outcomes. This paper presents a control-oriented dynamical systems model of SCT based on fluid analogies that can be used in system identification and control design problems relevant to the design and analysis of intensively adaptive interventions. Following model development, a series of simulation scenarios illustrating the basic workings of the model are presented. The model's usefulness is demonstrated in the solution of two important practical problems: 1) semiphysical model estimation from data gathered in a physical activity intervention (the MILES study) and 2) as a means for discerning the range of "ambitious but doable" daily step goals in a closed-loop behavioral intervention aimed at sedentary adults. The model is the basis for ongoing experimental validation efforts, and should encourage additional research in applying control engineering technologies to the social and behavioral sciences.
+SN  - 1063-6536
+C2  - PMC7977327
+C1  - 
+KW  - behavioral interventions
+KW  - control design
+KW  - dynamical modeling
+KW  - health behavior
+KW  - system identification
+N2  - 
+ER  - 
+
+66.
+TY  - CPAPER
+AU  - Vainio, Janne
+AU  - Kaipainen, Kirsikka
+AU  - Korhonen, Ilkka
+TI  - Habit change as a learning process: Design framework for mobile interventions
+T2  - IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)
+PY  - 2014
+DA  - 2014/6
+PB  - IEEE
+DO  - 10.1109/bhi.2014.6864485
+UR  - http://dx.doi.org/10.1109/bhi.2014.6864485
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+67.
+TY  - CPAPER
+AU  - Rath, Mamata
+AU  - Pattanayak, Binod Kumar
+TI  - A methodical survey on real time applications in MANETS: Focussing on key issues
+T2  - 2014 International Conference on High Performance Computing and Applications (ICHPCA)
+PY  - 2014
+DA  - 2014/12
+PB  - IEEE
+DO  - 10.1109/ichpca.2014.7045301
+UR  - http://dx.doi.org/10.1109/ichpca.2014.7045301
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+68.
+TY  - CPAPER
+AU  - Ilvonen, Karita
+AU  - Groop, Johan
+AU  - Lillrank, Paul
+TI  - Mobile services provide value by decoupling the time and location constraints in healthcare delivery
+T2  - 2009 International Conference on eHealth, Telemedicine, and Social Medicine
+PY  - 2009
+DA  - 2009/2
+PB  - IEEE
+DO  - 10.1109/etelemed.2009.39
+UR  - http://dx.doi.org/10.1109/etelemed.2009.39
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+69.
+TY  - CPAPER
+AU  - Dasari, Tejaswi Samrat
+AU  - Satish, Pratima
+AU  - Kayitesi, Laetitia
+AU  - Mbuvi, Mary
+AU  - Dias, Russell
+AU  - Ngamije, Fabiola Ishimwe
+AU  - Kwesiga, Joseph
+AU  - On, Robert
+AU  - Woodbridge, Diane Myung-Kyung
+TI  - Transforming adolescent healthcare in Rwanda: Sustainable and scalable features in digital health
+T2  - 2023 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)
+PY  - 2023
+DA  - 2023/10/15
+PB  - IEEE
+DO  - 10.1109/bhi58575.2023.10313481
+UR  - http://dx.doi.org/10.1109/bhi58575.2023.10313481
+AD  - University of San Francisco; University of California,Berkeley; YLabs; The Agency Fund
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+70.
+TY  - CPAPER
+AU  - Ulusoy, Ulubilge
+AU  - Reisman, Garrett E
+TI  - What kind of support do astronauts need for maintenance tasks in space habitats? A survey study
+T2  - 2024 IEEE Aerospace Conference
+PY  - 2024
+DA  - 2024/3/2
+PB  - IEEE
+DO  - 10.1109/aero58975.2024.10521038
+UR  - http://dx.doi.org/10.1109/aero58975.2024.10521038
+AD  - University of Southern California,Los Angeles,CA,90089
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+71.
+TY  - JOUR
+AU  - Kumar, S
+AU  - Nilsen, W
+AU  - Pavel, M
+AU  - Srivastava, M
+TI  - Mobile health: Revolutionizing healthcare through transdisciplinary research
+T2  - Computer (Long Beach Calif.)
+PY  - 2013
+DA  - 2013/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/mc.2012.392
+UR  - http://dx.doi.org/10.1109/mc.2012.392
+AD  - 
+VL  - 46
+IS  - 1
+SP  - 28-35
+AB  - 
+SN  - 0018-9162
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+72.
+TY  - CPAPER
+AU  - Prinsen, Jos
+AU  - Pruss, Ethel
+AU  - Vrins, Anita
+AU  - Ceccato, Caterina
+AU  - Alimardani, Maryam
+TI  - A passive brain-computer interface for monitoring engagement during robot-assisted language learning
+T2  - 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+PY  - 2022
+DA  - 2022/10/9
+PB  - IEEE
+DO  - 10.1109/smc53654.2022.9945182
+UR  - http://dx.doi.org/10.1109/smc53654.2022.9945182
+AD  - Tilburg University,dept. of Cognitive Science and AI,Tilburg,Netherlands
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+73.
+TY  - CPAPER
+AU  - Hashim, Muhammad Jawad
+TI  - User interactivity in eHealth applications: A novel taxonomy
+T2  - 2016 12th International Conference on Innovations in Information Technology (IIT)
+PY  - 2016
+DA  - 2016/11
+PB  - IEEE
+DO  - 10.1109/innovations.2016.7880023
+UR  - http://dx.doi.org/10.1109/innovations.2016.7880023
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+74.
+TY  - CPAPER
+AU  - Azizur Rahman, Syed
+AU  - Al-Yateem, Nabeel
+AU  - Al-Marzouqi, Amina
+AU  - Iqbal Ahamed, Sheikh
+AU  - AlShabi, Mohammad
+TI  - Mobile for health: A digital intervention to reduce smoking in the United Arab Emirates
+T2  - 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)
+PY  - 2020
+DA  - 2020/7
+PB  - IEEE
+DO  - 10.1109/compsac48688.2020.0-171
+UR  - http://dx.doi.org/10.1109/compsac48688.2020.0-171
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+75.
+TY  - CPAPER
+AU  - Iwamoto, Tomoya
+AU  - Matsumoto, Shimpei
+TI  - Development of web-based programming learning support system with graph drawing of mathematics as a learning task
+T2  - 2019 8th International Congress on Advanced Applied Informatics (IIAI-AAI)
+PY  - 2019
+DA  - 2019/7
+PB  - IEEE
+DO  - 10.1109/iiai-aai.2019.00067
+UR  - http://dx.doi.org/10.1109/iiai-aai.2019.00067
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+76.
+TY  - CPAPER
+AU  - Bestek, Mate
+AU  - Curtis, Kristina
+AU  - Brodnik, Andrej
+TI  - Design and deployment of eHealth interventions using behavior change techniques, BPMN2 and OpenEHR
+T2  - 2015 IEEE 11th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)
+PY  - 2015
+DA  - 2015/10
+PB  - IEEE
+DO  - 10.1109/wimob.2015.7347983
+UR  - http://dx.doi.org/10.1109/wimob.2015.7347983
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+77.
+TY  - JOUR
+AU  - Dong, Quan
+AU  - Downen, R Scott
+AU  - Li, Baichen
+AU  - Tran, Nam
+AU  - Li, Zhenyu
+TI  - A cloud-connected multi-lead electrocardiogram (ECG) sensor ring
+T2  - IEEE Sens. J.
+PY  - 2021
+DA  - 2021/7/15
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/jsen.2021.3075992
+UR  - http://dx.doi.org/10.1109/jsen.2021.3075992
+AD  - 
+VL  - 21
+IS  - 14
+SP  - 16340-16349
+AB  - 
+SN  - 1530-437X
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+78.
+TY  - CPAPER
+AU  - de Paiva Azevedo, Joana
+AU  - Delaney, Hannah
+AU  - Epperson, Mckenna
+AU  - Jbeili, Cassia
+AU  - Jensen, Samantha
+AU  - McGrail, Chase
+AU  - Weaver, Haley
+AU  - Baglione, Anna
+AU  - Barnes, Laura E
+TI  - Gamification of eHealth interventions to increase user engagement and reduce attrition
+T2  - 2019 Systems and Information Engineering Design Symposium (SIEDS)
+PY  - 2019
+DA  - 2019/4
+PB  - IEEE
+DO  - 10.1109/sieds.2019.8735645
+UR  - http://dx.doi.org/10.1109/sieds.2019.8735645
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+79.
+TY  - CPAPER
+AU  - Mistiri, Mohamed El
+AU  - Rivera, Daniel E
+AU  - Klasnja, Predrag
+AU  - Park, Junghwan
+AU  - Hekler, Eric
+TI  - Enhanced social cognitive theory dynamic modeling and simulation towards improving the estimation of "just-in-time" states
+T2  - 2022 American Control Conference (ACC)
+PY  - 2022
+DA  - 2022/6/8
+PB  - IEEE
+DO  - 10.23919/acc53348.2022.9867493
+UR  - http://dx.doi.org/10.23919/acc53348.2022.9867493
+AD  - Arizona State University,Control Systems Engineering Laboratory, School for Engineering of Matter, Transport, and Energy,Tempe,AZ,USA,85287; University of Michigan,Division of Biomedical and Health Informatics, School of Information,Ann Arbor,MU,USA,48109; Univeristy of California, San Diego (UCSD),Center for Wireless & Population Health Systems,La Jolla,CA,USA,92093
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+80.
+TY  - CPAPER
+AU  - Mohr, David
+AU  - Montague, Enid
+AU  - Stiles-Shields, Colleen
+AU  - Kaiser, Susan
+AU  - Brenner, Christopher
+AU  - Carty-Fickes, Eric
+AU  - Palac, Hannah
+AU  - Duffecy, Jenna
+TI  - MedLink: A mobile intervention to address failure points in the treatment of depression in general medicine
+T2  - Proceedings of the 9th International Conference on Pervasive Computing Technologies for Healthcare
+PY  - 2015
+DA  - 2015
+PB  - ICST
+DO  - 10.4108/icst.pervasivehealth.2015.259042
+UR  - http://dx.doi.org/10.4108/icst.pervasivehealth.2015.259042
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+81.
+TY  - CPAPER
+AU  - Barrios, Joan Mercy D
+AU  - Tapalla, Aeroll P
+AU  - Diloy, Marlon A
+AU  - Lindio, Mike Allan
+TI  - A web-based enterprise and decision support system for a dental clinic in the Philippines
+T2  - TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON)
+PY  - 2022
+DA  - 2022/11/1
+PB  - IEEE
+DO  - 10.1109/tencon55691.2022.9977819
+UR  - http://dx.doi.org/10.1109/tencon55691.2022.9977819
+AD  - NU Laguna,Calamba City,Laguna,Philippines; National University,Manila,Philippines
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+82.
+TY  - CPAPER
+AU  - Ghandeharioun, Asma
+AU  - McDuff, Daniel
+AU  - Czerwinski, Mary
+AU  - Rowan, Kael
+TI  - EMMA: An Emotion-Aware Wellbeing Chatbot
+T2  - 2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII)
+PY  - 2019
+DA  - 2019/9
+PB  - IEEE
+DO  - 10.1109/acii.2019.8925455
+UR  - http://dx.doi.org/10.1109/acii.2019.8925455
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+83.
+TY  - CPAPER
+AU  - Karhiy, Mariam
+AU  - Sagar, Mark
+AU  - Antoni, Mike
+AU  - Loveys, Kate
+AU  - Broadbent, Elizabeth
+TI  - Mindfulness based stress reduction: A randomised trial of a virtual human, teletherapy, and a chatbot
+T2  - 2023 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)
+PY  - 2023
+DA  - 2023/9/10
+PB  - IEEE
+DO  - 10.1109/aciiw59127.2023.10388195
+UR  - http://dx.doi.org/10.1109/aciiw59127.2023.10388195
+AD  - The University of Auckland,Dept of Psychological Medicine,Auckland,New Zealand; Soul Machines Ltd Auckland Bionegineering Institute,Auckland,New Zealand; University of Miami,Department of Psychology,Miami,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+84.
+TY  - CPAPER
+AU  - Mburu, Stephen
+TI  - A predictive model for optimizing acceptance and use of mHealth interventions in low-resource settings: A case of Mamacare prototype
+T2  - 2017 IEEE AFRICON
+PY  - 2017
+DA  - 2017/9
+PB  - IEEE
+DO  - 10.1109/afrcon.2017.8095535
+UR  - http://dx.doi.org/10.1109/afrcon.2017.8095535
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+85.
+TY  - CPAPER
+AU  - Varshney, Upkar
+AU  - Bourgeois, Anu G
+AU  - Singh, Neetu
+AU  - Dube, Shanta R
+TI  - SCCORe: Smart continuity of care for opioid recovery
+T2  - 2022 Wireless Telecommunications Symposium (WTS)
+PY  - 2022
+DA  - 2022/4/6
+PB  - IEEE
+DO  - 10.1109/wts53620.2022.9768318
+UR  - http://dx.doi.org/10.1109/wts53620.2022.9768318
+AD  - Georgia State University,Department of CIS,Atlanta,GA,USA; Georgia State University,Department of Computer Science,Atlanta,GA,USA; University of Illinois at Springfield,Department of Management Information Systems,Springfield,IL,USA; Wingate University,Department of Public Health,Wingate,NC,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+86.
+TY  - CPAPER
+AU  - van Heerden, Leanri
+AU  - Swart, Arthur James
+TI  - Rapid-prototyping an instructional design intervention for online course development
+T2  - 2018 IEEE Conference on e-Learning, e-Management and e-Services (IC3e)
+PY  - 2018
+DA  - 2018/11
+PB  - IEEE
+DO  - 10.1109/ic3e.2018.8632647
+UR  - http://dx.doi.org/10.1109/ic3e.2018.8632647
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+87.
+TY  - CPAPER
+AU  - Bock, Beth
+AU  - Rosen, Rochelle
+AU  - Thind, Herpreet
+AU  - Barnett, Nancy
+AU  - Walaska, Kristen
+AU  - Cobb, Victoria
+TI  - Building an evidence base using qualitative data for mHealth development
+T2  - 2014 47th Hawaii International Conference on System Sciences
+PY  - 2014
+DA  - 2014/1
+PB  - IEEE
+DO  - 10.1109/hicss.2014.335
+UR  - http://dx.doi.org/10.1109/hicss.2014.335
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+88.
+TY  - CPAPER
+AU  - Dhamija, Svati
+AU  - Boult, Terrance E
+TI  - Exploring contextual engagement for trauma recovery
+T2  - 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+PY  - 2017
+DA  - 2017/7
+PB  - IEEE
+DO  - 10.1109/cvprw.2017.281
+UR  - http://dx.doi.org/10.1109/cvprw.2017.281
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+89.
+TY  - JOUR
+AU  - Asiri, Yousef A
+AU  - Millard, David E
+AU  - Weal, Mark J
+TI  - Assessing the impact of engagement and real-time feedback in a mobile behavior change intervention for supporting critical thinking in engineering research projects
+T2  - IEEE Trans. Learn. Technol.
+PY  - 2021
+DA  - 2021/8/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/tlt.2021.3104817
+UR  - http://dx.doi.org/10.1109/tlt.2021.3104817
+AD  - 
+VL  - 14
+IS  - 4
+SP  - 445-459
+AB  - 
+SN  - 1939-1382
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+90.
+TY  - CPAPER
+AU  - Achterkamp, R
+AU  - Cabrita, M
+AU  - op den Akker, H
+AU  - Hermens, H J
+AU  - Vollenbroek-Hutten, M M R
+TI  - Promoting a healthy lifestyle: Towards an improved personalized feedback approach
+T2  - 2013 IEEE 15th International Conference on e-Health Networking, Applications and Services (Healthcom 2013)
+PY  - 2013
+DA  - 2013/10
+PB  - IEEE
+DO  - 10.1109/healthcom.2013.6720772
+UR  - http://dx.doi.org/10.1109/healthcom.2013.6720772
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+91.
+TY  - CPAPER
+AU  - Kloker, Simon
+AU  - Riegel, Maximilian Luis
+AU  - Weinhardt, Christof
+TI  - Sensible or too sensitive? Do privacy concerns hinder the acceptance of digital solutions to treat smartphone addiction?
+T2  - 2020 IEEE 22nd Conference on Business Informatics (CBI)
+PY  - 2020
+DA  - 2020/6
+PB  - IEEE
+DO  - 10.1109/cbi49978.2020.10053
+UR  - http://dx.doi.org/10.1109/cbi49978.2020.10053
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+92.
+TY  - JOUR
+AU  - Loukas, Vasileios S
+AU  - Kassiotis, Thomas
+AU  - Martinez, Ignacio Lamata
+AU  - Koumakis, Lefteris
+AU  - Bruinsma, Jeroen
+AU  - Pasciuti, Roberto
+AU  - Balatresi, Monica
+AU  - Tenhunen, Ville
+AU  - Fiakkas, Adam
+AU  - Ataliani, Lelia
+AU  - Karanasiou, Georgia S
+AU  - Tsiknakis, Manolis
+AU  - Hilberger, Hannes
+AU  - Bodenler, Markus
+AU  - Schnalzer, Bianca
+AU  - Huber, Simone
+AU  - Pirani, Mattia
+AU  - Colombo, Matteo
+AU  - Hanke, Sten
+AU  - Fotiadis, Dimitrios I
+TI  - LETHE: A digital intervention for cognitive decline
+T2  - Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.
+PY  - 2023
+DA  - 2023/7
+PB  - 
+DO  - 10.1109/EMBC40787.2023.10340897
+UR  - http://dx.doi.org/10.1109/EMBC40787.2023.10340897
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/38083735
+AD  - 
+VL  - 2023
+IS  - 
+SP  - 1-4
+AB  - Dementia is the main cause of disability in elderly populations. It has been shown that the risk factors of dementia are a mixture of pathological, lifestyle and heritable factors, with some of those being provably modifiable. Early diagnosis of dementia and approaches to slow down its evolution are currently the most prominent management methodologies due to lack of a cure. For that reason, a plethora of home-based assistive technologies for dementia management do exist, with most of them focusing on the improvement of memory and thinking. The main objective of LETHE is prevention in the whole spectrum of cognitive decline in the elderly population at risk reaching from asymptomatic to subjective or mild cognitive impairment to prodromal Dementia. LETHE will provide a Big Data collection platform and analysis system, that will allow prevention, personalized risk detection and intervention on cognitive decline. Through the subsequent 2-year clinical trial, the LETHE system, as well as the respective knowledge gained will be evaluated and validated. The scope of the current paper is to introduce the LETHE study and its respective novel platform as a holistic approach to multidomain lifestyle intervention trial studies. The present work depicts the architectural perspective and extends beyond state-of-the-art guidelines and approaches to health management systems and cloud platform development.Clinical Relevance - Patient Management Systems as well as lifestyle management platforms have significant clinical relevance as they allow for remote and continuous monitoring of patients' health status. LETHE aims to improve patient outcomes by providing predictive models for cognitive decline and patient adherence to the multimodal lifestyle intervention, enabling prompt and appropriate medical decisions.
+SN  - 2375-7477
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+93.
+TY  - CPAPER
+AU  - Istepanian, Robert S H
+AU  - Mousa, Alaa
+AU  - Haddad, Nazar
+AU  - Sungoor, Ala
+AU  - Hammadan, Thamer
+AU  - Soran, Handrean
+AU  - Al-Anzi, Turki
+TI  - The potential of m-health systems for diabetes management in post conflict regions a case study from Iraq
+T2  - 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+PY  - 2014
+DA  - 2014/8
+PB  - IEEE
+DO  - 10.1109/embc.2014.6944414
+UR  - http://dx.doi.org/10.1109/embc.2014.6944414
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+94.
+TY  - CPAPER
+AU  - Soumya, M D
+AU  - Sugathan, Thushara
+TI  - Improve student placement using job competency modeling and personalized feedback
+T2  - 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)
+PY  - 2017
+DA  - 2017/9
+PB  - IEEE
+DO  - 10.1109/icacci.2017.8126097
+UR  - http://dx.doi.org/10.1109/icacci.2017.8126097
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+95.
+TY  - CPAPER
+AU  - Tiwari, Abhishek
+AU  - Villatte, Jennifer L
+AU  - Narayanan, Shrikanth
+AU  - Falk, Tiago H
+TI  - Prediction of Psychological Flexibility with multi-scale Heart Rate Variability and Breathing Features in an “in-the-wild” Setting
+T2  - 2019 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)
+PY  - 2019
+DA  - 2019/9
+PB  - IEEE
+DO  - 10.1109/aciiw.2019.8925281
+UR  - http://dx.doi.org/10.1109/aciiw.2019.8925281
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+96.
+TY  - CPAPER
+AU  - Idrees, Abdul Rahman
+AU  - Kraft, Robin
+AU  - Pryss, Rudiger
+AU  - Reichert, Manfred
+AU  - Nguyen, Tran
+AU  - Stenzel, Lena
+AU  - Baumeister, Harald
+TI  - Backend concept of the eSano eHealth platform for internet- and mobile-based interventions
+T2  - 2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)
+PY  - 2022
+DA  - 2022/10/10
+PB  - IEEE
+DO  - 10.1109/wimob55322.2022.9941520
+UR  - http://dx.doi.org/10.1109/wimob55322.2022.9941520
+AD  - Ulm University,Department of Clinical Psychology and Psychotherapy,Germany; Institute of Clinical Epidemiology and Biometry, University of Würzburg,Germany; Institute of Databases and Information Systems, Ulm University,Germany
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+97.
+TY  - JOUR
+AU  - Nguyen, Binh
+AU  - Torres, Andrei
+AU  - Rueda, Alice
+AU  - Sim, Walter
+AU  - Campbell, Douglas M
+AU  - Lou, Wendy
+AU  - Kapralos, Bill
+AU  - Beavers, Lindsay
+AU  - Dubrowski, Adam
+AU  - Bhat, Venkat
+AU  - Krishnan, Sridhar
+TI  - Digital interventions to reduce distress among frontline health care providers: Analysis of self-perceived stress
+T2  - Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.
+PY  - 2023
+DA  - 2023/7
+PB  - 
+DO  - 10.1109/EMBC40787.2023.10340958
+UR  - http://dx.doi.org/10.1109/EMBC40787.2023.10340958
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/38083372
+AD  - 
+VL  - 2023
+IS  - 
+SP  - 1-4
+AB  - Due to the constraints of the COVID-19 pandemic, healthcare workers have reported behaving in ways that are contrary to their values, which may result in distress and injury. This work is the first of its kind to evaluate the presence of stress in the COVID-19 VR Healthcare Simulation for Distress dataset. The dataset collected passive physiological signals and active mental health questionnaires. This paper focuses on correlating electrocardiogram, respiration, photoplethysmography, and galvanic skin response with the Perceived Stress Scale (PSS)-10 questionnaire. The analysis involved data-driven techniques for a robust evaluation of stress among participants. Low-complexity pre-processing and feature extraction techniques were applied and support vector machine and decision tree models were created to predict the PSS-10 scores of users. Imbalanced data classification techniques were used to further enhance our understanding of the results. Decision tree with oversampling through Synthetic Minority Oversampling Technique achieved an accuracy, precision, recall, and F1 of 93.50%, 93.41%, 93.31%, and 93.35%, respectively. Our findings offer novel results and clinically valuable insights for stress detection and potential for translation to edge computing applications to enhance privacy, longitudinal monitoring, and simplify device requirements.
+SN  - 2375-7477
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+98.
+TY  - CPAPER
+AU  - Alotaibi, M M
+AU  - Istepanian, R S H
+AU  - Sungoor, A
+AU  - Philip, N
+TI  - An intelligent mobile diabetes management and educational system for Saudi Arabia: System architecture
+T2  - IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)
+PY  - 2014
+DA  - 2014/6
+PB  - IEEE
+DO  - 10.1109/bhi.2014.6864296
+UR  - http://dx.doi.org/10.1109/bhi.2014.6864296
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+99.
+TY  - JOUR
+AU  - Bangamuarachchi, Wageesha
+AU  - Chamantha, Anju
+AU  - Meegahapola, Lakmal
+AU  - Ruiz-Correa, Salvador
+AU  - Perera, Indika
+AU  - Gatica-Perez, Daniel
+TI  - Sensing eating events in context: A smartphone-only approach
+T2  - IEEE Access
+PY  - 2022
+DA  - 2022
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2022.3179702
+UR  - http://dx.doi.org/10.1109/access.2022.3179702
+AD  - Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka; Social Computing Group, Idiap Research Institute, Martigny, Switzerland; Youth Innovation Laboratory, IPICYT, San Luis Potosí, Mexico
+VL  - 10
+IS  - 
+SP  - 61249-61264
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+100.
+TY  - JOUR
+AU  - Bassano, Chiara
+AU  - Chessa, Manuela
+AU  - Solari, Fabio
+TI  - Visualization and interaction technologies in serious and exergames for cognitive assessment and training: A survey on available solutions and their validation
+T2  - IEEE Access
+PY  - 2022
+DA  - 2022
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2022.3210562
+UR  - http://dx.doi.org/10.1109/access.2022.3210562
+AD  - Department of Informatics, Bioengineering, Robotics, and Systems Engineering, University of Genoa, Genoa, Italy
+VL  - 10
+IS  - 
+SP  - 104295-104312
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+101.
+TY  - CPAPER
+AU  - Wang, Yingxin
+AU  - Zhu, Junchao
+AU  - Zhu, Qingliang
+AU  - Zhang, Yongcheng
+TI  - Research on the state acquisition method of anti-seismic support and hanger
+T2  - 2021 IEEE International Conference on Mechatronics and Automation (ICMA)
+PY  - 2021
+DA  - 2021/8/8
+PB  - IEEE
+DO  - 10.1109/icma52036.2021.9512598
+UR  - http://dx.doi.org/10.1109/icma52036.2021.9512598
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+102.
+TY  - CPAPER
+AU  - Demasi,
+AU  - Aguilera,
+AU  - Recht,
+TI  - Detecting change in depressive symptoms from daily wellbeing questions, personality, and activity
+T2  - 2016 IEEE Wireless Health (WH)
+PY  - 2016
+DA  - 2016/10
+PB  - IEEE
+DO  - 10.1109/wh.2016.7764552
+UR  - http://dx.doi.org/10.1109/wh.2016.7764552
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+103.
+TY  - CPAPER
+AU  - Islam, Tanzima Z
+AU  - Wu Liang, Philip
+AU  - Sweeney, Forest
+AU  - Pragner, Cody
+AU  - Thiagarajan, Jayaraman J
+AU  - Sharmin, Moushumi
+AU  - Ahmed, Shameem
+TI  - College life is hard! - shedding light on stress prediction for autistic college students using data-driven analysis
+T2  - 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)
+PY  - 2021
+DA  - 2021/7
+PB  - IEEE
+DO  - 10.1109/compsac51774.2021.00066
+UR  - http://dx.doi.org/10.1109/compsac51774.2021.00066
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+104.
+TY  - JOUR
+AU  - Doherty, Kevin
+AU  - Baekgaard, Per
+AU  - Nielsen, Maria Haahr
+AU  - Jonsson, Alexandra Brandt Ryborg
+AU  - Reventlow, Susanne
+AU  - Bardram, Jakob E
+TI  - Unboxing the clinical health technology deployment
+T2  - IEEE Pervasive Comput.
+PY  - 2022
+DA  - 2022/10/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/mprv.2022.3197330
+UR  - http://dx.doi.org/10.1109/mprv.2022.3197330
+AD  - Technical University of Denmark, Lyngby, Denmark; University of Copenhagen, Kobenhavn, Denmark
+VL  - 21
+IS  - 4
+SP  - 64-73
+AB  - 
+SN  - 1536-1268
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+105.
+TY  - CPAPER
+AU  - Schwartz, R X
+AU  - Ramanan, Aparna
+AU  - Patel, Disha
+AU  - Lynch, Annabel
+AU  - Baee, Sonia
+AU  - Barnes, Laura
+TI  - DARA: Development of a chatbot support system for an anxiety reduction digital intervention
+T2  - 2022 Systems and Information Engineering Design Symposium (SIEDS)
+PY  - 2022
+DA  - 2022/4/28
+PB  - IEEE
+DO  - 10.1109/sieds55548.2022.9799419
+UR  - http://dx.doi.org/10.1109/sieds55548.2022.9799419
+AD  - University of Virginia,Department of Engineering Systems and Environment,Charlottesville,Virginia,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+106.
+TY  - CPAPER
+AU  - Haverkamp, F
+AU  - Mohamad, Y
+TI  - Promotion of impaired executive functions and impulse control in various chronic health conditions using serious games
+T2  - 2016 1st International Conference on Technology and Innovation in Sports, Health and Wellbeing (TISHW)
+PY  - 2016
+DA  - 2016/12
+PB  - IEEE
+DO  - 10.1109/tishw.2016.7847772
+UR  - http://dx.doi.org/10.1109/tishw.2016.7847772
+AD  - Protestant University of Applied Science Bochum, Bochum, Bonn Germany; Fraunhofer Institute for Applied Information Technology (FIT), St. Augustin Germany
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+107.
+TY  - CPAPER
+AU  - Wang, Jingyun
+AU  - Ho, Hong-Fa
+AU  - Ono, Yuichi
+TI  - Enhancing personalized feedback system by visual biometric data analysis
+T2  - 2016 5th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI)
+PY  - 2016
+DA  - 2016/7
+PB  - IEEE
+DO  - 10.1109/iiai-aai.2016.231
+UR  - http://dx.doi.org/10.1109/iiai-aai.2016.231
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+108.
+TY  - CPAPER
+AU  - Ikram, W
+AU  - Thornhill, N F
+TI  - Wireless communication in process automation: a survey of opportunities, requirements, concerns and challenges
+T2  - UKACC International Conference on CONTROL 2010
+PY  - 2010
+DA  - 2010
+PB  - Institution of Engineering and Technology
+DO  - 10.1049/ic.2010.0328
+UR  - http://dx.doi.org/10.1049/ic.2010.0328
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - The advancements in wireless networking technology, specifically in the short-range wireless networking technology, offer an enormous opportunity for wireless connectivity of field devices both in oil and gas and other chemical processing plants. The prerequisite of a field network includes real-time support for mixed traffic, availability, security, reliability and scalability in a harsh industrial environment. These conditions have to be fulfilled by any wireless network in order to operate. This paper presents a brief overview of the requirements for wireless in process automation, relative standings of existing short-range wireless network technologies based on the outlined criteria, and associated shortcomings. Furthermore, an examination of emerging industrial wireless standards which are designed to address the unique and stringent requirements of the process industry, is presented.
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+109.
+TY  - JOUR
+AU  - Lozano, Santiago
+AU  - Lugo, Tamara
+AU  - Carretero, Jesús
+TI  - A comprehensive survey on the use of hypervisors in safety-critical systems
+T2  - IEEE Access
+PY  - 2023
+DA  - 2023
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2023.3264825
+UR  - http://dx.doi.org/10.1109/access.2023.3264825
+AD  - Computer Science and Engineering Department, University Carlos III of Madrid, Leganés, Spain
+VL  - 11
+IS  - 
+SP  - 36244-36263
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+110.
+TY  - CPAPER
+AU  - Mamun, Abdullah
+AU  - Leonard, Krista S
+AU  - Buman, Matthew P
+AU  - Ghasemzadeh, Hassan
+TI  - Multimodal time-series activity forecasting for adaptive lifestyle intervention design
+T2  - 2022 IEEE-EMBS International Conference on Wearable and Implantable Body Sensor Networks (BSN)
+PY  - 2022
+DA  - 2022/9/27
+PB  - IEEE
+DO  - 10.1109/bsn56160.2022.9928521
+UR  - http://dx.doi.org/10.1109/bsn56160.2022.9928521
+AD  - Arizona State University,College of Health Solutions,Phoenix,AZ,USA,85054
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+111.
+TY  - CPAPER
+AU  - Demers, Marika
+AU  - Kong, Daniel Chan Chun
+AU  - Levin, Mindy F
+TI  - Acceptability of using a Kinect-based virtual reality intervention to remediate arm motor impairments in subacute stroke
+T2  - 2017 International Conference on Virtual Rehabilitation (ICVR)
+PY  - 2017
+DA  - 2017/6
+PB  - IEEE
+DO  - 10.1109/icvr.2017.8007496
+UR  - http://dx.doi.org/10.1109/icvr.2017.8007496
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+112.
+TY  - CPAPER
+AU  - de Jesus, Cindy G
+AU  - Ledda, Mark Kristian C
+TI  - Intervention support program for students at risk of dropping out using fuzzy logic-based prescriptive analytics
+T2  - 2021 IEEE 17th International Colloquium on Signal Processing & Its Applications (CSPA)
+PY  - 2021
+DA  - 2021/3/5
+PB  - IEEE
+DO  - 10.1109/cspa52141.2021.9377304
+UR  - http://dx.doi.org/10.1109/cspa52141.2021.9377304
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+113.
+TY  - CPAPER
+AU  - Kaur, Shubpreet
+AU  - Nishi, Nishi
+AU  - Kaur, Yashandeep
+AU  - Thakur, Shivangi
+TI  - Artificial intelligence framework for identifying the population addicted to drugs: Markov decision process
+T2  - 2021 2nd International Conference on Computational Methods in Science & Technology (ICCMST)
+PY  - 2021
+DA  - 2021/12
+PB  - IEEE
+DO  - 10.1109/iccmst54943.2021.00058
+UR  - http://dx.doi.org/10.1109/iccmst54943.2021.00058
+AD  - Chandigarh Group of College,CSE Dept,Mohali
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+114.
+TY  - JOUR
+AU  - Hesham, Salma
+AU  - Rettkowski, Jens
+AU  - Goehringer, Diana
+AU  - Abd El Ghany, Mohamed A
+TI  - Survey on real-time networks-on-chip
+T2  - IEEE Trans. Parallel Distrib. Syst.
+PY  - 2017
+DA  - 2017/5/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/tpds.2016.2623619
+UR  - http://dx.doi.org/10.1109/tpds.2016.2623619
+AD  - 
+VL  - 28
+IS  - 5
+SP  - 1500-1517
+AB  - 
+SN  - 1045-9219
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+115.
+TY  - JOUR
+AU  - Nousias, Stavros
+AU  - Lalos, Aris S
+AU  - Arvanitis, Gerasimos
+AU  - Moustakas, Konstantinos
+AU  - Tsirelis, Triantafillos
+AU  - Kikidis, Dimitrios
+AU  - Votis, Konstantinos
+AU  - Tzovaras, Dimitrios
+TI  - An mHealth system for monitoring medication adherence in obstructive respiratory diseases using content based audio classification
+T2  - IEEE Access
+PY  - 2018
+DA  - 2018
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2018.2809611
+UR  - http://dx.doi.org/10.1109/access.2018.2809611
+AD  - 
+VL  - 6
+IS  - 
+SP  - 11871-11882
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+116.
+TY  - CPAPER
+AU  - Shabut, Antesar M
+AU  - Lwin, K T
+AU  - Hossain, M A
+TI  - Cyber attacks, countermeasures, and protection schemes — A state of the art survey
+T2  - 2016 10th International Conference on Software, Knowledge, Information Management & Applications (SKIMA)
+PY  - 2016
+DA  - 2016
+PB  - IEEE
+DO  - 10.1109/skima.2016.7916194
+UR  - http://dx.doi.org/10.1109/skima.2016.7916194
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+117.
+TY  - CPAPER
+AU  - Amresh, Ashish
+AU  - Salla, Rahul
+AU  - Sinha, Madhumita
+AU  - Birr, Rebecca
+TI  - Design, implementation and evaluation of a game-based intervention targeting Latino children for improving obesity outcomes
+T2  - 2016 IEEE International Conference on Serious Games and Applications for Health (SeGAH)
+PY  - 2016
+DA  - 2016/5
+PB  - IEEE
+DO  - 10.1109/segah.2016.7586280
+UR  - http://dx.doi.org/10.1109/segah.2016.7586280
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+118.
+TY  - CPAPER
+AU  - Dalziel, Bronwen
+TI  - A multidimensional approach to adopting iPads in medical education
+T2  - 2013 IEEE 63rd Annual Conference International Council for Education Media (ICEM)
+PY  - 2013
+DA  - 2013/10
+PB  - IEEE
+DO  - 10.1109/cicem.2013.6820201
+UR  - http://dx.doi.org/10.1109/cicem.2013.6820201
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+119.
+TY  - CPAPER
+AU  - Arney, David
+AU  - Zhang, Yi
+AU  - Goldman, Julian M
+AU  - Dumas, Barbara
+TI  - Implementing real-time clinical decision support applications on OpenICE: A case study using the national early warning system algorithm
+T2  - 2019 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+PY  - 2019
+DA  - 2019/9
+PB  - IEEE
+DO  - 10.1109/chase48038.2019.00021
+UR  - http://dx.doi.org/10.1109/chase48038.2019.00021
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+120.
+TY  - CPAPER
+AU  - Yaqoob, Adeel
+AU  - Ashraf, Muhammad Adeel
+AU  - Ferooz, Faria
+AU  - Butt, Ahmad Hassan
+AU  - Daanial Khan, Yaser
+TI  - WSN operating systems for internet of things(IoT): A survey
+T2  - 2019 International Conference on Innovative Computing (ICIC)
+PY  - 2019
+DA  - 2019/11
+PB  - IEEE
+DO  - 10.1109/icic48496.2019.8966731
+UR  - http://dx.doi.org/10.1109/icic48496.2019.8966731
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+121.
+TY  - CPAPER
+AU  - Huang, Yang
+AU  - Zisook, D
+AU  - Chen, Yunan
+AU  - Selter, M
+AU  - Minardi, P
+AU  - Mattison, J
+TI  - Lessons learned in improving the adoption of a real-time NLP decision support system
+T2  - 2011 IEEE International Conference on Bioinformatics and Biomedicine Workshops (BIBMW)
+PY  - 2011
+DA  - 2011/11
+PB  - IEEE
+DO  - 10.1109/bibmw.2011.6112446
+UR  - http://dx.doi.org/10.1109/bibmw.2011.6112446
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+122.
+TY  - JOUR
+AU  - Pasluosta, Cristian F
+AU  - Gassner, Heiko
+AU  - Winkler, Juergen
+AU  - Klucken, Jochen
+AU  - Eskofier, Bjoern M
+TI  - An emerging era in the management of Parkinson's disease: Wearable technologies and the Internet of Things
+T2  - IEEE J. Biomed. Health Inform.
+PY  - 2015
+DA  - 2015/11
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/JBHI.2015.2461555
+UR  - http://dx.doi.org/10.1109/JBHI.2015.2461555
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26241979
+AD  - 
+VL  - 19
+IS  - 6
+SP  - 1873-1881
+AB  - Current challenges demand a profound restructuration of the global healthcare system. A more efficient system is required to cope with the growing world population and increased life expectancy, which is associated with a marked prevalence of chronic neurological disorders such as Parkinson's disease (PD). One possible approach to meet this demand is a laterally distributed platform such as the Internet of Things (IoT). Real-time motion metrics in PD could be obtained virtually in any scenario by placing lightweight wearable sensors in the patient's clothes and connecting them to a medical database through mobile devices such as cell phones or tablets. Technologies exist to collect huge amounts of patient data not only during regular medical visits but also at home during activities of daily life. These data could be fed into intelligent algorithms to first discriminate relevant threatening conditions, adjust medications based on online obtained physical deficits, and facilitate strategies to modify disease progression. A major impact of this approach lies in its efficiency, by maximizing resources and drastically improving the patient experience. The patient participates actively in disease management via combined objective device- and self-assessment and by sharing information within both medical and peer groups. Here, we review and discuss the existing wearable technologies and the Internet-of-Things concept applied to PD, with an emphasis on how this technological platform may lead to a shift in paradigm in terms of diagnostics and treatment.
+SN  - 2168-2194
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+123.
+TY  - CPAPER
+AU  - Rezk, Eman
+AU  - Foufou, Sebti
+TI  - A survey of semantic web concepts applied in web services and big data
+T2  - 2014 IEEE/ACS 11th International Conference on Computer Systems and Applications (AICCSA)
+PY  - 2014
+DA  - 2014/11
+PB  - IEEE
+DO  - 10.1109/aiccsa.2014.7073278
+UR  - http://dx.doi.org/10.1109/aiccsa.2014.7073278
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+124.
+TY  - CPAPER
+AU  - Abu-Faraj, Ziad O
+AU  - Barakat, Shadi S
+AU  - Chaleby, Mace H
+AU  - Zaklit, Jean D
+TI  - A SIM card-based ubiquitous medical record bracelet/pendant system — A pilot study
+T2  - 2011 4th International Conference on Biomedical Engineering and Informatics (BMEI)
+PY  - 2011
+DA  - 2011/10
+PB  - IEEE
+DO  - 10.1109/bmei.2011.6098724
+UR  - http://dx.doi.org/10.1109/bmei.2011.6098724
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+125.
+TY  - CPAPER
+AU  - Oyebode, Oladapo
+AU  - Orji, Rita
+TI  - MediNER: Understanding diabetes management strategies based on social media discourse
+T2  - 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+PY  - 2021
+DA  - 2021/9
+PB  - IEEE
+DO  - 10.1109/ispa-bdcloud-socialcom-sustaincom52081.2021.00208
+UR  - http://dx.doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom52081.2021.00208
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+126.
+TY  - CPAPER
+AU  - Noor, Siti Fadzilah Mat
+AU  - Wook, Tengku Siti Meriam Tengku
+AU  - Elias, Nur Fazidah
+AU  - Mohamed, Hazura
+AU  - Hussain, Nor Hidayah
+AU  - Ismail, Wan Salwina Wan
+AU  - Thiagarajan, Anuradha
+AU  - Ibrahim, Norhayati
+AU  - Fabil, Norasikin
+TI  - Designing a mindful computerized therapy module to reduce depression
+T2  - 2023 International Conference on Electrical Engineering and Informatics (ICEEI)
+PY  - 2023
+DA  - 2023/10/10
+PB  - IEEE
+DO  - 10.1109/iceei59426.2023.10346652
+UR  - http://dx.doi.org/10.1109/iceei59426.2023.10346652
+AD  - Universiti Kebangsaan Malaysia,Faculty of Information Science and Technology,Selangor,Malaysia; Universiti Kebangsaan Malaysia,Faculty of Medicine,Department of Psychiatry,Kuala Lumpur,Malaysia; Ministry of Health of Malaysia,Penang,Malaysia; Centre for Healthy Aging and Wellness (H-Care),Faculty of Health Sciences,Selangor,Malaysia; Universiti Sains Islam Malaysia,Faculty of Science and Technology,Nilai,Malaysia
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+127.
+TY  - CPAPER
+AU  - Wu, Jiayan
+AU  - Khalid, Md Saifuddin
+TI  - Integrating personality and learning profiles of students in formative course evaluation system for gaining insights on diversity and improving learner experience analytics dashboard
+T2  - 2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+PY  - 2024
+DA  - 2024/3/8
+PB  - IEEE
+DO  - 10.1109/icaccess61735.2024.10499505
+UR  - http://dx.doi.org/10.1109/icaccess61735.2024.10499505
+AD  - Technical University of Denmark,Department of Computer Science,Copenhagen,Denmark
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+128.
+TY  - CPAPER
+AU  - Robinson, Nicole L
+AU  - Connolly, Jennifer
+AU  - Suddery, Gavin
+AU  - Turner, Madeliene
+AU  - Kavanagh, David J
+TI  - A humanoid social robot to provide personalized feedback for health promotion in diet, physical activity, alcohol and cigarette use: A health clinic trial
+T2  - 2021 30th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)
+PY  - 2021
+DA  - 2021/8/8
+PB  - IEEE
+DO  - 10.1109/ro-man50785.2021.9515558
+UR  - http://dx.doi.org/10.1109/ro-man50785.2021.9515558
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+129.
+TY  - CPAPER
+AU  - Yao, Jianchu
+AU  - Weaver, Elizabeth M B
+AU  - Langley, Brandon D
+AU  - George, Stephanie M
+AU  - Hardin, Sonya R
+TI  - Monitoring peripheral edema of heart failure patients at home: Device, algorithm, and clinic study
+T2  - 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+PY  - 2017
+DA  - 2017/7
+PB  - IEEE
+DO  - 10.1109/embc.2017.8037751
+UR  - http://dx.doi.org/10.1109/embc.2017.8037751
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+130.
+TY  - CPAPER
+AU  - Cabrera-Solano, Paola
+AU  - Castillo-Cuesta, Luz
+AU  - Jaramillo, Alex
+TI  - Use of audiogames as a strategic tool for teaching English as a Foreign Language skills in Ecuadorian higher education
+T2  - 2020 XV Conferencia Latinoamericana de Tecnologias de Aprendizaje (LACLO)
+PY  - 2020
+DA  - 2020/10/19
+PB  - IEEE
+DO  - 10.1109/laclo50806.2020.9381160
+UR  - http://dx.doi.org/10.1109/laclo50806.2020.9381160
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+131.
+TY  - CPAPER
+AU  - L Mudannayake, M A D A
+AU  - Weerasinghe, T A
+TI  - Effectiveness of an online learning intervention to develop psychosocial competencies
+T2  - 2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer)
+PY  - 2018
+DA  - 2018/9
+PB  - IEEE
+DO  - 10.1109/icter.2018.8615582
+UR  - http://dx.doi.org/10.1109/icter.2018.8615582
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+132.
+TY  - CPAPER
+AU  - Yan, Hengbin
+AU  - Li, Yinghui
+TI  - A blended learning approach to EFL pronunciation training
+T2  - 2019 International Symposium on Educational Technology (ISET)
+PY  - 2019
+DA  - 2019/7
+PB  - IEEE
+DO  - 10.1109/iset.2019.00030
+UR  - http://dx.doi.org/10.1109/iset.2019.00030
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+133.
+TY  - JOUR
+AU  - Divyashree,
+AU  - Prasad, Nandini
+TI  - Design and development of we-CDSS using Django framework: Conducing predictive and prescriptive analytics for coronary artery disease
+T2  - IEEE Access
+PY  - 2022
+DA  - 2022
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2022.3220899
+UR  - http://dx.doi.org/10.1109/access.2022.3220899
+AD  - Dr. Ambedkar Institute of Technology, Bengaluru, Karnataka, India
+VL  - 10
+IS  - 
+SP  - 119575-119592
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+134.
+TY  - CPAPER
+AU  - Kanellos, Tassos
+AU  - Doulgerakis, Adam
+AU  - Georgiou, Eftichia
+AU  - Bessa, Maria
+AU  - Thomopoulos, Stelios C A
+AU  - Vatakis, Argiro
+AU  - del Val-Guardiola, Andrea
+AU  - Navarra, Jordi
+TI  - User experience evaluation of the REEFOCUS ADHD management gaming system
+T2  - 2019 4th International Conference on Smart and Sustainable Technologies (SpliTech)
+PY  - 2019
+DA  - 2019/6
+PB  - IEEE
+DO  - 10.23919/splitech.2019.8783141
+UR  - http://dx.doi.org/10.23919/splitech.2019.8783141
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+135.
+TY  - CPAPER
+AU  - Tamburis, Oscar
+AU  - Magliulo, Mario
+AU  - Tramontano, Adriano
+AU  - Perillo, Giulio
+AU  - Benis, Arriel
+AU  - Calabrò, Serena
+TI  - Precision Grazing: when Agriculture, Livestock and Technology unite
+T2  - 2023 IEEE International Conference on Big Data (BigData)
+PY  - 2023
+DA  - 2023/12/15
+PB  - IEEE
+DO  - 10.1109/bigdata59044.2023.10386768
+UR  - http://dx.doi.org/10.1109/bigdata59044.2023.10386768
+AD  - Institute of Biostructures and Bioimaging,National Research Council,Naples,Italy; Holon Institute of Technologies,Dept. of Digital Medical Technologies,Holon,Israel; Federico II University,Dept. of Veterinary Medicine and Animal Production,Naples,Italy
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+136.
+TY  - CPAPER
+AU  - Song, Chunmei
+TI  - Practical teaching of business English specialty base on the ternary crossing theory perspective in the context of big data
+T2  - 2020 12th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA)
+PY  - 2020
+DA  - 2020/2
+PB  - IEEE
+DO  - 10.1109/icmtma50254.2020.00196
+UR  - http://dx.doi.org/10.1109/icmtma50254.2020.00196
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+137.
+TY  - CPAPER
+AU  - Xu, Xin
+AU  - Li, Funian
+AU  - Yu, Xingsheng
+AU  - Yan, Junfeng
+AU  - Chen, Zhidan
+TI  - Research and application of anomaly detection of bridge data based on improved transformer
+T2  - 2023 35th Chinese Control and Decision Conference (CCDC)
+PY  - 2023
+DA  - 2023/5/20
+PB  - IEEE
+DO  - 10.1109/ccdc58219.2023.10326925
+UR  - http://dx.doi.org/10.1109/ccdc58219.2023.10326925
+AD  - Wuhan University of Science and Technology,College of Information Science and Engineering,Wuhan,China,433081; China Railway Fourth Institute Survey and Design Institute Group Co., Ltd.,Wuhan,China,433081; Huazhong University of Science and Technology,Wuhan,China,433074
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+138.
+TY  - JOUR
+AU  - Demaidi, Mona Nabil
+AU  - Gaber, Mohamed Medhat
+AU  - Filer, Nick
+TI  - OntoPeFeGe: Ontology-based personalized feedback generator
+T2  - IEEE Access
+PY  - 2018
+DA  - 2018
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2018.2846398
+UR  - http://dx.doi.org/10.1109/access.2018.2846398
+AD  - 
+VL  - 6
+IS  - 
+SP  - 31644-31664
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+139.
+TY  - CPAPER
+AU  - Martin, Cesar A
+AU  - Rivera, Daniel E
+AU  - Hekler, Eric B
+TI  - A decision framework for an adaptive behavioral intervention for physical activity using hybrid model predictive control
+T2  - 2016 American Control Conference (ACC)
+PY  - 2016
+DA  - 2016/7
+PB  - IEEE
+DO  - 10.1109/acc.2016.7525468
+UR  - http://dx.doi.org/10.1109/acc.2016.7525468
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+140.
+TY  - JOUR
+AU  - McGinnis, Ryan S
+AU  - McGinnis, Ellen W
+AU  - Petrillo, Christopher
+AU  - Ferri, Jonathan
+AU  - Scism, Jordyn
+AU  - Price, Matthew
+TI  - Validation of smartphone based heart rate tracking for remote treatment of panic attacks
+T2  - IEEE J. Biomed. Health Inform.
+PY  - 2021
+DA  - 2021/3
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/JBHI.2020.3001573
+UR  - http://dx.doi.org/10.1109/JBHI.2020.3001573
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32750933
+AD  - 
+VL  - 25
+IS  - 3
+SP  - 656-662
+AB  - Panic attacks are an impairing mental health problem that affects 11% of adults every year [1]. Those who suffer from panic attacks often do not seek psychological treatment, citing the inability to receive care during their attacks as a contributing factor. A digital medicine solution which provides an accessible, real-time mobile health (mHealth) biofeedback intervention for panic attacks may address this problem. Critical to this approach are methods for capturing physiological arousal during an attack. Herein, we validate an algorithm for capturing physiological arousal using smartphone video of the fingertip. Results demonstrate that the algorithm is able to estimate heart rates that are highly correlated with ECG-derived values (r > 0.99), effectively reject low-quality data often captured outside of controlled laboratory environments (AUC > 0.90), and resolve the physiological arousal experienced during a panic attack. Moreover, patient reported measures indicate that this measurement modality is feasible during panic attacks, and the act of taking the measurement may stop the attack. These results point toward the need for future development and clinical evaluation of this mHealth intervention for preventing panic attacks.
+SN  - 2168-2194
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+141.
+TY  - CPAPER
+AU  - Chomutare, T
+AU  - Arsand, E
+AU  - Hartvigsen, G
+TI  - Temporal community structure patterns in diabetes social networks
+T2  - 2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+PY  - 2012
+DA  - 2012/8
+PB  - IEEE
+DO  - 10.1109/asonam.2012.137
+UR  - http://dx.doi.org/10.1109/asonam.2012.137
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+142.
+TY  - CPAPER
+AU  - Martin, Cesar A
+AU  - Rivera, Daniel E
+AU  - Hekler, Eric B
+TI  - A control engineering approach for optimizing physical activity behavioral interventions
+T2  - 2016 IEEE Ecuador Technical Chapters Meeting (ETCM)
+PY  - 2016
+DA  - 2016/10
+PB  - IEEE
+DO  - 10.1109/etcm.2016.7750851
+UR  - http://dx.doi.org/10.1109/etcm.2016.7750851
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+143.
+TY  - CPAPER
+AU  - Ndayizigamiye, Patrick
+AU  - Matlala, Sogo France
+TI  - A design of a mobile health system to address teenage pregnancy in south African hige schools
+T2  - 2018 IEEE Global Humanitarian Technology Conference (GHTC)
+PY  - 2018
+DA  - 2018/10
+PB  - IEEE
+DO  - 10.1109/ghtc.2018.8601877
+UR  - http://dx.doi.org/10.1109/ghtc.2018.8601877
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+144.
+TY  - CPAPER
+AU  - Feng, Huan
+TI  - Real-time language assistance in teaching academic English writing to graduate students based on language intelligence technology (ChatGPT)
+T2  - 2024 IEEE 7th Eurasian Conference on Educational Innovation (ECEI)
+PY  - 2024
+DA  - 2024/1/26
+PB  - IEEE
+DO  - 10.1109/ecei60433.2024.10510872
+UR  - http://dx.doi.org/10.1109/ecei60433.2024.10510872
+AD  - Harbin Normal University,School of Western Languages and Cultures,Harbin,China
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+145.
+TY  - CPAPER
+AU  - Albrant, Laura
+AU  - Pendse, Pradnya
+AU  - Brown, Laura E
+AU  - Sticklen, Jon
+AU  - Jarvie-Eggart, Michelle
+AU  - Ureel, Leo C
+TI  - Work-in-progress: Preliminary work introducing automated code critiques in first-year engineering MATLAB programming
+T2  - 2023 IEEE Frontiers in Education Conference (FIE)
+PY  - 2023
+DA  - 2023/10/18
+PB  - IEEE
+DO  - 10.1109/fie58773.2023.10343067
+UR  - http://dx.doi.org/10.1109/fie58773.2023.10343067
+AD  - Michigan Technological University,Dept. of Cognitive and Learning Sciences,Houghton,MI,USA; Michigan Technological University,Dept. of Computer Science,Houghton,MI,USA; Michigan Technological University,Department of Engineering Fundamentals,Houghton,MI,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+146.
+TY  - CPAPER
+AU  - Ranney, Megan L
+AU  - Thorsen, Margaret
+AU  - Patena, John V
+AU  - Cunningham, Rebecca M
+AU  - Boyer, Edward W
+AU  - Walton, Maureen A
+AU  - Spirito, Anthony
+AU  - Zatzick, Douglas F
+AU  - Morrow, Kathleen
+TI  - "you need to get them where they feel it": Conflicting perspectives on how to maximize the structure of text-message psychological interventions for adolescents
+T2  - 2015 48th Hawaii International Conference on System Sciences
+PY  - 2015
+DA  - 2015/1
+PB  - IEEE
+DO  - 10.1109/hicss.2015.391
+UR  - http://dx.doi.org/10.1109/hicss.2015.391
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+147.
+TY  - CPAPER
+AU  - Yang, Liang Hua
+AU  - Guo, Dan
+AU  - Yu, Bo
+AU  - Zhang, Di Fan
+TI  - Analysis of factors affecting patients’ intention to use online diagnosis and treatment
+T2  - 2023 2nd International Conference on Health Big Data and Intelligent Healthcare (ICHIH)
+PY  - 2023
+DA  - 2023/10/27
+PB  - IEEE
+DO  - 10.1109/ichih60370.2023.10396100
+UR  - http://dx.doi.org/10.1109/ichih60370.2023.10396100
+AD  - Yunnan University of Chinese Medicine,School of Humanities and Management,Kunming,China
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+148.
+TY  - CPAPER
+AU  - Stangaciu, Cristina S
+AU  - Micea, Mihai V
+AU  - Cretu, Vladimir I
+TI  - Energy efficiency in real-time systems: A brief overview
+T2  - 2013 IEEE 8th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+PY  - 2013
+DA  - 2013/5
+PB  - IEEE
+DO  - 10.1109/saci.2013.6608981
+UR  - http://dx.doi.org/10.1109/saci.2013.6608981
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+149.
+TY  - CPAPER
+AU  - Santos, Victon M R
+AU  - Lima, Thiago
+AU  - Alencar de Medeiros, Francisco Petronio
+AU  - Rodrigues, Nadja
+AU  - Lira, Heremita
+AU  - Silvano,
+TI  - An exploratory analysis on the perception of teachers regarding the monitoring of interactions and activities in the collaborative tools of virtual learning environments
+T2  - 2021 16th Iberian Conference on Information Systems and Technologies (CISTI)
+PY  - 2021
+DA  - 2021/6/23
+PB  - IEEE
+DO  - 10.23919/cisti52073.2021.9476387
+UR  - http://dx.doi.org/10.23919/cisti52073.2021.9476387
+AD  - Instituto Federal da Paraíba,Programa de Pós-Graduação em Tecnologia da Informação,João Pessoa,PB,Brasil,58015-435
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+150.
+TY  - CPAPER
+AU  - Lim, Tristan
+AU  - Gottipati, Swapna
+AU  - Cheong, Michelle
+AU  - Pang, Christopher
+AU  - Ng, Jun Wei
+TI  - Assessment design for digital education: An analytics-based authentic assessment approach
+T2  - 2022 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)
+PY  - 2022
+DA  - 2022/12
+PB  - IEEE
+DO  - 10.1109/tale54877.2022.00063
+UR  - http://dx.doi.org/10.1109/tale54877.2022.00063
+AD  - Nanyang Polytechnic,School of Business Management,Singapore; Singapore Management University,School of Computing & Information Systems,Singapore
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+151.
+TY  - CPAPER
+AU  - Smith, Kieran
+AU  - Endsley, Tristan
+AU  - Clark, Torin
+TI  - Physiological correlates of objective situation awareness measurements
+T2  - 2023 IEEE Aerospace Conference
+PY  - 2023
+DA  - 2023/3/4
+PB  - IEEE
+DO  - 10.1109/aero55745.2023.10115788
+UR  - http://dx.doi.org/10.1109/aero55745.2023.10115788
+AD  - University of Colorado Boulder,Boulder,CO,80303; The Charles Stark Draper Laboratory, Inc.,Cambridge,MA,02139
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+152.
+TY  - CPAPER
+AU  - Oyebode, Oladapo
+AU  - Alhasani, Mona
+AU  - Mulchandani, Dinesh
+AU  - Olagunju, Tolulope
+AU  - Orji, Rita
+TI  - SleepFit: A persuasive mobile app for improving sleep habits in young adults
+T2  - 2021 IEEE 9th International Conference on Serious Games and Applications for Health(SeGAH)
+PY  - 2021
+DA  - 2021/8/4
+PB  - IEEE
+DO  - 10.1109/segah52098.2021.9551907
+UR  - http://dx.doi.org/10.1109/segah52098.2021.9551907
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+153.
+TY  - CPAPER
+AU  - Joymangul, Jensen Selwyn
+AU  - Sekhari, Aicha
+AU  - Chatelet, Alain
+AU  - Moalla, Nejib
+AU  - Grasset, Olivier
+TI  - Obstructive Sleep Apnea compliance: verifications and validations of personalized interventions for PAP therapy
+T2  - 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+PY  - 2021
+DA  - 2021/11/1
+PB  - IEEE
+DO  - 10.1109/embc46164.2021.9629905
+UR  - http://dx.doi.org/10.1109/embc46164.2021.9629905
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+154.
+TY  - CPAPER
+AU  - Gu, Mose
+AU  - Jeong, Jaehoon Paul
+TI  - Comparison of KoBERT and BERT for emotion classification of healthcare text data
+T2  - 2023 14th International Conference on Information and Communication Technology Convergence (ICTC)
+PY  - 2023
+DA  - 2023/10/11
+PB  - IEEE
+DO  - 10.1109/ictc58733.2023.10393750
+UR  - http://dx.doi.org/10.1109/ictc58733.2023.10393750
+AD  - Sungkyunkwan University,Department of Computer Science and Engineering,Suwon,Republic of Korea
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+155.
+TY  - CPAPER
+AU  - Durán, Lersi Dayana
+AU  - Almeida, Ana Margarida
+AU  - Figueiredo-Braga, Margarida
+AU  - Lopes, Ana Cristina
+TI  - (uMind) Mobile application to support digital literacy interventions in mental health: Development and usability study
+T2  - 2023 18th Iberian Conference on Information Systems and Technologies (CISTI)
+PY  - 2023
+DA  - 2023/6/20
+PB  - IEEE
+DO  - 10.23919/cisti58278.2023.10211892
+UR  - http://dx.doi.org/10.23919/cisti58278.2023.10211892
+AD  - University of Aveiro/DigiMedia,Department of Communication and Art,Aveiro,Portugal; Porto University,School of Medicine,Department of Clinical Neurosciences and Mental Health,Porto,Portugal; Entre o Douro e Vouga Hospital Center,Santa Maria da Feira,Portugal
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+156.
+TY  - CPAPER
+AU  - Avramidis, Kleanthis
+AU  - Feng, Tiantian
+AU  - Bose, Digbalay
+AU  - Narayanan, Shrikanth
+TI  - Multimodal estimation of change points of physiological arousal during driving
+T2  - 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)
+PY  - 2023
+DA  - 2023/6/4
+PB  - IEEE
+DO  - 10.1109/icasspw59220.2023.10193718
+UR  - http://dx.doi.org/10.1109/icasspw59220.2023.10193718
+AD  - University of Southern California,Signal Analysis and Interpretation Lab,Los Angeles,CA,90089
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+157.
+TY  - CPAPER
+AU  - Pimento, Sasha Neil
+AU  - Agarwal, Hritvik
+AU  - Minor, Bryan
+AU  - Karia, Saumya
+AU  - Cook, Diane
+AU  - Schmitter-Edgecombe, Maureen
+AU  - Farias, Sarah Tomaszewski
+AU  - Lorabi, Rahma
+AU  - Weakley, Alyssa
+TI  - Interactive-wear: An intelligent watch application to aid memory for intentions and everyday functioning in older adults with cognitive impairments
+T2  - 2024 IEEE First International Conference on Artificial Intelligence for Medicine, Health and Care (AIMHC)
+PY  - 2024
+DA  - 2024/2/5
+PB  - IEEE
+DO  - 10.1109/aimhc59811.2024.00033
+UR  - http://dx.doi.org/10.1109/aimhc59811.2024.00033
+AD  - University Of California, Davis,Dept of Computer Science,Davis,USA; School of EECS, Washington State University,Pullman,USA; University of Texas, Dallas,Dept of System Engineering,Dallas,USA; Washington State University,Dept of Psychology,Pullman,USA; University Of California, Davis,Dept of Neurology,Davis,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+158.
+TY  - JOUR
+AU  - Bilal, Hafiz Syed Muhammad
+AU  - Amin, Muhammad Bilal
+AU  - Hussain, Jamil
+AU  - Ali, Syed Imran
+AU  - Razzaq, Muhammad Asif
+AU  - Hussain, Musarrat
+AU  - Turi, Asim Abbas
+AU  - Park, Gwang Hoon
+AU  - Kang, Sun Moo
+AU  - Lee, Sungyoung
+TI  - Towards user-centric intervention adaptiveness: Influencing behavior-context based healthy lifestyle interventions
+T2  - IEEE Access
+PY  - 2020
+DA  - 2020
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2020.3026688
+UR  - http://dx.doi.org/10.1109/access.2020.3026688
+AD  - Department of Computer Science and Engineering, Kyung Hee University, Yongin, South Korea; Department of ICT, University of Tasmania, Hobart, TAS, Australia
+VL  - 8
+IS  - 
+SP  - 177156-177179
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+159.
+TY  - CPAPER
+AU  - Gaikwad, Tanvi
+AU  - Kulkarni, Ambarish
+TI  - Smart training framework and assessment strategies
+T2  - 2023 IEEE Engineering Informatics
+PY  - 2023
+DA  - 2023/11/22
+PB  - IEEE
+DO  - 10.1109/ieeeconf58110.2023.10520594
+UR  - http://dx.doi.org/10.1109/ieeeconf58110.2023.10520594
+AD  - School of Engineering Swinburne University of Technology,Melbourne,Australia
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+160.
+TY  - CPAPER
+AU  - Martinez, C
+AU  - Booij, T B N
+AU  - Serra, R
+AU  - Vertegaal, C J C
+AU  - Bentum, M J
+AU  - Sundaramoorthy, P
+AU  - Bounik, Z
+TI  - Early warning system with formative feedback to support engineering students in electromagnetism
+T2  - 2023 32nd Annual Conference of the European Association for Education in Electrical and Information Engineering (EAEEIE)
+PY  - 2023
+DA  - 2023/6/14
+PB  - IEEE
+DO  - 10.23919/eaeeie55804.2023.10181601
+UR  - http://dx.doi.org/10.23919/eaeeie55804.2023.10181601
+AD  - National University of Córdoba CONICET,Córdoba,Argentina; Eindhoven University of Technology,Department of Electrical Engineering,Eindhoven,The Netherlands
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+161.
+TY  - CPAPER
+AU  - Chatterjee, Ayan
+AU  - Pahari, Nibedita
+AU  - Gerdes, Martin
+AU  - Bajpai, Ram
+TI  - Analyze the effect of healthy behavior on weight change and its conceptual use in digital behavioral intervention
+T2  - 2022 IEEE International Conference on E-health Networking, Application & Services (HealthCom)
+PY  - 2022
+DA  - 2022/10/17
+PB  - IEEE
+DO  - 10.1109/healthcom54947.2022.9982785
+UR  - http://dx.doi.org/10.1109/healthcom54947.2022.9982785
+AD  - University of Agder,Center for eHealth,Department of Information and Communication Technologies,Grimstad,Norway; IT Enabled Services Center for Software Development,Knowit As Grimstad,Department of Information Technology,Norway; Keele University,School of Medicine,Keele,United Kingdom
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+162.
+TY  - CPAPER
+AU  - Li, Xiaoxuan
+AU  - Ren, Xiangshi
+AU  - Suzuki, Xin
+AU  - Yamaji, Naoaki
+AU  - Fung, Johnny
+AU  - Gondo, Yasuyuki
+TI  - The acceptability of a multisensory VR game for older adults
+T2  - 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+PY  - 2023
+DA  - 2023/10/16
+PB  - IEEE
+DO  - 10.1109/ismar-adjunct60411.2023.00152
+UR  - http://dx.doi.org/10.1109/ismar-adjunct60411.2023.00152
+AD  - Osaka University; Kochi University of Technology; GONENGO LLC
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+163.
+TY  - JOUR
+AU  - Lim, Jong
+AU  - Zhan, Andong
+AU  - Ko, Jeonggil
+AU  - Terzis, Andreas
+AU  - Szanton, Sarah
+AU  - Gitlin, Laura
+TI  - A closed-loop approach for improving the wellness of low-income elders at home using game consoles
+T2  - IEEE Commun. Mag.
+PY  - 2012
+DA  - 2012/1
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/mcom.2012.6122531
+UR  - http://dx.doi.org/10.1109/mcom.2012.6122531
+AD  - 
+VL  - 50
+IS  - 1
+SP  - 44-51
+AB  - 
+SN  - 0163-6804
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+164.
+TY  - CPAPER
+AU  - Kessler, Daniel T
+AU  - Kim, David Y J
+AU  - Ahn, Grace S
+AU  - Elhaouij, Neska
+AU  - Picard, Rosalind
+TI  - Assessing affective engagement with narratives of invisible disability
+T2  - 2023 11th International Conference on Affective Computing and Intelligent Interaction (ACII)
+PY  - 2023
+DA  - 2023/9/10
+PB  - IEEE
+DO  - 10.1109/acii59096.2023.10388159
+UR  - http://dx.doi.org/10.1109/acii59096.2023.10388159
+AD  - Massachusetts Institute of Technology,MIT Center for Constructive Communication,Cambridge,USA; Massachusetts Institute of Technology,Electrical Engineering and Computer Science,Cambridge,USA; Massachusetts Institute of Technology,MIT System Design and Management,Cambridge,USA; Massachusetts Institute of Technology,Affective Computing Group,Cambridge,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+165.
+TY  - CPAPER
+AU  - Fernandez-Luque, L
+AU  - Karlsen, R
+AU  - Krogstad, T
+AU  - Burkow, T M
+AU  - Vognild, L K
+TI  - Personalized health applications in the Web 2.0: The emergence of a new approach
+T2  - 2010 Annual International Conference of the IEEE Engineering in Medicine and Biology
+PY  - 2010
+DA  - 2010/8
+PB  - IEEE
+DO  - 10.1109/iembs.2010.5628087
+UR  - http://dx.doi.org/10.1109/iembs.2010.5628087
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+166.
+TY  - CPAPER
+AU  - Andrade, Raul
+AU  - Brunet, Joao
+TI  - Can students help themselves? An investigation of students’ feedback on the quality of the source code
+T2  - 2018 IEEE Frontiers in Education Conference (FIE)
+PY  - 2018
+DA  - 2018/10
+PB  - IEEE
+DO  - 10.1109/fie.2018.8658503
+UR  - http://dx.doi.org/10.1109/fie.2018.8658503
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+167.
+TY  - JOUR
+AU  - Merikko, Joonas
+AU  - Ng, Kwok
+AU  - Saqr, Mohammed
+AU  - Ihantola, Petri
+TI  - To opt in or to opt out? Predicting student preference for learning analytics-based formative feedback
+T2  - IEEE Access
+PY  - 2022
+DA  - 2022
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/access.2022.3207274
+UR  - http://dx.doi.org/10.1109/access.2022.3207274
+AD  - Department of Education, Faculty of Educational Sciences, University of Helsinki, Helsinki, Finland; Philosophical Faculty, School of Educational Sciences and Psychology, University of Eastern Finland, Joensuu, Finland; Faculty of Science and Forestry, School of Computing, University of Eastern Finland, Joensuu, Finland
+VL  - 10
+IS  - 
+SP  - 99195-99204
+AB  - 
+SN  - 2169-3536
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+168.
+TY  - JOUR
+AU  - Ruyobeza, Barimwotubiri Billy
+AU  - Grobbelaar, Sara S Saartjie
+AU  - Botha, Adele
+TI  - Towards a framework for interweaving adoption and scaling requirements into healthcare system development and project management processes
+T2  - IEEE Eng. Manag. Rev.
+PY  - 2024
+DA  - 2024
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/emr.2024.3412795
+UR  - http://dx.doi.org/10.1109/emr.2024.3412795
+AD  - Industrial Engineering, Stellenbosch University Stellenbosch, South Africa; Next Generation Enterprise and Institutions, Pretoria, CSIR, South Africa
+VL  - 
+IS  - 
+SP  - 1-22
+AB  - 
+SN  - 0360-8581
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+169.
+TY  - CPAPER
+AU  - Godly, Cinthia Joy
+AU  - Balasubramanian, Venki
+AU  - Stranieri, Andrew
+AU  - Saikrishna, Vidya
+AU  - Mohammed, Rehena Sulthana
+AU  - Chackappan, Godly
+TI  - Deep learning model to empower student engagement in online synchronous learning environment
+T2  - 2022 IEEE 19th India Council International Conference (INDICON)
+PY  - 2022
+DA  - 2022/11/24
+PB  - IEEE
+DO  - 10.1109/indicon56171.2022.10040191
+UR  - http://dx.doi.org/10.1109/indicon56171.2022.10040191
+AD  - Federation University, Australia,Institute of Innovation, Science and Sustainability,Ballarat,Australia; Federation University, Australia,Global Professional School,Ballarat,Australia; Edvantage Australia,Department of Information Technology,Melbourne,Australia
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+170.
+TY  - CPAPER
+AU  - Zubiete, E D
+AU  - Luque, L F
+AU  - Rodriguez, A V M
+AU  - Gonzalez, I G
+TI  - Review of wireless sensors networks in health applications
+T2  - 2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+PY  - 2011
+DA  - 2011/8
+PB  - IEEE
+DO  - 10.1109/iembs.2011.6090510
+UR  - http://dx.doi.org/10.1109/iembs.2011.6090510
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+171.
+TY  - CPAPER
+AU  - Magnisalis, Ioannis D
+AU  - Demetriadis, Stavros N
+TI  - Orchestrating adaptive and complex CSCL scenarios through a choreography among IMS-LD and external services
+T2  - 2012 Fourth International Conference on Intelligent Networking and Collaborative Systems
+PY  - 2012
+DA  - 2012/9
+PB  - IEEE
+DO  - 10.1109/incos.2012.30
+UR  - http://dx.doi.org/10.1109/incos.2012.30
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+172.
+TY  - CPAPER
+AU  - Venuto, Daniela De
+AU  - Mezzina, Giovanni
+AU  - Tricase, Angelo
+AU  - Bollella, Paolo
+AU  - Mascellaro, Grazia
+AU  - Torsi, Luisa
+TI  - Wearable and flexible fibrosis cystic tag with potentiometric chloride activity sensing
+T2  - 2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)
+PY  - 2023
+DA  - 2023/6/8
+PB  - IEEE
+DO  - 10.1109/iwasi58316.2023.10164336
+UR  - http://dx.doi.org/10.1109/iwasi58316.2023.10164336
+AD  - Politecnico di Bari,Dipartimento di Ingegneria Elettrica e dell’Informazione,Bari,Italy,70125; Università degli Studi di Bari Aldo Moro,Dipartimento di Chimica,Bari,Italy,70125
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+173.
+TY  - CPAPER
+AU  - Hossain, Nafize Ishtiaque
+AU  - Tabassum, Shawana
+TI  - An IoT-enabled electronic textile-based flexible body sensor network for real-time health monitoring in assisted living during pandemic
+T2  - 2022 23rd International Symposium on Quality Electronic Design (ISQED)
+PY  - 2022
+DA  - 2022/4/6
+PB  - IEEE
+DO  - 10.1109/isqed54688.2022.9806281
+UR  - http://dx.doi.org/10.1109/isqed54688.2022.9806281
+AD  - The University of Texas at Tyler,Tyler,TX,USA
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+174.
+TY  - CPAPER
+AU  - Sonhera, Naume
+AU  - Kritzinger, Elmarie
+AU  - Loock, Marianne
+TI  - Reporting cyber threats in South African high schools
+T2  - 2016 International Conference on Advances in Computing and Communication Engineering (ICACCE)
+PY  - 2016
+DA  - 2016/11
+PB  - IEEE
+DO  - 10.1109/icacce.2016.8073750
+UR  - http://dx.doi.org/10.1109/icacce.2016.8073750
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+175.
+TY  - CPAPER
+AU  - Ahmed, Md Imtiaz
+TI  - Web based seller support system: Amazon overview
+T2  - 2020 IEEE Conference on e-Learning, e-Management and e-Services (IC3e)
+PY  - 2020
+DA  - 2020/11/17
+PB  - IEEE
+DO  - 10.1109/ic3e50159.2020.9288418
+UR  - http://dx.doi.org/10.1109/ic3e50159.2020.9288418
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+176.
+TY  - CPAPER
+AU  - Sharma, Durgansh
+AU  - Singhal, Tarun Kumar
+AU  - Singh, Deepak
+AU  - Qadir, Abdul
+TI  - MIST-based tuning of cyber-physical systems towards holistic healthcare informatics
+T2  - 2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)
+PY  - 2022
+DA  - 2022/3/25
+PB  - IEEE
+DO  - 10.1109/icaccs54159.2022.9785355
+UR  - http://dx.doi.org/10.1109/icaccs54159.2022.9785355
+AD  - School of Business and Management, Christ University,Delhi-NCR, Ghaziabad,U.P.,India; Jaipuria Institute of Management,Dept. of Marketing, Dept. of HR & OB,Noida,U.P.,India
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+177.
+TY  - JOUR
+AU  - Roldán-Álvarez, David
+AU  - Mesa, Francisco J
+TI  - Intelligent deep-learning tutoring system to assist instructors in programming courses
+T2  - IEEE Trans. Educ.
+PY  - 2024
+DA  - 2024/2
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/te.2023.3331055
+UR  - http://dx.doi.org/10.1109/te.2023.3331055
+AD  - Escuela Técnica Superior de Ingeniería de Telecomunicación, Universidad Rey Juan Carlos, Fuenlabrada, Spain
+VL  - 67
+IS  - 1
+SP  - 153-161
+AB  - 
+SN  - 0018-9359
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+178.
+TY  - JOUR
+AU  - de Medeiros, Francisco Petronio Alencar
+AU  - Gomes, Alex Sandro
+TI  - An approach based on social network analysis to enhance social presence in a collaborative learning environment
+T2  - IEEE Trans. Educ.
+PY  - 2022
+DA  - 2022/11
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/te.2022.3154935
+UR  - http://dx.doi.org/10.1109/te.2022.3154935
+AD  - Informatics Academic Unit, Instituto Federal da Paraíba, João Pessoa, Brazil; Informatics Center, Federal University of Pernambuco, Recife, Brazil
+VL  - 65
+IS  - 4
+SP  - 608-616
+AB  - 
+SN  - 0018-9359
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+179.
+TY  - CPAPER
+AU  - Janssen, Benedikt
+AU  - Schwiegelshohn, Fynn
+AU  - Huubner, Michael
+TI  - Adaptive computing in real-time applications
+T2  - 2015 IEEE 13th International New Circuits and Systems Conference (NEWCAS)
+PY  - 2015
+DA  - 2015/6
+PB  - IEEE
+DO  - 10.1109/newcas.2015.7182057
+UR  - http://dx.doi.org/10.1109/newcas.2015.7182057
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+180.
+TY  - CPAPER
+AU  - Zhao, Yanzhe
+AU  - Zhang, Yashi
+AU  - Tang, Shukai
+TI  - Multi-sensor-based lower limb rehabilitation assistant internet of things system
+T2  - 2022 IEEE 5th Eurasian Conference on Educational Innovation (ECEI)
+PY  - 2022
+DA  - 2022/2/10
+PB  - IEEE
+DO  - 10.1109/ecei53102.2022.9829473
+UR  - http://dx.doi.org/10.1109/ecei53102.2022.9829473
+AD  - Zhengzhou University,Henan Province,China
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+181.
+TY  - JOUR
+AU  - Munoz-Organero, Mario
+AU  - Littlewood, Chris
+AU  - Parker, Jack
+AU  - Powell, Lauren
+AU  - Grindell, Cheryl
+AU  - Mawson, Sue
+TI  - Identification of walking strategies of people with osteoarthritis of the knee using insole pressure sensors
+T2  - IEEE Sens. J.
+PY  - 2017
+DA  - 2017/6/15
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/jsen.2017.2696303
+UR  - http://dx.doi.org/10.1109/jsen.2017.2696303
+AD  - 
+VL  - 17
+IS  - 12
+SP  - 3909-3920
+AB  - 
+SN  - 1530-437X
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+182.
+TY  - CPAPER
+AU  - Su, Yun-Hsuan
+AU  - Huang, Kevin
+AU  - Hannaford, Blake
+TI  - Multicamera 3D reconstruction of dynamic surgical cavities: Camera grouping and pair sequencing
+T2  - 2019 International Symposium on Medical Robotics (ISMR)
+PY  - 2019
+DA  - 2019/4
+PB  - IEEE
+DO  - 10.1109/ismr.2019.8710190
+UR  - http://dx.doi.org/10.1109/ismr.2019.8710190
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+183.
+TY  - CPAPER
+AU  - Sharma, Surbhi
+AU  - Kumar, Sudhakar
+AU  - Keshari, Ankita
+AU  - Ahmed, Suhaib
+AU  - Gupta, Swastik
+AU  - Suri, Ashish
+TI  - A real time autonomous soldier health monitoring and reporting system using COTS available entities
+T2  - 2015 Second International Conference on Advances in Computing and Communication Engineering
+PY  - 2015
+DA  - 2015/5
+PB  - IEEE
+DO  - 10.1109/icacce.2015.84
+UR  - http://dx.doi.org/10.1109/icacce.2015.84
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+184.
+TY  - CPAPER
+AU  - Wolling, Florian
+AU  - Van Laerhoven, Kristof
+AU  - Bilal, Jonas
+AU  - Scholl, Philipp M
+AU  - Volker, Benjamin
+TI  - WetTouch: Touching ground in the wearable detection of hand-washing using capacitive sensing
+T2  - 2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+PY  - 2022
+DA  - 2022/3/21
+PB  - IEEE
+DO  - 10.1109/percomworkshops53856.2022.9767345
+UR  - http://dx.doi.org/10.1109/percomworkshops53856.2022.9767345
+AD  - Ubiquitous Computing University of Siegen,Siegen,Germany; Embedded Systems University of Freiburg,Freiburg,Germany
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+185.
+TY  - CPAPER
+AU  - Olugbade, Temitayo A
+AU  - Bianchi-Berthouze, Nadia
+AU  - Marquardt, Nicolai
+AU  - Williams, Amanda C
+TI  - Pain level recognition using kinematics and muscle activity for physical rehabilitation in chronic pain
+T2  - 2015 International Conference on Affective Computing and Intelligent Interaction (ACII)
+PY  - 2015
+DA  - 2015/9
+PB  - IEEE
+DO  - 10.1109/acii.2015.7344578
+UR  - http://dx.doi.org/10.1109/acii.2015.7344578
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+186.
+TY  - CPAPER
+AU  - Van Rooyen, Melody
+AU  - Blaine, Deborah C
+AU  - Wolff, Karin
+TI  - Leveraging digital tools to design an integrative hybrid learning experience
+T2  - 2022 IEEE IFEES World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC)
+PY  - 2022
+DA  - 2022/11/27
+PB  - IEEE
+DO  - 10.1109/weef-gedc54384.2022.9996253
+UR  - http://dx.doi.org/10.1109/weef-gedc54384.2022.9996253
+AD  - Stellenbosch University,Faculty of Engineering,Stellenbosch,South Africa
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+187.
+TY  - JOUR
+AU  - Abdelrazek, Mohamed
+AU  - Ibrahim, Amani
+AU  - Cain, Andrew
+AU  - Grundy, John
+TI  - Vision: Mobile eHealth Learning and Intervention Platform
+T2  - 
+PY  - 2018
+DA  - 
+PB  - ACM
+DO  - 10.1145/3197231.3197262
+UR  - https://dl.acm.org/doi/10.1145/3197231.3197262
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - Face-to-face health educational and intervention programs are helpful in addressing mental and physical illness challenges in focused groups. However, these programs are expensive, resource-intensive and struggle with scalability and reachability, leading to limited take-up and short-term impact. Digital Health Intervention (DHI) programs incorporate the use of technology - mobile, web, wearables, virtual and augmented reality - to address these limitations while being more cost-effective. DHIs have shown major success in improving physical and mental health outcomes for the general public as well as reducing adverse outcomes or high-risk groups. However, it is still very challenging and expensive to design and run high quality mobile-based DHI programs, in part due to the lack of technical skills of researchers in this field. Our proposed mobile eHealth Learning and Intervention Platform (eHeLP) aims to address these challenges with a novel approach that allows health researchers to focus on their studies, and participants to have access to multiple health programs that meet their needs. The platform caters for identified stakeholders in the DHI field and encourages the development of a new health-tech industry. We present our vision eHeLP, why this idea is worth further research, risks we perceive, and next steps.
+ER  - 
+
+188.
+TY  - JOUR
+AU  - Naren, J
+AU  - Ashokkumar, Kirthika
+AU  - Raghavendran, Vaishnavi
+AU  - Saran, Mythili
+TI  - A Semantic Feedback on Student's performance with Data Mining Techniques: State of the Art Survey
+T2  - 
+PY  - 2016
+DA  - 
+PB  - IEEE
+DO  - 
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - Feedback is assessing an individual’s action in any endeavor. The judgment helps one to grow well in any field. By the feedback a student can understand and improve upon mistakes committed, teachers come to know about the student’s capability and implement new teaching methods. New Technologies also come up for the enhancement of Student’s Performance. A study of the assessment of student performance through various papers using data mining and also with ontology based applications makes one decide certain factors like confidence level, stress and time management, holistic approach towards an issue which may be useful in giving a prediction about the students’ work performance level in organizations. The Survey encompasses the assessment of a student’s performance in academics using Data mining Techniques and also with Ontology based Applications.
+ER  - 
+
+189.
+TY  - JOUR
+AU  - Ndayizigamiye, Patrick
+AU  - Soni, Tom Cyprian
+AU  - Jere, Ntabeni
+TI  - Factors Motivating the Adoption of Self-Healthcare Monitoring Mobile Applications by the South African Youth
+T2  - 
+PY  - 2018
+DA  - 
+PB  - IEEE
+DO  - 
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - The global burden of non-communicable diseases requires multi-facetted, preventive and curative interventions. The diseases are no longer attributed to “old age” but are increasingly becoming prevalent amongst young people. Hence, there is a need for preventive and curative interventions that are particularly appealing to young people. The wide adoption of mobile technologies amongst the youth, especially in developing countries, makes mobile health interventions appealing to the youth. Thus, self-healthcare monitoring applications could be widely adopted by the youth, if designed in a way that is appealing to them. It is in this context that this paper investigates factors that could influence the use of self-healthcare monitoring mobile applications by the South African youth. From a sample of 280 students conveniently sampled from an institution of higher learning in South Africa, findings reveal that factors that motivate the use of mobile self-healthcare applications include results demonstrability, performance expectancy factors, savings, social aspects, awareness, connectivity, accessibility, ease of use, privacy, user satisfaction and affordability. Hence, this paper advocates for a multi- stakeholder approach to ensure that these factors are taken into consideration during the design and implementation of such mHealth applications.
+ER  - 
+
+190.
+TY  - JOUR
+AU  - Huang, Liang-Cheng
+AU  - Liu, Wei-Chung
+TI  - Howcare: a personal health cloud archive and care-partners’ community
+T2  - 
+PY  - 2013
+DA  - 
+PB  - IEEE
+DO  - 
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - Nowadays, most people care about their personal health, no matter mental or physical health in their daily life. They sustain and improve their health status with exercise, diet control, adopt good sleep habit, keep natural patterns on sleeping and bowel movement. These people need a tool for monitor and record long-termly their own health status. On the other hand, some people do not see they need to change their health related lifestyle to improve their health status until they are diagnosed with diseases. While he/she is sick, he/she also need to write down their health diary he/herself or the caregiver (most of them are the disadvantaged in their family) for the physician to monitor the illness.
+ER  - 
+
+191.
+TY  - JOUR
+AU  - Sah, Ramesh Kumar
+AU  - Ghasemzadeh, Hassan
+AU  - Habibi, Assal
+AU  - McDonnel, Michael
+AU  - Pendry, Patricia
+AU  - Cleveland, Michael
+TI  - Poster: Mobile Health for Alcohol Recovery and Relapse Prevention
+T2  - 
+PY  - 2020
+DA  - 
+PB  - ACM
+DO  - 
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - Alcohol related disorder has increasingly become a serious public health issue. Stress detection and intervention is considered a key element in a treatment strategy towards preventing alcohol dependent individuals from relapsing. In this paper, we present a proof-of-concept approach to study the usability of a wearable device and viability of a mobile health application to prevent alco- hol relapse by detecting moments of stress and providing adaptive interventions in real-time.
+ER  - 
+
+192.
+TY  - CPAPER
+AU  - Roy, Nirmalya
+TI  - Keynote: Wearable and IoT for cognitive health assessment: Significance and challenges
+T2  - 2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)
+PY  - 2017
+DA  - 2017/3
+PB  - IEEE
+DO  - 10.1109/percomw.2017.7917641
+UR  - http://dx.doi.org/10.1109/percomw.2017.7917641
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 

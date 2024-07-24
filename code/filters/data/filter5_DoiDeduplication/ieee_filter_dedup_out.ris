@@ -1,0 +1,150 @@
+1.
+TY  - CPAPER
+AU  - Riley, William T
+AU  - Martin, Cesar A
+AU  - Rivera, Daniel E
+TI  - The importance of behavior theory in control system modeling of physical activity sensor data
+T2  - 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+PY  - 2014
+DA  - 2014/8
+PB  - IEEE
+DO  - 10.1109/embc.2014.6945209
+UR  - http://dx.doi.org/10.1109/embc.2014.6945209
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+2.
+TY  - CPAPER
+AU  - Sellak, Hamza
+AU  - Grobler, Marthie
+TI  - mHealth4U
+T2  - Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering Workshops
+PY  - 2020
+DA  - 2020/9/21
+PB  - ACM
+DO  - 10.1145/3417113.3422179
+UR  - http://dx.doi.org/10.1145/3417113.3422179
+AD  - CSIRO's Data61, Melbourne, VIC, Australia
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - New York, NY, USA
+N2  - 
+ER  - 
+
+3.
+TY  - CPAPER
+AU  - Ahsan, G M Tanimul
+AU  - Addo, Ivor D
+AU  - Ahamed, S Iqbal
+AU  - Petereit, Daniel
+AU  - Kanekar, Shalini
+AU  - Burhansstipanov, Linda
+AU  - Krebs, Linda U
+TI  - Toward an mHealth Intervention for Smoking Cessation
+T2  - 2013 IEEE 37th Annual Computer Software and Applications Conference Workshops
+PY  - 2013
+DA  - 2013/7
+PB  - IEEE
+DO  - 10.1109/compsacw.2013.61
+UR  - http://dx.doi.org/10.1109/compsacw.2013.61
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+4.
+TY  - CPAPER
+AU  - Mohr, David
+AU  - Montague, Enid
+AU  - Stiles-Shields, Colleen
+AU  - Kaiser, Susan
+AU  - Brenner, Christopher
+AU  - Carty-Fickes, Eric
+AU  - Palac, Hannah
+AU  - Duffecy, Jenna
+TI  - MedLink: A mobile intervention to address failure points in the treatment of depression in general medicine
+T2  - Proceedings of the 9th International Conference on Pervasive Computing Technologies for Healthcare
+PY  - 2015
+DA  - 2015
+PB  - ICST
+DO  - 10.4108/icst.pervasivehealth.2015.259042
+UR  - http://dx.doi.org/10.4108/icst.pervasivehealth.2015.259042
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+5.
+TY  - JOUR
+AU  - McGinnis, Ryan S
+AU  - McGinnis, Ellen W
+AU  - Petrillo, Christopher
+AU  - Ferri, Jonathan
+AU  - Scism, Jordyn
+AU  - Price, Matthew
+TI  - Validation of smartphone based heart rate tracking for remote treatment of panic attacks
+T2  - IEEE J. Biomed. Health Inform.
+PY  - 2021
+DA  - 2021/3
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/jbhi.2020.3001573
+UR  - http://dx.doi.org/10.1109/JBHI.2020.3001573
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32750933
+AD  - 
+VL  - 25
+IS  - 3
+SP  - 656-662
+AB  - Panic attacks are an impairing mental health problem that affects 11% of adults every year [1]. Those who suffer from panic attacks often do not seek psychological treatment, citing the inability to receive care during their attacks as a contributing factor. A digital medicine solution which provides an accessible, real-time mobile health (mHealth) biofeedback intervention for panic attacks may address this problem. Critical to this approach are methods for capturing physiological arousal during an attack. Herein, we validate an algorithm for capturing physiological arousal using smartphone video of the fingertip. Results demonstrate that the algorithm is able to estimate heart rates that are highly correlated with ECG-derived values (r > 0.99), effectively reject low-quality data often captured outside of controlled laboratory environments (AUC > 0.90), and resolve the physiological arousal experienced during a panic attack. Moreover, patient reported measures indicate that this measurement modality is feasible during panic attacks, and the act of taking the measurement may stop the attack. These results point toward the need for future development and clinical evaluation of this mHealth intervention for preventing panic attacks.
+SN  - 2168-2194
+C2  - 
+C1  - 
+N2  - 
+ER  - 
+
+6.
+TY  - JOUR
+AU  - Abdelrazek, Mohamed
+AU  - Ibrahim, Amani
+AU  - Cain, Andrew
+AU  - Grundy, John
+TI  - Vision: Mobile eHealth Learning and Intervention Platform
+T2  - 
+PY  - 2018
+DA  - 
+PB  - ACM
+DO  - 10.1145/3197231.3197262
+UR  - https://dl.acm.org/doi/10.1145/3197231.3197262
+AD  - 
+VL  - 
+IS  - 
+SP  - 
+AB  - 
+SN  - 
+C2  - 
+C1  - 
+N2  - Face-to-face health educational and intervention programs are helpful in addressing mental and physical illness challenges in focused groups. However, these programs are expensive, resource-intensive and struggle with scalability and reachability, leading to limited take-up and short-term impact. Digital Health Intervention (DHI) programs incorporate the use of technology - mobile, web, wearables, virtual and augmented reality - to address these limitations while being more cost-effective. DHIs have shown major success in improving physical and mental health outcomes for the general public as well as reducing adverse outcomes or high-risk groups. However, it is still very challenging and expensive to design and run high quality mobile-based DHI programs, in part due to the lack of technical skills of researchers in this field. Our proposed mobile eHealth Learning and Intervention Platform (eHeLP) aims to address these challenges with a novel approach that allows health researchers to focus on their studies, and participants to have access to multiple health programs that meet their needs. The platform caters for identified stakeholders in the DHI field and encourages the development of a new health-tech industry. We present our vision eHeLP, why this idea is worth further research, risks we perceive, and next steps.
+ER  - 

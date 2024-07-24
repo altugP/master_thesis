@@ -1,0 +1,1264 @@
+Unnamed: 0,Cites,Authors,Title,Year,Source,Publisher,ArticleURL,CitesURL,GSRank,QueryDate,Type,DOI,ISSN,CitationURL,Volume,Issue,StartPage,EndPage,ECC,CitesPerYear,CitesPerAuthor,AuthorCount,Age,Abstract,FullTextURL,RelatedURL,_BaseArticleURL
+3,291,"CKF Wen, S Schneider, AA Stone…",Compliance with mobile ecological momentary assessment protocols in children and adolescents: a systematic review and meta-analysis,2017.0,Journal of medical Internet …,jmir.org,https://www.jmir.org/2017/4/e132/,"https://scholar.google.com/scholar?cites=2182750990398252680&as_sdt=2005&sciodt=0,5&hl=en",44,2024-06-11 20:16:42,HTML,,,,,,,,291,41.57,73,4,7.0,"Abstract
+
+Background:
+Mobile device-based ecological momentary assessment (mobile-EMA) is increasingly used to collect participants' data in real-time and in context. Although EMA offers methodological advantages, these advantages can be diminished by participant noncompliance. However, evidence on how well participants comply with mobile-EMA protocols and how study design factors associated with participant compliance is limited, especially in the youth literature.
+
+
+Objective:
+To systematically and meta-analytically examine youth’s compliance to mobile-EMA protocols and moderators of participant compliance in clinical and nonclinical settings.
+
+
+Methods:
+Studies using mobile devices to collect EMA data among youth (age ≤18 years old) were identified. A systematic review was conducted to describe the characteristics of mobile-EMA protocols and author-reported factors associated with compliance. Random effects meta-analyses were conducted to estimate the overall compliance across studies and to explore factors associated with differences in youths’ compliance.
+
+
+Results:
+This review included 42 unique studies that assessed behaviors, subjective experiences, and contextual information. Mobile phones were used as the primary mode of EMA data collection in 48% (20/42) of the reviewed studies. In total, 12% (5/42) of the studies used wearable devices in addition to the EMA data collection platforms. About half of the studies (62%, 24/42) recruited youth from nonclinical settings. Most (98%, 41/42) studies used a time-based sampling protocol. Among these studies, most (95%, 39/41) prompted youth 2-9 times daily, for a study length ranging from 2-42 days. Sampling frequency and study length did not differ between studies with participants from clinical versus nonclinical settings. Most (88%, 36/41) studies with a time-based sampling protocol defined compliance as the proportion of prompts to which participants responded. In these studies, the weighted average compliance rate was 78.3%. The average compliance rates were not different between studies with clinical (76.9%) and nonclinical (79.2%; P=.29) and studies that used only a mobile-EMA platform (77.4%) and mobile platform plus additional wearable devices (73.0%, P=.36). Among clinical studies, the mean compliance rate was significantly lower in studies that prompted participants 2-3 times (73.5%) or 4-5 times (66.9%) compared with studies with a higher sampling frequency (6+ times: 89.3%). Among nonclinical studies, a higher average compliance rate was observed in studies that prompted participants 2-3 times daily (91.7%) compared with those that prompted participants more frequently (4-5 times: 77.4%; 6+ times: 75.0%). The reported compliance rates did not differ by duration of EMA period among studies from either clinical or nonclinical settings.
+
+
+Conclusions:
+The compliance rate among mobile-EMA studies in youth is moderate but suboptimal. Study design may affect protocol compliance differently between clinical and nonclinical participants; including additional wearable devices did not affect participant compliance. A more consistent compliance-related result reporting practices can facilitate understanding and improvement of participant compliance with EMA data collection among youth.
+
+
+J Med Internet Res 2017;19(4):e132
+
+doi:10.2196/jmir.6641
+
+
+Keywords
+ecological momentary assessment (234); compliance (70); youth (313); mHealth (2929) 
+We also recommend
+A Systematic Review of Methods and Procedures Used in Ecological Momentary Assessments of Diet and Physical Activity Research in Youth: An Adapted STROBE Checklist for Reporting EMA Studies (CREMAS)
+Yue Liao et al., J Med Internet Res, 2016
+Feasibility and Performance Test of a Real-Time Sensor-Informed Context-Sensitive Ecological Momentary Assessment to Capture Physical Activity
+Genevieve Fridlund Dunton et al., J Med Internet Res, 2016
+Ecological Momentary Assessment in Behavioral Research: Addressing Technological and Human Participant Challenges
+Lora E Burke et al., J Med Internet Res, 2017
+Monitoring Dietary Intake and Physical Activity Electronically: Feasibility, Usability, and Ecological Validity of a Mobile-Based Ecological Momentary Assessment Tool
+Jorinde Eline Spook et al., J Med Internet Res, 2013
+Mobile Phone-Based Unobtrusive Ecological Momentary Assessment of Day-to-Day Mood: An Explorative Study
+Joost Asselbergs et al., J Med Internet Res, 2016
+Lavender oil preparation Silexan is effective in mild-to-moderate major depression: a randomized, placebo- and reference-controlled trial
+Siegfried Kasper et al., European Archives of Psychiatry and Clinical Neuroscience, 2024
+Long-term potassium binder use for HK may improve clinical outcomes in CKD
+Obi Y, et al. Kidney Med. 2024;6(1):100757.
+Discover how long-term patiromer use may be associated with improved survival in CKD
+Obi Y, et al. Kidney Med. 2024;6(1):100757.
+To access published research related to Alpha-1 antitrypsin deficiency (AATD), visit Unite Alpha
+.
+To learn about diagnosis and clinical management of Alpha-1 antitrypsin deficiency (AATD), visit Unite Alpha, the AATD Scientific Hub
+.
+Powered by",https://www.jmir.org/2017/4/e132/,"https://scholar.google.com/scholar?q=related:iObRB3awSh4J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.jmir.org
+8,219,"KE Heron, RS Everhart, SM McHale…",Using mobile-technology-based ecological momentary assessment (EMA) methods with youth: A systematic review and recommendations,2017.0,Journal of pediatric …,academic.oup.com,https://academic.oup.com/jpepsy/article-abstract/42/10/1087/3798723,"https://scholar.google.com/scholar?cites=8347502934839793678&as_sdt=2005&sciodt=0,5&hl=en",41,2024-06-11 20:16:42,,,,,,,,,219,31.29,55,4,7.0,"Ecological momentary assessment (EMA) methods are increasingly used in social and health sciences, but the feasibility and best practices for using EMA with youth are not yet clear. We conducted a systematic review of studies that used self-report EMA methods with youth; the goal was to identify common approaches and challenges to implementation and develop recommendations for future research. We examined 54 peer-reviewed papers that reported on 24 unique studies. Papers were evaluated using a standardized, three-dimensional coding scheme focused on the following: (1) sample characteristics; (2) EMA data collection methods (sampling duration, frequency, hardware/software); (3) study implementation methods (technical/logistical challenges, training participants, compliance). Overall, the research suggests EMA can be successfully implemented with youth (age ∼ ≥7) from diverse backgrounds, but protocol adaptations may be necessary for younger children. Study design and implementation challenges and recommendations for research on youth are provided.",https://academic.oup.com/jpepsy/article/42/10/1087/3798723?login=false,"https://scholar.google.com/scholar?q=related:DhioOLFJ2HMJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",academic.oup.com
+12,180,"M May, DU Junghaenel, M Ono, AA Stone…",Ecological momentary assessment methodology in chronic pain research: a systematic review,2018.0,The Journal of …,Elsevier,https://www.sciencedirect.com/science/article/pii/S1526590018300300,"https://scholar.google.com/scholar?cites=8746864352103440544&as_sdt=2005&sciodt=0,5&hl=en",87,2024-06-11 20:16:42,HTML,,,,,,,,180,30.0,36,5,6.0,"Highlights
+
+•
+
+One hundred and five articles from 62 research projects were included in the review.
+
+•
+
+Reviewed studies were heterogeneous in terms of protocol design.
+
+•
+
+Protocol design features were not consistently reported.
+
+•
+
+Reporting guidelines are intended to facilitate replicability and interpretation of results.
+
+Abstract
+
+Self-reported pain intensity assessments are central to chronic pain research. Ecological momentary assessment (EMA) methodologies are uniquely positioned to collect these data, and are indeed being used in the field. However, EMA protocols are complex, and many decisions are necessary in the design of EMA research studies. A systematic literature review identified 105 articles drawing from 62 quantitative EMA research projects examining pain intensity in adult chronic pain patients. Study characteristics were tabulated to summarize and describe the use of EMA, with an emphasis placed on various dimensions of decision-making involved in executing EMA methodologies. Most identified studies considered within-person relationships between pain and other variables, and a few examined interventions on chronic pain. There was a trend toward the use of smartphones as EMA data collection devices more recently, and completion rates were not reported in nearly one third of studies. Pain intensity items varied widely with respect to number of scale points, anchor labels, and length of reporting period; most used numeric rating scales. Recommendations are provided for reporting to improve reproducibility, comparability, and interpretation of results, and for opportunities to clarify the importance of design decisions.
+
+Perspective
+
+Studies that use EMA methodologies to assess pain intensity are heterogeneous. Aspects of protocol design, including data input modality and pain item construction, have the potential to influence the data collected. Thorough reporting on design features and completion rates therefore facilitates reproducibility, comparability, and interpretation of study results.",https://www.sciencedirect.com/science/article/pii/S1526590018300300,"https://scholar.google.com/scholar?q=related:oCCnDckaY3kJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.sciencedirect.com
+14,170,"IH Bell, MH Lim, SL Rossell, N Thomas",Ecological momentary assessment and intervention in the treatment of psychotic disorders: a systematic review,2017.0,Psychiatric Services,Am Psychiatric Assoc,https://ps.psychiatryonline.org/doi/abs/10.1176/appi.ps.201600523,"https://scholar.google.com/scholar?cites=363655617632699891&as_sdt=2005&sciodt=0,5&hl=en",7,2024-06-11 20:16:42,,10.1176/appi.ps.201600523,,,,,,,170,24.29,43,4,7.0,"Abstract
+Objective:
+
+Ecological momentary assessment (EMA) and ecological momentary intervention (EMI) are technologies used to track fluctuations in experiences and prompt behavioral responses within the context of a person’s daily life. Most commonly delivered via smartphone, EMA and EMI have potential to provide simple, cost-effective, and user-led treatment for psychotic disorders. This systematic review aimed to synthesize current research exploring the feasibility, acceptability, and clinical outcomes of EMA and EMI in the treatment of psychotic disorders.
+
+Methods:
+
+A systematic search was conducted identifying studies published between 1980 and July 7, 2016, by searching PubMed, PsycINFO, PsycARTICLES, and the Cochrane Central Register of Controlled Trials with combinations of search terms related to mobile devices, EMA and EMI, and psychotic disorders.
+
+Results:
+
+Of 1,623 studies identified, nine met inclusion criteria for the review. These studies found satisfactory feasibility and acceptability and preliminary evidence of improved clinical outcomes. The interventions, which had a broad array of features, targeted remote monitoring of illness and symptoms, and they also targeted illness self-management by using momentary reminders or instructions for behaviors, including medication adherence, management of symptoms and psychosocial impairments, daily living skills, and goal achievement.
+
+Conclusions:
+
+The findings of this review provide preliminary support for the clinical utility of EMA and EMI in the treatment of psychotic disorders. Future research should explore further applications of these technologies with larger sample sizes and controlled designs.",https://ps.psychiatryonline.org/doi/full/10.1176/appi.ps.201600523,"https://scholar.google.com/scholar?q=related:84WShdv2CwUJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",ps.psychiatryonline.org
+15,164,"D Colombo, J Fernández-Álvarez, A Patané…",Current state and future directions of technology-based ecological momentary assessment and intervention for major depressive disorder: a systematic review,2019.0,Journal of clinical …,mdpi.com,https://www.mdpi.com/2077-0383/8/4/465,"https://scholar.google.com/scholar?cites=14173371025985936758&as_sdt=2005&sciodt=0,5&hl=en",6,2024-06-11 20:16:42,HTML,,,,,,,,164,32.8,41,4,5.0,"Abstract
+Ecological momentary assessment (EMA) and ecological momentary intervention (EMI) are alternative approaches to retrospective self-reports and face-to-face treatments, and they make it possible to repeatedly assess patients in naturalistic settings and extend psychological support into real life. The increase in smartphone applications and the availability of low-cost wearable biosensors have further improved the potential of EMA and EMI, which, however, have not yet been applied in clinical practice. Here, we conducted a systematic review, using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, to explore the state of the art of technology-based EMA and EMI for major depressive disorder (MDD). A total of 33 articles were included (EMA = 26; EMI = 7). First, we provide a detailed analysis of the included studies from technical (sampling methods, duration, prompts), clinical (fields of application, adherence rates, dropouts, intervention effectiveness), and technological (adopted devices) perspectives. Then, we identify the advantages of using information and communications technologies (ICTs) to extend the potential of these approaches to the understanding, assessment, and intervention in depression. Furthermore, we point out the relevant issues that still need to be addressed within this field, and we discuss how EMA and EMI could benefit from the use of sensors and biosensors, along with recent advances in machine learning for affective modelling.",https://www.mdpi.com/2077-0383/8/4/465,"https://scholar.google.com/scholar?q=related:dp20udrtscQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.mdpi.com
+16,164,"A Versluis, B Verkuil, P Spinhoven…",Changing mental health and positive psychological well-being using ecological momentary interventions: a systematic review and meta-analysis,2016.0,Journal of medical …,jmir.org,https://www.jmir.org/2016/6/e152/'%20+%20match%20+%20',"https://scholar.google.com/scholar?cites=4329620186949958657&as_sdt=2005&sciodt=0,5&hl=en",74,2024-06-11 20:16:42,HTML,,,,,,,,164,20.5,41,4,8.0,"Abstract
+
+Background:
+Mental health problems are highly prevalent, and there is need for the self-management of (mental) health. Ecological momentary interventions (EMIs) can be used to deliver interventions in the daily life of individuals using mobile devices.
+
+
+Objectives:
+The aim of this study was to systematically assess and meta-analyze the effect of EMI on 3 highly prevalent mental health outcomes (anxiety, depression, and perceived stress) and positive psychological outcomes (eg, acceptance).
+
+
+Methods:
+PsycINFO and Web of Science were searched for relevant publications, and the last search was done in September 2015. Three concepts were used to find publications: (1) mental health, (2) mobile phones, and (3) interventions. A total of 33 studies (using either a within- or between-subject design) including 43 samples that received an EMI were identified (n=1301), and relevant study characteristics were coded using a standardized form. Quality assessment was done with the Cochrane Collaboration tool.
+
+
+Results:
+Most of the EMIs focused on a clinical sample, used an active intervention (that offered exercises), and in over half of the studies, additional support by a mental health professional (MHP) was given. The EMI lasted on average 7.48 weeks (SD=6.46), with 2.80 training episodes per day (SD=2.12) and 108.25 total training episodes (SD=123.00). Overall, 27 studies were included in the meta-analysis, and after removing 6 outliers, a medium effect was found on mental health in the within-subject analyses (n=1008), with g=0.57 and 95% CI (0.45-0.70). This effect did not differ as function of outcome type (ie, anxiety, depression, perceived stress, acceptance, relaxation, and quality of life). The only moderator for which the effect varied significantly was additional support by an MHP (MHP-supported EMI, g=0.73, 95% CI: 0.57-0.88; stand-alone EMI, g=0.45, 95% CI: 0.22-0.69; stand-alone EMI with access to care as usual, g=0.38, 95% CI: 0.11-0.64). In the between-subject studies, 13 studies were included, and a small to medium effect was found (g=0.40, 95% CI: 0.22-0.57). Yet, these between-subject analyses were at risk for publication bias and were not suited for moderator analyses. Furthermore, the overall quality of the studies was relatively low.
+
+
+Conclusions:
+Results showed that there was a small to medium effect of EMIs on mental health and positive psychological well-being and that the effect was not different between outcome types. Moreover, the effect was larger with additional support by an MHP. Future randomized controlled trials are needed to further strengthen the results and to determine potential moderator variables. Overall, EMIs offer great potential for providing easy and cost-effective interventions to improve mental health and increase positive psychological well-being.
+
+
+J Med Internet Res 2016;18(6):e152
+
+doi:10.2196/jmir.5642
+
+
+Keywords
+mHealth (2929); ecological momentary intervention (23); mental health (1649); anxiety (645); depression (968); stress (297); meta-analysis (251); systematic review (591) ",https://www.jmir.org/2016/6/e152/'%20+%20match%20+%20',"https://scholar.google.com/scholar?q=related:ATyD557mFTwJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.jmir.org
+19,131,"LP De Vries, BML Baselmans, M Bartels",Smartphone-based ecological momentary assessment of well-being: A systematic review and recommendations for future studies,2021.0,Journal of Happiness Studies,Springer,https://link.springer.com/article/10.1007/s10902-020-00324-7,"https://scholar.google.com/scholar?cites=6296932039579067419&as_sdt=2005&sciodt=0,5&hl=en",26,2024-06-11 20:16:42,HTML,10.1007/s10902-020-00324-7,,,,,,,131,43.67,44,3,3.0,"Feelings of well-being and happiness fluctuate over time and contexts. Ecological Momentary Assessment (EMA) studies can capture fluctuations in momentary behavior, and experiences by assessing these multiple times per day. Traditionally, EMA was performed using pen and paper. Recently, due to technological advances EMA studies can be conducted more easily with smartphones, a device ubiquitous in our society. The goal of this review was to evaluate the literature on smartphone-based EMA in well-being research in healthy subjects. The systematic review was conducted according to the Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) guidelines. Searching PubMed and Web of Science, we identified 53 studies using smartphone-based EMA of well-being. Studies were heterogeneous in designs, context, and measures. The average study duration was 12.8 days, with well-being assessed 2–12 times per day. Half of the studies included objective data (e.g. location). Only 47.2% reported compliance, indicating a mean of 71.6%. Well-being fluctuated daily and weekly, with higher well-being in evenings and weekends. These fluctuations disappeared when location and activity were accounted for. On average, being in nature and physical activity relates to higher well-being. Working relates to lower well-being, but workplace and company do influence well-being. The important advantages of using smartphones instead of other devices to collect EMAs are the easier data collection and flexible designs. Smartphone-based EMA reach far larger maximum sample sizes and more easily add objective data to their designs than palm-top/PDA studies. Smartphone-based EMA research is feasible to gain insight in well-being fluctuations and its determinants and offers the opportunity for parallel objective data collection. Most studies currently focus on group comparisons, while studies on individual differences in well-being patterns and fluctuations are lacking. We provide recommendations for future smartphone-based EMA research regarding measures, objective data and analyses.",https://link.springer.com/article/10.1007/s10902-020-00324-7,"https://scholar.google.com/scholar?q=related:G-Ti0VMyY1cJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+23,116,"A Balaskas, SM Schueller, AL Cox, G Doherty",Ecological momentary interventions for mental health: A scoping review,2021.0,PloS one,journals.plos.org,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248152,"https://scholar.google.com/scholar?cites=11828765294154354432&as_sdt=2005&sciodt=0,5&hl=en",29,2024-06-11 20:16:42,HTML,,,,,,,,116,38.67,29,4,3.0,"Background
+
+The development of mobile computing technology has enabled the delivery of psychological interventions while people go about their everyday lives. The original visions of the potential of these “ecological momentary interventions” were presented over a decade ago, and the widespread adoption of smartphones in the intervening years has led to a variety of research studies exploring the feasibility of these aspirations. However, there is a dearth of research describing the different dimensions, characteristics, and features of these interventions, as constructed.
+
+Objective
+
+To provide an overview of the definitions given for “ecological momentary interventions” in the treatment of common mental health disorders, and describe the set of technological and interaction possibilities which have been used in the design of these interventions.
+
+Methods
+
+A systematic search identified relevant literature published between 2009 and 2020 in the PubMed, PsycInfo, and ACM Guide to the Computing Literature databases. Following screening, data were extracted from eligible articles using a standardized extraction worksheet. Selected articles were then thematically categorized.
+
+Results
+
+The search identified 583 articles of which 64 met the inclusion criteria. The interventions target a range of mental health problems, with diverse aims, intervention designs and evaluation approaches. The studies employed a variety of features for intervention delivery, but recent research is overwhelmingly comprised of studies based on smartphone apps (30 of 42 papers that described an intervention). Twenty two studies employed sensors for the collection of data in order to provide just-in-time support or predict psychological states.
+
+Conclusions
+
+With the shift towards smartphone apps, the vision for EMIs has begun to be realised. Recent years have seen increased exploration of the use of sensors and machine learning, but the role of humans in the delivery of EMI is also varied. The variety of capabilities exhibited by EMIs motivates development of a more precise vocabulary for capturing both automatic and human tailoring of these interventions.",https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248152,"https://scholar.google.com/scholar?q=related:AA-KEV03KKQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",journals.plos.org
+25,109,"B Loo Gee, KM Griffiths, A Gulliver",Effectiveness of mobile technologies delivering Ecological Momentary Interventions for stress and anxiety: a systematic review,2016.0,Journal of the American …,academic.oup.com,https://academic.oup.com/jamia/article-abstract/23/1/221/2379916,"https://scholar.google.com/scholar?cites=3794845511679192569&as_sdt=2005&sciodt=0,5&hl=en",106,2024-06-11 20:16:42,,,,,,,,,109,13.63,36,3,8.0,"Objectives Mobile technologies may be suitable for delivering Ecological Momentary Interventions (EMI) to treat anxiety in real-time. This review aims to synthesize evidence on the effectiveness of EMI for treating anxiety conditions.
+
+Materials and Methods Four databases and the reference lists of previous studies were searched. A total of 1949 abstracts were double screened for inclusion. Sufficient studies were available to undertake a quantitative meta-analysis on EMIs on generalized anxiety symptoms.
+
+Results The 15 randomized trials and randomized controlled trials examined anxiety ( n = 7), stress ( n = 3), anxiety and stress ( n = 2), panic disorder ( n = 2), and social phobia ( n = 1). Eight EMIs comprised self-monitoring integrated with therapy modules, seven comprised multimedia content, and three comprised self-monitoring only. The quality of studies presented high risk of biases. Meta-analysis ( n = 7) demonstrated that EMIs reduced generalized anxiety compared to control and/or comparison groups (Effect Size (ES) = 0.32, 95% CI, 0.12-0.53). Most EMIs targeting stress were reported effective relative to control as were the two EMIs targeting panic disorders. The EMI targeting social phobia was not effective.
+
+Discussion EMIs have potential in treating both anxiety and stress. However, few high-quality trials have been conducted for specific anxiety disorders. Further trials are needed to assess the value of EMI technologies for anxiety in enhancing existing treatments.
+
+Conclusion This study found a small significant effect of EMI studies on reducing generalized anxiety. Studies on stress demonstrated EMI was effective compared to control, with the small number of studies on panic and social phobia demonstrating mixed results.",https://academic.oup.com/jamia/article/23/1/221/2379916,"https://scholar.google.com/scholar?q=related:-a0fDeP_qTQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",academic.oup.com
+30,92,"A Sedano-Capdevila, A Porras-Segovia…",Use of ecological momentary assessment to study suicidal thoughts and behavior: a systematic review,2021.0,Current psychiatry …,Springer,https://link.springer.com/article/10.1007/s11920-021-01255-7,"https://scholar.google.com/scholar?cites=11886527389732604064&as_sdt=2005&sciodt=0,5&hl=en",197,2024-06-11 20:16:42,,10.1007/s11920-021-01255-7,,,,,,,92,30.67,31,3,3.0,"Purpose of Review
+
+Ecological momentary assessment (EMA) is a recently introduced approach to patient evaluation that consists of asking patients questions in real time and in their usual habitat. This method seeks to contribute to suicide prevention by providing psychiatrists with detailed information about suicidal thoughts and behavior, how these fluctuate over short periods of time, and the short-term risk factors presented by patients. We conducted a systematic review of published research using EMA to study suicidal thoughts and behavior.
+
+Recent Findings
+
+Several systematic reviews of EMA in mental health have been conducted to date, and the literature contains numerous theoretical papers and compilations on EMA and suicide phenomena. To date, however, no systematic reviews have explored the use of this tool to study suicidal thoughts and behavior.
+
+Summary
+
+We performed a systematic review of five databases (i.e., PubMed, Embase, Scopus, Web of Science, and PsycINFO) to identify studies on EMA and suicidal thoughts and behavior. An initial search revealed 544 articles. Following the study selection process, 35 studies were included in the review. Almost three-quarters of the studies were published in the last 4 years. The studies reviewed concluded that EMA was generally feasible and well accepted. EMA findings correlated well with the results of a retrospective assessment, though tended to over-represent symptom severity. Our review points to important aspects of suicidal thoughts and behavior, such as its wide fluctuation over short periods of time. Negative affect and disturbed sleep, among others, emerged as short-term predictors of suicidal thoughts and behavior. Therefore, EMA is a potentially useful tool in clinical practice, although not without drawbacks, such as participant fatigue with questionnaires and ethical concerns.",,"https://scholar.google.com/scholar?q=related:oIj29a5t9aQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+41,72,"YS Yang, GW Ryu, M Choi",Methodological strategies for ecological momentary assessment to evaluate mood and stress in adult patients using mobile phones: systematic review,2019.0,JMIR mHealth and uHealth,mhealth.jmir.org,https://mhealth.jmir.org/2019/4/e11215/;,"https://scholar.google.com/scholar?cites=1755171543241309601&as_sdt=2005&sciodt=0,5&hl=en",35,2024-06-11 20:16:42,HTML,,,,,,,,72,14.4,24,3,5.0,"Abstract
+
+Background:
+Ecological momentary assessment (EMA) has utility for measuring psychological properties in daily life. EMA has also allowed researchers to collect data on diverse experiences and symptoms from various subjects.
+
+
+Objective:
+The aim of this study was to review methodological strategies and useful related information for EMA using mobile phones to capture changes of mood and stress in adult patients seeking health care.
+
+
+Methods:
+We searched PubMed, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Embase, the Cochrane Library, PsycINFO, and Web of Science. This review included studies published in peer-reviewed journals in English between January 2008 and November 2017 that used basic- or advanced-feature mobile phones to measure momentary mood or stress in adult patients seeking health care in outpatient departments. We excluded studies of smoking and substance addictions and studies of mental disorder patients who had been diagnosed by physicians.
+
+
+Results:
+We reviewed 12 selected articles that used EMA via mobile phones to measure momentary mood and stress and other related variables from various patients with chronic fatigue syndrome, breast cancer, migraine, HIV, tinnitus, temporomandibular disorder, end-stage kidney disease, and traumatic brain injury. Most of the selected studies (11/12, 92%) used signal contingency and in 8 of the 12 studies (67%) alarms were sent at random or semirandom intervals to prompt the momentary measurement. Out of 12 studies, 7 (58%) used specific apps directly installed on mobile phones, 3 (25%) used mobile phones to link to Web-based survey programs, and 2 (17%) used an interactive voice-response system.
+
+
+Conclusions:
+This study provides researchers with useful information regarding methodological details for utilizing EMA to measure mood and stress in adult patients. This review shows that EMA methods could be effective and reasonable for measuring momentary mood and stress, given that basic- and advanced-feature mobile phones are ubiquitous, familiar, and easy to approach. Therefore, researchers could adopt and utilize EMA methods using mobile phones to measure psychological health outcomes, such as mood and stress, in adult patients.
+
+
+JMIR Mhealth Uhealth 2019;7(4):e11215
+
+doi:10.2196/11215
+
+
+Keywords
+review (321); experience sampling method (16); ecological momentary assessment (234); mobile apps (576); mood (47); stress (297) ",https://mhealth.jmir.org/2019/4/e11215/;,"https://scholar.google.com/scholar?q=related:ob3FIjifWxgJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",mhealth.jmir.org
+44,67,"MT Williams, H Lewthwaite, F Fraysse…",Compliance with mobile ecological momentary assessment of self-reported health-related behaviors and psychological constructs in adults: systematic review …,2021.0,Journal of medical …,jmir.org,https://www.jmir.org/2021/3/e17023/,"https://scholar.google.com/scholar?cites=13700251305312088086&as_sdt=2005&sciodt=0,5&hl=en",95,2024-06-11 20:16:42,HTML,,,,,,,,67,22.33,17,4,3.0,"Abstract
+
+Background:
+Mobile ecological momentary assessment (mEMA) permits real-time capture of self-reported participant behaviors and perceptual experiences. Reporting of mEMA protocols and compliance has been identified as problematic within systematic reviews of children, youth, and specific clinical populations of adults.
+
+
+Objective:
+This study aimed to describe the use of mEMA for self-reported behaviors and psychological constructs, mEMA protocol and compliance reporting, and associations between key components of mEMA protocols and compliance in studies of nonclinical and clinical samples of adults.
+
+
+Methods:
+In total, 9 electronic databases were searched (2006-2016) for observational studies reporting compliance to mEMA for health-related data from adults (>18 years) in nonclinical and clinical settings. Screening and data extraction were undertaken by independent reviewers, with discrepancies resolved by consensus. Narrative synthesis described participants, mEMA target, protocol, and compliance. Random effects meta-analysis explored factors associated with cohort compliance (monitoring duration, daily prompt frequency or schedule, device type, training, incentives, and burden score). Random effects analysis of variance (P≤.05) assessed differences between nonclinical and clinical data sets.
+
+
+Results:
+Of the 168 eligible studies, 97/105 (57.7%) reported compliance in unique data sets (nonclinical=64/105 [61%], clinical=41/105 [39%]). The most common self-reported mEMA target was affect (primary target: 31/105, 29.5% data sets; secondary target: 50/105, 47.6% data sets). The median duration of the mEMA protocol was 7 days (nonclinical=7, clinical=12). Most protocols used a single time-based (random or interval) prompt type (69/105, 65.7%); median prompt frequency was 5 per day. The median number of items per prompt was similar for nonclinical (8) and clinical data sets (10). More than half of the data sets reported mEMA training (84/105, 80%) and provision of participant incentives (66/105, 62.9%). Less than half of the data sets reported number of prompts delivered (22/105, 21%), answered (43/105, 41%), criterion for valid mEMA data (37/105, 35.2%), or response latency (38/105, 36.2%). Meta-analysis (nonclinical=41, clinical=27) estimated an overall compliance of 81.9% (95% CI 79.1-84.4), with no significant difference between nonclinical and clinical data sets or estimates before or after data exclusions. Compliance was associated with prompts per day and items per prompt for nonclinical data sets. Although widespread heterogeneity existed across analysis (I2>90%), no compelling relationship was identified between key features of mEMA protocols representing burden and mEMA compliance.
+
+
+Conclusions:
+In this 10-year sample of studies using the mEMA of self-reported health-related behaviors and psychological constructs in adult nonclinical and clinical populations, mEMA was applied across contexts and health conditions and to collect a range of health-related data. There was inconsistent reporting of compliance and key features within protocols, which limited the ability to confidently identify components of mEMA schedules likely to have a specific impact on compliance.
+
+
+J Med Internet Res 2021;23(3):e17023
+
+doi:10.2196/17023
+
+
+Keywords
+mobile momentary ecological assessment (1); adult (74); compliance (70); systematic review (591); meta-analysis (251); mobile phone (2900) ",https://www.jmir.org/2021/3/e17023/,"https://scholar.google.com/scholar?q=related:FnC1ovkRIb4J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.jmir.org
+45,65,"S Carreiro, M Newcomb, R Leach, S Ostrowski…",Current reporting of usability and impact of mHealth interventions for substance use disorder: A systematic review,2020.0,Drug and Alcohol …,Elsevier,https://www.sciencedirect.com/science/article/pii/S0376871620303665,"https://scholar.google.com/scholar?cites=2033663699654249963&as_sdt=2005&sciodt=0,5&hl=en",261,2024-06-11 20:16:42,,,,,,,,,65,16.25,13,5,4.0,"Highlights
+
+•
+
+Connected interventions use data from mHealth devices to trigger interventions.
+
+•
+
+Connected interventions have the potential to dramatically impact SUD treatment.
+
+•
+
+Many connected interventions focus on AUD, use smart phone and use EMA.
+
+•
+
+Most studies reported positive effects on SUD outcomes and high acceptability.
+
+•
+
+Few connected interventions to date utilize wearables to monitor biologic data.
+
+Abstract
+Background
+
+Connected interventions use data collected through mobile/wearable devices to trigger real-time interventions and have great potential to improve treatment for substance use disorder (SUD). This review aims to describe the current landscape, effectiveness and usability of connected interventions for SUD.
+
+Methods
+
+A systematic review was conducted to identify articles evaluating connected health interventions for SUD in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Three databases (PubMed, IEEE, and Scopus) were searched over a five-year period. Included articles described a connected health intervention targeting SUD and provided outcomes data. Data were extracted using a standardized reporting tool.
+
+Results
+
+A total of 1676 unique articles were identified during the initial search, with 32 articles included in the final analysis. Seven articles of the 32 were derived from two large studies. The most commonly studied SUD was alcohol use disorder. Sixteen articles reported at least one statistically significant result with respect to reduced craving and/or substance use. The majority of articles used ecological momentary assessment to trigger interventions, while four used biologic/physiologic data. Two articles used a wearable device. Common intervention types included craving management, coping assistance, and tailored feedback. Twenty-three articles measured usability factors, and acceptability was generally reported as high.
+
+Conclusion
+
+Identified themes included a focus on AUD, use of smart phones, use of EMA for intervention delivery, positive effects on SUD related outcomes, and overall high acceptability. Wearables that directly monitor biologic data and predictive analytics using integrated data streams represent understudied opportunities for new research.",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502517/,"https://scholar.google.com/scholar?q=related:641_KlwGORwJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.sciencedirect.com
+56,48,"B Boh, LHJM Lemmens, A Jansen, C Nederkoorn…",An Ecological Momentary Intervention for weight loss and healthy eating via smartphone and Internet: study protocol for a randomised controlled trial,2016.0,Trials,Springer,https://link.springer.com/article/10.1186/s13063-016-1280-x,"https://scholar.google.com/scholar?cites=17244197207784531130&as_sdt=2005&sciodt=0,5&hl=en",24,2024-06-11 20:16:42,HTML,10.1186/s13063-016-1280-x,,,,,,,48,6.0,10,5,8.0,"Background
+
+Long-term weight loss maintenance is difficult to achieve. Effectiveness of obesity interventions could be increased by providing extended treatment, and by focusing on person-environment interactions. Ecological Momentary Intervention (EMI) can account for these two factors by allowing an indefinite extension of a treatment protocol in everyday life. EMI relies on observations in daily life to intervene by providing appropriate in-the-moment treatment. The Think Slim intervention is an EMI based on the principles of cognitive behavioural therapy (CBT), and its effectiveness will be investigated in the current study.
+
+Methods
+
+A randomised controlled trial (RCT) will be conducted. At least 134 overweight adults (body mass index (BMI) above 25 kg/m2) will be randomly assigned to an 8-week immediate intervention group (Diet + Think Slim intervention, n = 67) or to an 8-week diet-only control group (followed by the Think Slim intervention, n = 67). The Think Slim intervention consists of (1) an app-based EMI that estimates and intervenes when people are likely to overeat, based on Ecological Momentary Assessment data, and (2) ten online computerised CBT sessions which work in conjunction with an EMI module in the app. The primary outcome is BMI. Secondary outcomes include (1) scores on self-report questionnaires for dysfunctional thinking, eating styles, eating disorder pathology, general psychological symptomatology, and self-esteem, and (2) eating patterns, investigated via network analysis. Primary and secondary outcomes will be obtained at pre- and post-intervention measurements, and at 3- and 12-month follow-up measurements.
+
+Discussion
+
+This is the first EMI aimed at treating obesity via a cognitive approach, provided via a smartphone app and the Internet, in the context of an RCT.
+
+Trial registration
+
+This trial has been registered at the Netherlands Trial Register, part of the Dutch Cochrane Centre (NTR5473; registration date: 26 October 2015).",https://link.springer.com/article/10.1186/s13063-016-1280-x,"https://scholar.google.com/scholar?q=related:uqTHLv-xT-8J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+60,45,"L Kivelä, WAJ van der Does, H Riese…",Don't miss the moment: a systematic review of ecological momentary assessment in suicide research,2022.0,Frontiers in digital …,frontiersin.org,https://www.frontiersin.org/articles/10.3389/fdgth.2022.876595/full,"https://scholar.google.com/scholar?cites=17092783124941599060&as_sdt=2005&sciodt=0,5&hl=en",174,2024-06-11 20:16:42,HTML,10.3389/fdgth.2022.876595,,,,,,,45,22.5,11,4,2.0,"Liia Kivelä1Willem A. J. van der Does1,2Harriëtte Riese3Niki Antypa1*
+1Department of Clinical Psychology, Institute of Psychology, Leiden University, Leiden, Netherlands
+2Leiden University Treatment Center LUBEC, Leiden, Netherlands
+3Department of Psychiatry, The Interdisciplinary Center Psychopathology and Emotion Regulation (ICPE), Universitair Medisch Centrum Groningen, University of Groningen, Groningen, Netherlands
+
+Suicide and suicide-related behaviors are prevalent yet notoriously difficult to predict. Specifically, short-term predictors and correlates of suicide risk remain largely unknown. Ecological momentary assessment (EMA) may be used to assess how suicidal thoughts and behaviors (STBs) unfold in real-world contexts. We conducted a systematic literature review of EMA studies in suicide research to assess (1) how EMA has been utilized in the study of STBs (i.e., methodology, findings), and (2) the feasibility, validity and safety of EMA in the study of STBs. We identified 45 articles, detailing 23 studies. Studies mainly focused on examining how known longitudinal predictors of suicidal ideation perform within shorter (hourly, daily) time frames. Recent studies have explored the prospects of digital phenotyping of individuals with suicidal ideation. The results indicate that suicidal ideation fluctuates substantially over time (hours, days), and that individuals with higher mean ideation also have more fluctuations. Higher suicidal ideation instability may represent a phenotypic indicator for increased suicide risk. Few studies succeeded in establishing prospective predictors of suicidal ideation beyond prior ideation itself. Some studies show negative affect, hopelessness and burdensomeness to predict increased ideation within-day, and sleep characteristics to impact next-day ideation. The feasibility of EMA is encouraging: agreement to participate in EMA research was moderate to high (median = 77%), and compliance rates similar to those in other clinical samples (median response rate = 70%). More individuals reported suicidal ideation through EMA than traditional (retrospective) self-report measures. Regarding safety, no evidence was found of systematic reactivity of mood or suicidal ideation to repeated assessments of STBs. In conclusion, suicidal ideation can fluctuate substantially over short periods of time, and EMA is a suitable method for capturing these fluctuations. Some specific predictors of subsequent ideation have been identified, but these findings warrant further replication. While repeated EMA assessments do not appear to result in systematic reactivity in STBs, participant burden and safety remains a consideration when studying high-risk populations. Considerations for designing and reporting on EMA studies in suicide research are discussed.",https://www.frontiersin.org/articles/10.3389/fdgth.2022.876595/full,"https://scholar.google.com/scholar?q=related:VHHv0LDDNe0J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.frontiersin.org
+64,40,"KP Dao, K De Cocker, HL Tong…",… assessments to promote health behaviors: systematic review and adapted checklist for reporting ecological momentary assessment and intervention studies,2021.0,JMIR mHealth and …,mhealth.jmir.org,https://mhealth.jmir.org/2021/11/e22890,"https://scholar.google.com/scholar?cites=3088822667963034599&as_sdt=2005&sciodt=0,5&hl=en",3,2024-06-11 20:16:42,HTML,,,,,,,,40,13.33,10,4,3.0,"Abstract
+
+Background:
+Healthy behaviors are crucial for maintaining a person’s health and well-being. The effects of health behavior interventions are mediated by individual and contextual factors that vary over time. Recently emerging smartphone-based ecological momentary interventions (EMIs) can use real-time user reports (ecological momentary assessments [EMAs]) to trigger appropriate support when needed in daily life.
+
+
+Objective:
+This systematic review aims to assess the characteristics of smartphone-delivered EMIs using self-reported EMAs in relation to their effects on health behaviors, user engagement, and user perspectives.
+
+
+Methods:
+We searched MEDLINE, Embase, PsycINFO, and CINAHL in June 2019 and updated the search in March 2020. We included experimental studies that incorporated EMIs based on EMAs delivered through smartphone apps to promote health behaviors in any health domain. Studies were independently screened. The PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines were followed. We performed a narrative synthesis of intervention effects, user perspectives and engagement, and intervention design and characteristics. Quality appraisal was conducted for all included studies.
+
+
+Results:
+We included 19 papers describing 17 unique studies and comprising 652 participants. Most studies were quasi-experimental (13/17, 76%), had small sample sizes, and great heterogeneity in intervention designs and measurements. EMIs were most popular in the mental health domain (8/17, 47%), followed by substance abuse (3/17, 18%), diet, weight loss, physical activity (4/17, 24%), and smoking (2/17, 12%). Of the 17 studies, the 4 (24%) included randomized controlled trials reported nonstatistically significant effects on health behaviors, and 4 (24%) quasi-experimental studies reported statistically significant pre-post improvements in self-reported primary outcomes, namely depressive (P<.001) and psychotic symptoms (P=.03), drinking frequency (P<.001), and eating patterns (P=.01). EMA was commonly used to capture subjective experiences as well as behaviors, whereas sensors were rarely used. Generally, users perceived EMIs to be helpful. Common suggestions for improvement included enhancing personalization, multimedia and interactive capabilities (eg, voice recording), and lowering the EMA reporting burden. EMI and EMA components were rarely reported and were not described in a standardized manner across studies, hampering progress in this field. A reporting checklist was developed to facilitate the interpretation and comparison of findings and enhance the transparency and replicability of future studies using EMAs and EMIs.
+
+
+Conclusions:
+The use of smartphone-delivered EMIs using self-reported EMAs to promote behavior change is an emerging area of research, with few studies evaluating efficacy. Such interventions could present an opportunity to enhance health but need further assessment in larger participant cohorts and well-designed evaluations following reporting checklists. Future research should explore combining self-reported EMAs of subjective experiences with objective data passively collected via sensors to promote personalization while minimizing user burden, as well as explore different EMA data collection methods (eg, chatbots).
+
+
+Trial Registration:
+PROSPERO CRD42019138739; https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=138739
+
+
+JMIR Mhealth Uhealth 2021;9(11):e22890
+
+doi:10.2196/22890
+
+
+Keywords
+ecological momentary assessment (234); ecological momentary intervention (23); behavior change (294); health behavior (216); mHealth (2929); mobile health (1629); smartphone apps (62); mobile phone (2900) ",https://mhealth.jmir.org/2021/11/e22890,"https://scholar.google.com/scholar?q=related:52sc6tmz3SoJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",mhealth.jmir.org
+67,40,"MA Marciniak, L Shanahan, J Rohde…",Standalone smartphone cognitive behavioral therapy–based ecological momentary interventions to increase mental health: Narrative review,2020.0,JMIR mHealth and …,mhealth.jmir.org,https://mhealth.jmir.org/2020/11/e19836/,"https://scholar.google.com/scholar?cites=8321050498454656059&as_sdt=2005&sciodt=0,5&hl=en",70,2024-06-11 20:16:42,HTML,,,,,,,,40,10.0,10,4,4.0,"Abstract
+
+Background:
+A growing number of psychological interventions are delivered via smartphones with the aim of increasing the efficacy and effectiveness of these treatments and providing scalable access to interventions for improving mental health. Most of the scientifically tested apps are based on cognitive behavioral therapy (CBT) principles, which are considered the gold standard for the treatment of most mental health problems.
+
+
+Objective:
+This review investigates standalone smartphone-based ecological momentary interventions (EMIs) built on principles derived from CBT that aim to improve mental health.
+
+
+Methods:
+We searched the MEDLINE, PsycINFO, EMBASE, and PubMed databases for peer-reviewed studies published between January 1, 2007, and January 15, 2020. We included studies focusing on standalone app-based approaches to improve mental health and their feasibility, efficacy, or effectiveness. Both within- and between-group designs and studies with both healthy and clinical samples were included. Blended interventions, for example, app-based treatments in combination with psychotherapy, were not included. Selected studies were evaluated in terms of their design, that is, choice of the control condition, sample characteristics, EMI content, EMI delivery characteristics, feasibility, efficacy, and effectiveness. The latter was defined in terms of improvement in the primary outcomes used in the studies.
+
+
+Results:
+A total of 26 studies were selected. The results show that EMIs based on CBT principles can be successfully delivered, significantly increase well-being among users, and reduce mental health symptoms. Standalone EMIs were rated as helpful (mean 70.8%, SD 15.3; n=4 studies) and satisfying for users (mean 72.6%, SD 17.2; n=7 studies).
+
+
+Conclusions:
+Study quality was heterogeneous, and feasibility was often not reported in the reviewed studies, thus limiting the conclusions that can be drawn from the existing data. Together, the studies show that EMIs may help increase mental health and thus support individuals in their daily lives. Such EMIs provide readily available, scalable, and evidence-based mental health support. These characteristics appear crucial in the context of a global crisis such as the COVID-19 pandemic but may also help reduce personal and economic costs of mental health impairment beyond this situation or in the context of potential future pandemics.
+
+
+JMIR Mhealth Uhealth 2020;8(11):e19836
+
+doi:10.2196/19836
+
+
+Keywords
+mHealth (2929); mobile app (550); ecological momentary intervention (23); EMI (5); cognitive behavioral therapy (291); CBT (89); COVID-19 (2817); mobile phone (2900); smartphone (786) ",https://mhealth.jmir.org/2020/11/e19836/,"https://scholar.google.com/scholar?q=related:OxR6bldPenMJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",mhealth.jmir.org
+72,36,"A Molloy, PL Anderson",Engagement with mobile health interventions for depression: a systematic review,2021.0,Internet interventions,Elsevier,https://www.sciencedirect.com/science/article/pii/S2214782921000944,"https://scholar.google.com/scholar?cites=6479688891715800788&as_sdt=2005&sciodt=0,5&hl=en",189,2024-06-11 20:16:42,HTML,,,,,,,,36,12.0,18,2,3.0,"Highlights
+
+•
+
+Clinical trials of mHealth programs for depression report engagement inconsistently.
+
+•
+
+Most clinical trials report objective engagement, such as smartphone analytics.
+
+•
+
+About half of trials report subjective engagement using self-report and interviews.
+
+•
+
+Most trials do not test for associations between engagement and other variables.
+
+•
+
+Consistent reporting can inform research on dose-response relationships for mHealth
+
+Abstract
+Background
+
+Depressive disorders are a major public health problem, and many people face barriers to accessing evidence-based mental health treatment. Mobile health (mHealth) interventions may circumvent logistical barriers to in-person care (e.g., cost, transportation), however the symptoms of depression (low motivation, concentration difficulties) may make it difficult for people with the disorder to engage with mHealth.
+
+Objective
+
+The aim of this systematic review is to examine assessment and reporting of engagement in clinical trials of mHealth interventions for depression, including objective engagement (e.g., number of times program is used), subjective engagement (e.g., qualitative data on users' experiences), and associations between engagement and other clinically important variables (e.g., symptom improvement, participant characteristics).
+
+Methods
+
+Three electronic databases (PsycINFO, Web of Science, PubMed) were searched in February 2020 using search terms for mHealth and depression. Studies were included in the review if they tested a mHealth intervention designed for people with depressive disorders or elevated depression symptoms.
+
+Results
+
+Thirty studies met inclusion criteria and were reviewed. Most studies reported objective engagement (N = 23, 76.7%), approximately half reported subjective engagement (N = 16, 53.3%), and relatively few examined associations between engagement and clinical improvement, participant characteristics, or other clinically relevant variables (N = 13, 43.3%).
+
+Conclusions
+
+Although most studies in this small but rapidly growing literature report at least one measure of engagement, there is substantial heterogeneity. Intentional, theory-driven, and consistent measurement of engagement with mHealth interventions for depression may advance the field's understanding of effective engagement to facilitate clinical improvement, identify dose-response relationships, and maximize generalizability for underserved populations.",https://www.sciencedirect.com/science/article/pii/S2214782921000944,"https://scholar.google.com/scholar?q=related:1M7DVbd67FkJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.sciencedirect.com
+77,32,"CK Scott, ML Dennis, DH Gustafson",Using smartphones to decrease substance use via self-monitoring and recovery support: study protocol for a randomized control trial,2017.0,Trials,Springer,https://link.springer.com/article/10.1186/s13063-017-2096-z,"https://scholar.google.com/scholar?cites=15980267468017898827&as_sdt=2005&sciodt=0,5&hl=en",230,2024-06-11 20:16:42,HTML,10.1186/s13063-017-2096-z,,,,,,,32,4.57,11,3,7.0,"Background
+
+Alcohol abuse, other substance use disorders, and risk behaviors associated with the human immunodeficiency virus (HIV) represent three of the top 10 modifiable causes of mortality in the US. Despite evidence that continuing care is effective in sustaining recovery from substance use disorders and associated behaviors, patients rarely receive it. Smartphone applications (apps) have been effective in delivering continuing care to patients almost anywhere and anytime. This study tests the effectiveness of two components of such apps: ongoing self-monitoring through Ecological Momentary Assessments (EMAs) and immediate recovery support through Ecological Momentary Interventions (EMIs).
+
+Methods/design
+
+The target population, adults enrolled in substance use disorder treatment (n = 400), are being recruited from treatment centers in Chicago and randomly assigned to one of four conditions upon discharge in a 2 × 2 factorial design. Participants receive (1) EMAs only, (2) EMIs only, (3) combined EMAs + EMIs, or (4) a control condition without EMA or EMI for 6 months. People in the experimental conditions receive smartphones with the apps (EMA and/or EMI) specific to their condition. Phones alert participants in the EMA and EMA + EMI conditions at five random times per day and present participants with questions about people, places, activities, and feelings that they experienced in the past 30 min and whether these factors make them want to use substances, support their recovery, or have no impact. Those in the EMI and EMA + EMI conditions have continual access to a suite of support services. In the EMA + EMI condition, participants are prompted to use the EMI(s) when responses to the EMA(s) indicate risk. All groups have access to recovery support as usual. The primary outcome is days of abstinence from alcohol and other drugs. Secondary outcomes are number of HIV risk behaviors and whether abstinence mediates the effects of EMA, EMI, or EMA + EMI on HIV risk behaviors.
+
+Discussion
+
+This project will enable the field to learn more about the effects of EMAs and EMIs on substance use disorders and HIV risk behaviors, an understanding that could potentially make treatment and recovery more effective and more widely accessible.
+
+Trial registration
+
+ClinicalTrials.gov, ID: NCT02132481. Registered on 5 May 2014.",https://link.springer.com/article/10.1186/s13063-017-2096-z,"https://scholar.google.com/scholar?q=related:SxXwVphQxd0J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+79,31,"I Baltasar-Tello, C Miguelez-Fernandez…",Ecological momentary assessment and mood disorders in children and adolescents: a systematic review,2018.0,Current Psychiatry …,Springer,https://link.springer.com/article/10.1007/s11920-018-0913-z,"https://scholar.google.com/scholar?cites=14130731961355249537&as_sdt=2005&sciodt=0,5&hl=en",81,2024-06-11 20:16:42,,10.1007/s11920-018-0913-z,,,,,,,31,5.17,10,3,6.0,"Purpose of Review
+
+The aim of the present review is to systematically examine published data regarding ecological momentary assessment (EMA) in children and adolescents with mood disorders.
+
+Recent Findings
+
+EMA is increasingly used to collect participant’s information in their real environment and in real time. There are multiple studies focused on the evaluation of mood disorders in children and adolescents, but only a few of them used EMA protocols.
+
+Summary
+
+Results found in this review showed a wide variability of works with different fields of study, methodological approaches, and EMA protocols. More than 60% of EMA studies in children and adolescents with mood disorders were conducted via phone call, showing high completion rates with data missing in 5 to 11.5% of the calls. Length of studies varied from a 4-day EMA protocol to a maximum of 8 weeks. Positive and negative affect, daily activities, and social context were the main EMA measures. Despite the limited number of studies using EMA in children and adolescents with mood disorders, EMA was useful in assessing mood symptoms in the moment and in patients’ real-life environment. Studies also showed high completion and satisfaction rates. Although web pages and apps use have been increasing over the past years, the evidence base is still scarce. Future studies can facilitate understanding of EMA methodology among youth with mood disorders.",,"https://scholar.google.com/scholar?q=related:gafW3NlxGsQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+82,29,"DR Kolar, F Hammerle, E Jenetzky, M Huss",Smartphone-Enhanced Low-Threshold Intervention for adolescents with Anorexia Nervosa (SELTIAN) waiting for outpatient psychotherapy: study protocol of a …,2017.0,BMJ open,bmjopen.bmj.com,https://bmjopen.bmj.com/content/7/10/e018049.abstract,"https://scholar.google.com/scholar?cites=1034914697928810973&as_sdt=2005&sciodt=0,5&hl=en",274,2024-06-11 20:16:42,,,,,,,,,29,4.14,7,4,7.0,"Abstract
+
+Introduction As smartphones are widely distributed nowadays, mental health apps seem to be a promising treatment tool. First self-help apps for eating disorders have been developed recently. However, studies assessing the efficacy of such apps are scarce. A smartphone app could prevent further weight reduction and increase commitment during waiting time for outpatient treatment, especially for adolescents with anorexia nervosa (AN). In this study protocol, a randomised controlled trial to assess the efficacy of a smartphone-enhanced low-threshold intervention for AN during waiting time is described.
+
+Methods and analysis 30 adolescents with AN aged 12–19 years will be recruited at three child and adolescent psychiatry centres in Germany. All participants will be randomised to consultations only or consultations and the use of the Jourvie Research app. The app will be installed either on their own smartphone or on a research device. The participants will receive biweekly to monthly consultations for 3 months to review meal plans and weight management with a clinician. In addition, the Jourvie Research app for meal, behaviour and emotion protocolling will be provided to the intervention group. The protocols will be discussed with a clinician during the consultations. Dialectical behaviour therapy-informed skills for tension regulation to increase compliance with the meal plan will be taught in the intervention group and the app will remind the participant of a skill in a moment of need. The primary outcome is the age-adjusted and height-adjusted weight gain in standard deviation score after 3 months.
+
+Ethics and dissemination Results will be disseminated at conferences and through peer-reviewed publications. The trial was approved by the ethics review board of the local medical association, Mainz, Germany, under the reference number 837.338.15.
+
+Trial registration number German clinical trials register, reference number DRKS00008946.",https://bmjopen.bmj.com/content/bmjopen/7/10/e018049.full.pdf,"https://scholar.google.com/scholar?q=related:3aHgPm_BXA4J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",bmjopen.bmj.com
+85,28,"K Wunsch, T Eckert, J Fiedler, L Cleven…",Effects of a collective family-based mobile health intervention called “SMARTFAMILY” on promoting physical activity and healthy eating: protocol for a …,2020.0,JMIR Research …,researchprotocols.org,https://www.researchprotocols.org/2020/11/e20534/,"https://scholar.google.com/scholar?cites=14170202956702545591&as_sdt=2005&sciodt=0,5&hl=en",221,2024-06-11 20:16:42,HTML,,,,,,,,28,7.0,6,5,4.0,"Abstract
+
+Background:
+Numerous smartphone apps are targeting physical activity and healthy eating, but empirical evidence on their effectiveness for initialization and maintenance of behavior change, especially in children and adolescents, is still limited.
+
+
+Objective:
+The aim of this study was to conceptualize a theory-based and evidence-based mHealth intervention called SMARTFAMILY (SF) that targets physical activity and healthy eating in a collective family-based setting. Subsequently, the app will be refined and re-evaluated to analyze additional effects of just-in-time adaptive interventions (JITAIs) and gamification features.
+
+
+Methods:
+A smartphone app based on behavior change theories and behavior change techniques was developed and implemented and will be evaluated with family members individually and cooperatively (SF trial). Existing evidence and gained results were used to refine and will be used to re-evaluate the app (SF2.0 trial). Both trials are cluster randomized controlled trials with 3 measurement occasions. The intervention group uses the app for 3 consecutive weeks, whereas the control group receives no treatment. Baseline measurements (T0) and postintervention measurements (T1) include physical activity (ie, self-reported and accelerometry) and healthy eating measurements (ie, self-reported fruit and vegetable intake) as the primary outcomes. The secondary outcomes (ie, self-reported) are intrinsic motivation, behavior-specific self-efficacy, and the family health climate, complemented by an intentional measure in SF2.0. Four weeks following T1, a follow-up assessment (T2) is completed by the participants, consisting of all questionnaire items to assess the stability of the intervention effects. Mixed-method analysis of covariance will be used to calculate the primary intervention effects (ie, physical activity, fruit and vegetable intake) while controlling for covariates, including family health climate, behavior-specific self-efficacy, and intrinsic motivation.
+
+
+Results:
+This study is funded by the German Federal Ministry of Education and Research and ethically approved by the Karlsruhe Institute of Technology. For both trials, it is hypothesized that the apps will positively influence physical activity and healthy eating in the whole family. Furthermore, SF2.0 is expected to produce stronger effects (ie, higher effect sizes) compared to SF. SF app development and piloting are completed. Data acquisition for the SF trial is terminated and discontinued due to the COVID-19 pandemic. SF2.0 app development and piloting are completed, while data acquisition is ongoing. Participant recruitment for the SF 2.0 trial started in February 2020. The results for SF are expected to be published in mid-2021, and the results of SF2.0 are expected to be published in mid-2022.
+
+
+Conclusions:
+In this study, it is hypothesized that targeting the whole family will facilitate behavior change at the individual level and the family level, as the implemented strategies address changes in daily family life. Furthermore, subsequent app development (SF2.0) with supplementary addition of motivation-enhancing features and a JITAI approach is expected to enhance positive intervention effects.
+
+
+Trial Registration:
+German Clinical Trials Register DRKS00010415; https://tinyurl.com/yyo87yyu
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/20534
+
+
+JMIR Res Protoc 2020;9(11):e20534
+
+doi:10.2196/20534
+
+
+Keywords
+mobile app (550); telemedicine (1432); behavior change (294); health behavior (216); family (56); primary prevention (39); exercise (428); food and nutrition (3); randomized controlled trial (653); accelerometer (45); wearable electronic devices (70); social cognitive determinants (1); just-in-time adaptive intervention (30); digital intervention (170); mobile phone (2900) ",https://www.researchprotocols.org/2020/11/e20534/,"https://scholar.google.com/scholar?q=related:t_ZxHYOspsQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+89,27,"A Pennou, T Lecomte, S Potvin, Y Khazaal","Mobile intervention for individuals with psychosis, dual disorders, and their common comorbidities: a literature review",2019.0,Frontiers in psychiatry,frontiersin.org,https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2019.00302,"https://scholar.google.com/scholar?cites=7474443182988135700&as_sdt=2005&sciodt=0,5&hl=en",279,2024-06-11 20:16:42,HTML,10.3389/fpsyt.2019.00302,,,,,,,27,5.4,7,4,5.0,"Antoine Pennou1,2*Tania Lecomte1,2Stéphane Potvin2Yasser Khazaal2,3
+1Schizophrenia and Psychoses Study Laboratory for Intervention and Recovery, Department of Psychology, University of Montreal, Montreal, QC, Canada
+2Research Center of the Montreal Mental Health University Institute, Intervention Axis and Services & Neurobiology and Cognition, Mental Health University Institute of Montreal, Montreal, QC, Canada
+3Addiction Medicine, Department of Psychiatry, Lausanne University Hospital, Lausanne, Switzerland
+
+Over 50% of people diagnosed with a severe mental illness, such as schizophrenia or bipolar disorder, will meet criteria for a substance use disorder in their lifetime. This dual disorder often starts during youth and leads to significant societal costs, including lower employability rates, more hospitalizations, and higher risk of homelessness and of suicide attempts when compared to those with a serious mental illness without substance misuse. Moreover, many individuals presenting with comorbid disorders also present with other psychological difficulties as well, such as personality disorders or anxiety and depression, also known as complex comorbid disorders. Transdiagnostic treatments that focus on core difficulties found in people with complex dual disorders, such as emotional regulation, are direly needed. Emotional regulation skills can help reduce distress related to psychotic symptoms and maintain abstinence in substance use disorders. New technologies in the field of communications have developed considerably over the past decade and have the potential to improve access to such treatments, a major problem in many health care settings. As such, this paper aims at: presenting core difficulties present in many individuals with dual disorders, reviewing the scientific literature pertaining to the use of mobile applications in mental health and addictions, and presenting the development and potential of a new application for emotional regulation for people with dual disorders.",https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2019.00302,"https://scholar.google.com/scholar?q=related:FA3ZP3mOumcJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.frontiersin.org
+91,25,"IH Bell, SF Fielding-Smith, M Hayward, SL Rossell…",Smartphone-based ecological momentary assessment and intervention in a coping-focused intervention for hearing voices (SAVVy): study protocol for a pilot …,2018.0,Trials,Springer,https://link.springer.com/article/10.1186/s13063-018-2607-6,"https://scholar.google.com/scholar?cites=9231816978766610652&as_sdt=2005&sciodt=0,5&hl=en",4,2024-06-11 20:16:42,HTML,10.1186/s13063-018-2607-6,,,,,,,25,4.17,5,5,6.0,"Background
+
+Smartphone-based ecological momentary assessment and intervention (EMA/I) show promise for enhancing psychological treatments for psychosis. EMA has the potential to improve assessment and formulation of experiences which fluctuate day-to-day, and EMI may be used to prompt use of therapeutic strategies in daily life. The current study is an examination of these capabilities in the context of a brief, coping-focused intervention for distressing voice hearing experiences.
+
+Methods/design
+
+This is a rater-blinded, pilot randomised controlled trial comparing a four-session intervention in conjunction with use of smartphone EMA/I between sessions, versus treatment-as-usual. The recruitment target is 34 participants with persisting and distressing voice hearing experiences, recruited through a Voices Clinic based in Melbourne, Australia, and via wider advertising. Allocation will be made using minimisation procedure, balancing of the frequency of voices between groups. Assessments are completed at baseline and 8 weeks post-baseline. The primary outcomes of this trial will focus on feasibility and acceptability of the intervention and trial methodology, with secondary outcomes examining preliminary clinical effects related to overall voice severity, the emotional and functional impact of the voices, and emotional distress.
+
+Discussion
+
+This study offers a highly novel examination of specific smartphone capabilities and their integration with traditional psychological treatment for distressing voices. Such technology has potential to enhance psychological interventions and promote adaptation to distressing experiences.
+
+Trial registration
+
+Australian New Zealand Clinical Trial Registry, ACTRN12617000348358. Registered on 7 March 2017.",https://link.springer.com/article/10.1186/s13063-018-2607-6,"https://scholar.google.com/scholar?q=related:3MDNQqEAHoAJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+96,24,"J Lüscher, C Berli, P Schwaninger, U Scholz",Smoking cessation with smartphone applications (SWAPP): study protocol for a randomized controlled trial,2019.0,BMC Public Health,Springer,https://link.springer.com/article/10.1186/s12889-019-7723-z,"https://scholar.google.com/scholar?cites=5204664984997025246&as_sdt=2005&sciodt=0,5&hl=en",217,2024-06-11 20:16:42,HTML,10.1186/s12889-019-7723-z,,,,,,,24,4.8,6,4,5.0,"Background
+
+Tobacco smoking remains one of the biggest public health threats. Smartphone apps offer new promising opportunities for supporting smoking cessation in real-time. The social context of smokers has, however, been neglected in smartphone apps promoting smoking cessation. This randomized controlled trial investigates the effectiveness of a smartphone app in which smokers quit smoking with the help of a social network member.
+
+Methods
+
+This protocol describes the design of a single-blind, two-arm, parallel-group, intensive longitudinal randomized controlled trial. Participants of this study are adult smokers who smoke at least one cigarette per day and intend to quit smoking at a self-set quit date. Blocking as means of group-balanced randomization is used to allocate participants to intervention or control conditions. Both intervention and control group use a smartphone-compatible device for measuring their daily smoking behavior objectively via exhaled carbon monoxide. In addition, the intervention group is instructed to use the SmokeFree Buddy app, a multicomponent app that also facilitates smoking-cessation specific social support from a buddy over a smartphone application. All participants fill out a baseline diary for three consecutive days and are invited to the lab for a background assessment. They subsequently participate in an end-of-day diary phase from 7 days before and until 20 days after a self-set quit date. Six months after the self-set quit date a follow-up diary for three consecutive days takes place. The primary outcome measures are daily self-reported and objectively-assessed smoking abstinence and secondary outcome measures are daily self-reported number of cigarettes smoked.
+
+Discussion
+
+This is the first study examining the effectiveness of a smoking cessation mobile intervention using the SmokeFree Buddy app compared to a control group in a real-life setting around a self-set quit date using a portable objective measure to assess smoking abstinence. Opportunities and challenges with running studies with smoking participants and certain design-related decisions are discussed.
+
+Trial registration
+
+This trial was prospectively registered on 04/04/2018 at ISRCTNregistry: ISRCTN11154315.",https://link.springer.com/article/10.1186/s12889-019-7723-z,"https://scholar.google.com/scholar?q=related:3lWpdTqvOkgJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+100,22,"CJC Wright, PM Dietze, PA Agius…",An ecological momentary intervention to reduce alcohol consumption in young adults delivered during drinking events: protocol for a pilot randomized …,2017.0,JMIR research …,researchprotocols.org,https://www.researchprotocols.org/2017/5/e95,"https://scholar.google.com/scholar?cites=13237723046438738545&as_sdt=2005&sciodt=0,5&hl=en",57,2024-06-11 20:16:42,HTML,,,,,,,,22,3.14,6,4,7.0,"Abstract
+
+Background:
+Risky drinking is a significant public health issue in young Australian adults. Brief interventions are one of few effective methods of reducing risky drinking but are time and cost intensive; innovative methods of delivery are therefore of interest. Mobile phones offer new opportunities to collect data and intervene during risky drinking events. Mobile phones have successfully been used for delivery of alcohol-related brief interventions and data collection but not in combination with or during drinking events.
+
+
+Objective:
+This pilot study will investigate the efficacy of an ecological momentary intervention (EMI), with combined ecological momentary assessment (EMA) and brief intervention delivered by mobile phones to young adults during risky drinking events.
+
+
+Methods:
+We will use a 3-armed randomized controlled trial to investigate the efficacy of the intervention for reducing peak single occasion drinking. Our sample is recruited from an observational cohort study of young, risky drinkers. Participants will be randomized into 1 of 3 intervention arms. On 6 nights across a 12-week study period, EMI and EMA groups will complete hourly EMA surveys on their mobile phone. EMI participants will receive tailored feedback short message service (SMS) texts corresponding to their EMA survey responses. The EMI participants will not receive feedback SMS. A third group will have no contact (no-contact control). All groups will then be contacted for a follow-up interview within 4 weeks of the 12-week study period ending.
+
+
+Results:
+The primary outcome is mean reduction in standard drinks consumed during their most recent heavy drinking occasion as measured at follow-up. Secondary outcomes include alcohol consumption over the previous 6 months, experiences of alcohol-related harms, attitudes toward drinking and drunkenness, hazardous drinking and use of tobacco and illicit drugs. A random effects mixed modelling approach using maximum likelihood estimation will be used to provide estimates of differences in mean drinking levels between those receiving the intervention and control participants.
+
+
+Conclusions:
+This study is novel in that, unlike previous work, it will intervene repeatedly during single occasion drinking events. Further, it extends previous research in this area, which has applied limited tailoring of message content for SMS-based brief interventions. The findings of this study will contribute to the growing body of evidence to inform the use of mobile health interventions for reducing alcohol consumption and harms.
+
+
+Trial Registration:
+Australian New Zealand Clinical Trials ACTRN12616001323415; https://www.anzctr.org.au/ Trial/Registration/TrialReview.aspx?id=369534 (Archived by WebCite at http://www.webcitation.org/ 6qDqBZV9b)
+
+
+JMIR Res Protoc 2017;6(5):e95
+
+doi:10.2196/resprot.6760
+
+
+Keywords
+alcohol drinking (36); young adult (181); mHealth (2929); text messaging (231); ecological momentary intervention (23) ",https://www.researchprotocols.org/2017/5/e95,"https://scholar.google.com/scholar?q=related:cZr7afnWtbcJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+102,22,"MS Businelle, ST Walters, EY Mun…",Reducing drinking among people experiencing homelessness: Protocol for the development and testing of a just-in-time adaptive intervention,2020.0,JMIR Research …,researchprotocols.org,https://www.researchprotocols.org/2020/4/e15610/,"https://scholar.google.com/scholar?cites=17759901041226098318&as_sdt=2005&sciodt=0,5&hl=en",206,2024-06-11 20:16:42,HTML,,,,,,,,22,5.5,6,4,4.0,"Abstract
+
+Background:
+Adults who are homeless are more likely to have alcohol use disorders (AUDs) compared with domiciled adults. Although AUD treatments are commonly available, many factors (eg, transportation limitations and inability to schedule appointments) contribute to low treatment completion rates and low success rates of these interventions among adults experiencing homelessness. Most adults who are homeless own mobile phones; however, no interventions have been developed that use mobile devices to deliver and support AUD interventions for this population. Mobile phone–based AUD interventions may reduce barriers that have limited the use and utility of traditional interventions.
+
+
+Objective:
+The aim of this study is to (1) identify variables (eg, affect, stress, geolocation, and cravings) that predict drinking among homeless adults (phase I), (2) develop a mobile intervention that utilizes an algorithm to identify moments of risk for drinking and deliver treatment messages that are tailored to the individual’s current needs in real time (phase II), and (3) pilot test the intervention app (phase III).
+
+
+Methods:
+In phase I, adults experiencing homelessness with an AUD (N=80) will complete baseline, equipment, 2-week, and 4-week follow-up visits in person. Participants will be prompted to complete five daily ecological momentary assessments on a study-provided smartphone for 28 days. The smartphone app will collect GPS coordinates every 5 min for the entire 28-day study period. Participants will wear a transdermal alcohol sensor that will objectively measure alcohol use. In phase II, we will use phase I data to develop an algorithm that identifies moments of heightened risk for drinking and develop treatment messages that address risk factors for drinking. Phase III will pilot test the intervention in 40 adults experiencing homelessness with AUD.
+
+
+Results:
+This project was funded in June 2018. IRB approval was obtained in October 2018, and data collection for phase I began in February 2019. Phase III data collection is expected to conclude in 2020. To date, 80 participants have consented to the study, and data analysis for phase I will begin in early 2020.
+
+
+Conclusions:
+This research will highlight intervention targets and develop a novel intervention for understudied and underserved adults experiencing homelessness with AUD.
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/15610
+
+
+JMIR Res Protoc 2020;9(4):e15610
+
+doi:10.2196/15610
+
+
+Keywords
+alcohol use disorder (27); mobile health (1629); smartphone (786); ecological momentary assessment (234); homeless persons (3) ",https://www.researchprotocols.org/2020/4/e15610/,"https://scholar.google.com/scholar?q=related:jiZfqObXd_YJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+110,19,"M Daemen, MR Postma, R Lindauer…",Efficacy of a transdiagnostic ecological momentary intervention for improving self-esteem (SELFIE) in youth exposed to childhood adversity: study protocol for …,2021.0,Trials,Springer,https://link.springer.com/article/10.1186/s13063-021-05585-y,"https://scholar.google.com/scholar?cites=2492436914039881045&as_sdt=2005&sciodt=0,5&hl=en",93,2024-06-11 20:16:42,HTML,10.1186/s13063-021-05585-y,,,,,,,19,6.33,5,4,3.0,"Background
+
+Targeting low self-esteem in youth exposed to childhood adversity is a promising strategy for preventing adult mental disorder, but psychological help remains difficult to access and accept for youth, calling for novel, youth-friendly approaches. Mobile Health (mHealth) and, most prominently, ecological momentary interventions (EMIs) provide a unique opportunity to deliver youth-friendly, personalized, real-time, guided self-help interventions. The aim of this study is to investigate the efficacy of a novel, accessible, transdiagnostic ecological momentary intervention for improving self-esteem (‘SELFIE’) in youth with prior exposure to childhood adversity.
+
+Methods/design
+
+In a parallel-group, assessor-blind, multi-center randomized controlled trial, individuals aged 12–26 years with prior exposure to childhood adversity and low self-esteem will be randomly allocated to SELFIE in addition to treatment as usual (TAU) as the experimental condition or the control condition of TAU only, which will include access to all standard health care. SELFIE is a digital guided self-help intervention administered through a smartphone-based app to allow for interactive, personalized, real-time and real-world transfer of intervention components in individuals’ daily lives, blended with three training sessions delivered by trained mental health professionals over a 6-week period. Outcomes will be assessed at baseline, post-intervention, and 6-month follow-up by blinded assessors. The primary outcome will be the level of self-esteem as measured with the Rosenberg Self-Esteem Scale (RSES).
+
+Discussion
+
+The current study is the first to establish the efficacy of an EMI focusing on improving self-esteem transdiagnostically in youth exposed to childhood adversity. If this trial provides evidence on the efficacy of SELFIE, it has significant potential to contribute to minimizing the deleterious impact of childhood adversity and, thereby, preventing the development of mental disorder later in life.
+
+Trial registration
+
+Netherlands Trial Register NL7129 (NTR7475). Registered on 9 November 2018",https://link.springer.com/article/10.1186/s13063-021-05585-y,"https://scholar.google.com/scholar?q=related:Vf1q9irqliIJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+115,18,"NM Papini, CH Yang, B Do, TB Mason…",External contexts and movement behaviors in ecological momentary assessment studies: a systematic review and future directions,2023.0,International Review of …,Taylor &Francis,https://www.tandfonline.com/doi/abs/10.1080/1750984X.2020.1858439,"https://scholar.google.com/scholar?cites=9173660462785913942&as_sdt=2005&sciodt=0,5&hl=en",163,2024-06-11 20:16:42,,10.1080/1750984X.2020.1858439,,,,,,,18,18.0,4,5,1.0,"
+ABSTRACT
+
+This systematic review synthesized evidence from ecological momentary assessment (EMA) studies examining associations between external contexts (social, physical, or time-based) and everyday movement behaviors in children and adults. Published English articles were searched in multiple databases and assessed for methodological quality. The 29 eligible EMA studies differed in their sample size, EMA design, and activity measures. Available evidence indicated that specific external contexts may play a role in shaping individuals’ everyday movement behaviors. For social contexts, the presence of others or recent interaction with others was related to more physical activity and less sedentary time. For physical contexts, there were consistent findings suggesting that staying outdoors (vs. indoors) was related to increased physical activity and decreased sedentary behavior. For time-based contexts, time of day or weekend (vs. weekday) influence on movement behaviors was not consistent. Favorable weather conditions were associated with greater physical activity, while poor weather conditions were conducive to sedentary behavior. The influence of other social, physical, and time-based factors on movement behaviors was mixed or inconclusive. Future EMA work should include clinical and minority populations, examine moderators and other behavior parameters, and test the potential mechanisms explaining the associations between external contexts and everyday movement behaviors.
+",,"https://scholar.google.com/scholar?q=related:VmRmNpZjT38J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.tandfonline.com
+121,15,"A Schick, I Paetzold, C Rauschenberg…","Effects of a novel, transdiagnostic, hybrid ecological momentary intervention for improving resilience in youth (EMIcompass): protocol for an exploratory …",2021.0,JMIR research …,researchprotocols.org,https://www.researchprotocols.org/2021/12/e27462,"https://scholar.google.com/scholar?cites=9286266690620096973&as_sdt=2005&sciodt=0,5&hl=en",47,2024-06-11 20:16:42,HTML,,,,,,,,15,5.0,4,4,3.0,"Abstract
+
+Background:
+Most mental disorders first emerge in youth and, in their early stages, surface as subthreshold expressions of symptoms comprising a transdiagnostic phenotype of psychosis, mania, depression, and anxiety. Elevated stress reactivity is one of the most widely studied mechanisms underlying psychotic and affective mental health problems. Thus, targeting stress reactivity in youth is a promising indicated and translational preventive strategy for adverse mental health outcomes that could develop later in life and for improving resilience. Compassion-focused interventions offer a wide range of innovative therapeutic techniques that are particularly amenable to being implemented as ecological momentary interventions (EMIs), a specific type of mobile health intervention, to enable youth to access interventions in a given moment and context in daily life. This approach may bridge the current gap in youth mental health care.
+
+
+Objective:
+This study aims to investigate the clinical feasibility, candidate underlying mechanisms, and initial signals of the efficacy of a novel, transdiagnostic, hybrid EMI for improving resilience to stress in youth—EMIcompass.
+
+
+Methods:
+In an exploratory randomized controlled trial, youth aged between 14 and 25 years with current distress, a broad Clinical High At-Risk Mental State, or the first episode of a severe mental disorder will be randomly allocated to the EMIcompass intervention (ie, EMI plus face-to-face training sessions) in addition to treatment as usual or a control condition of treatment as usual only. Primary (stress reactivity) and secondary candidate mechanisms (resilience, interpersonal sensitivity, threat anticipation, negative affective appraisals, and momentary physiological markers of stress reactivity), as well as primary (psychological distress) and secondary outcomes (primary psychiatric symptoms and general psychopathology), will be assessed at baseline, postintervention, and at the 4-week follow-up.
+
+
+Results:
+The first enrollment was in August 2019, and as of May 2021, enrollment and randomization was completed (N=92). We expect data collection to be completed by August 2021.
+
+
+Conclusions:
+This study is the first to establish feasibility, evidence on underlying mechanisms, and preliminary signals of the efficacy of a compassion-focused EMI in youth. If successful, a confirmatory randomized controlled trial will be warranted. Overall, our approach has the potential to significantly advance preventive interventions in youth mental health provision.
+
+
+Trial Registration:
+German Clinical Trials Register DRKS00017265; https://www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00017265
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/27462
+
+
+JMIR Res Protoc 2021;10(12):e27462
+
+doi:10.2196/27462
+
+
+Keywords
+experience sampling methodology (ESM); ecological momentary assessment (EMA); mobile intervention (18); at-risk individuals (1); smartphone training (1); blended care (27); mental health (1649); stress reactivity (3); mobile phone (2900) ",https://www.researchprotocols.org/2021/12/e27462,"https://scholar.google.com/scholar?q=related:zQH0t1py34AJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+122,15,"BA Gaudiano, E Moitra, S Ellenberg, MF Armey",The promises and challenges of ecological momentary assessment in schizophrenia: Development of an initial experimental protocol,2015.0,Healthcare,mdpi.com,https://www.mdpi.com/2227-9032/3/3/556,"https://scholar.google.com/scholar?cites=4570639786884707517&as_sdt=2005&sciodt=0,5&hl=en",72,2024-06-11 20:16:42,HTML,,,,,,,,15,1.67,4,4,9.0,"Abstract
+Severe mental illnesses, including schizophrenia and other psychotic-spectrum disorders, are a major cause of disability worldwide. Although efficacious pharmacological and psychosocial interventions have been developed for treating patients with schizophrenia, relapse rates are high and long-term recovery remains elusive for many individuals. Furthermore, little is still known about the underlying mechanisms of these illnesses. Thus, there is an urgent need to better understand the contextual factors that contribute to psychosis so that they can be better targeted in future interventions. Ecological Momentary Assessment (EMA) is a dynamic procedure that permits the measurement of variables in natural settings in real-time through the use of brief assessments delivered via mobile electronic devices (i.e., smartphones). One advantage of EMA is that it is less subject to retrospective memory biases and highly sensitive to fluctuating environmental factors. In the current article, we describe the research-to-date using EMA to better understand fluctuating symptoms and functioning in patients with schizophrenia and other psychotic disorders and potential applications to treatment. In addition, we describe a novel EMA protocol that we have been employing to study the outcomes of patients with schizophrenia following a hospital discharge. We also report the lessons we have learned thus far using EMA methods in this challenging clinical population.",https://www.mdpi.com/2227-9032/3/3/556,"https://scholar.google.com/scholar?q=related:vbSHfassbj8J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.mdpi.com
+132,13,"L Jiménez-Muñoz, I Peñuelas-Calvo…",Suicide prevention in your pocket: a systematic review of ecological momentary interventions for the management of suicidal thoughts and behaviors,2022.0,Harvard review of …,journals.lww.com,https://journals.lww.com/hrpjournal/fulltext/2022/03000/Suicide_Prevention_in_Your_Pocket__A_Systematic.1.aspx,"https://scholar.google.com/scholar?cites=337553512113564383&as_sdt=2005&sciodt=0,5&hl=en",115,2024-06-11 20:16:42,,,,,,,,,13,6.5,4,3,2.0,"
+Abstract
+
+Background 
+
+This study reviews the evidence on ecological momentary interventions (EMIs) for managing and preventing suicidal thoughts and behaviors.
+
+Methods 
+
+This review follows the Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. Its protocol was registered in the PROSPERO database. We conducted a systematic literature search of five databases: PubMed, EMBASE, Web of Science, PsycInfo, and Cochrane library. The most recent search date was 10 September 2021.
+
+Results 
+
+After screening and full-text review, 27 studies were included, totaling 19 different interventions. Many of the available interventions have not yet been clinically tested. Those that have undergone effectiveness evaluation (10 interventions) showed good rates of effectiveness and feasibility, with some exceptions. The most widely used intervention model is the safety plan, which allows the user to implement coping and distracting strategies in case of suicidal ideation.
+
+Conclusions 
+
+Ecological momentary interventions provide certain advantages, such as their wide availability, versatility, and potential for customization. These interventions can be useful complements to traditional care, especially in situations in which face-to-face care is not possible. Evidence on the effectiveness of such interventions is still scarce. Furthermore, barriers limiting implementation in clinical practice remain. The constant advance of technology means that these interventions have great potential for improvement in the coming years.
+",,"https://scholar.google.com/scholar?q=related:3-o2fiE7rwQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",journals.lww.com
+140,11,"D Castilla, MV Navarro-Haro, C Suso-Ribera…",Ecological momentary intervention to enhance emotion regulation in healthcare workers via smartphone: a randomized controlled trial protocol,2022.0,BMC psychiatry,Springer,https://link.springer.com/article/10.1186/s12888-022-03800-x,"https://scholar.google.com/scholar?cites=13753203142197810273&as_sdt=2005&sciodt=0,5&hl=en",14,2024-06-11 20:16:42,HTML,10.1186/s12888-022-03800-x,,,,,,,11,5.5,3,4,2.0,"Background
+
+CUIDA-TE is an APP that offers transdiagnostic cognitive behavioral therapy focused on enhancing emotion regulation. As a novelty, it incorporates ecological momentary interventions (EMI), which can provide psychological support in real time, when suffering arises. The main goal of the study is to evaluate the efficacy of CUIDA-TE to improve emotion regulation in healthcare workers, a population that has been particularly emotionally impacted by the COVID-19 pandemic.
+
+Methods
+
+In this three-arm, randomized controlled trial (RCT) the study sample will be composed of a minimum of 174 healthcare workers. They will be randomly assigned to a 2-month EMI group (CUIDA-TE APP, n ≥ 58), a 2-month ecological momentary assessment (EMA) only group (MONITOR EMOCIONAL APP, n ≥ 58), or a wait-list control group (no daily monitoring nor intervention, n ≥ 58). CUIDA-TE will provide EMI if EMA reveals emotional problems, poor sleep quality/quantity, burnout, stress, or low perceived self-efficacy when regulating emotions. Depression will be the primary outcome. Secondary outcomes will include emotion regulation, quality of life, and resilience. Treatment acceptance and usability will also be measured. Primary and secondary outcomes will be obtained at pre- and post-intervention measurements, and at the 3-month follow-up for all groups.
+
+Discussion
+
+To our knowledge, this is the first RCT that evaluates the efficacy of an APP-based EMI to improve emotion regulation skills in healthcare workers. This type of intervention might ultimately help disseminate treatments and reach a larger number of individuals than traditional face-to-face individual therapies.
+
+Trial registration
+
+ClinicalTrial.gov: NCT04958941 Registered 7 Jun 2021.
+
+Study status
+
+Participant recruitment has not started.",https://link.springer.com/article/10.1186/s12888-022-03800-x,"https://scholar.google.com/scholar?q=related:YZR85mMx3b4J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+141,11,"R Lucas-Thompson, N Seiter, PC Broderick…",Moving 2 Mindful (M2M) study protocol: testing a mindfulness group plus ecological momentary intervention to decrease stress and anxiety in adolescents from high …,2019.0,BMJ open,bmjopen.bmj.com,https://bmjopen.bmj.com/content/9/11/e030948.abstract,"https://scholar.google.com/scholar?cites=7874563300095293779&as_sdt=2005&sciodt=0,5&hl=en",150,2024-06-11 20:16:42,,,,,,,,,11,2.2,3,4,5.0,"Abstract
+
+Introduction Interparental conflict exposure places adolescents at risk for problems with stress and anxiety; existing prevention/intervention strategies focus on reducing interparental conflict. Mindfulness-based programmes may be a promising treatment strategy for this population, but studies have not yet tested whether they are effective in this high-conflict context. In addition, evidence suggests that extensions to traditional treatments, such as delivering components in daily life that are tailored to moments of need, can increase treatment efficacy, particularly when combined with in-person treatments and particularly for adolescents. However, there are no such extensions to mindfulness interventions available. The Moving 2 Mindful study aims to (1) develop an ecological momentary intervention (EMI) supplement to Learning to BREATHE (L2B), an evidence-based mindfulness intervention for adolescents; (2) refine the EMI programme and determine the best delivery plan; (3) examine the feasibility and acceptability of L2B Plus (L2B plus the developed supplement) and (4) examine the potential for L2B Plus to reduce stress and anxiety for adolescents from high-conflict homes.
+
+Methods and analysis The Moving 2 Mindful study proposes a mixed-methods approach to developing and refining a multimethod adaptive supplement to L2B. Feasibility, acceptability and potential effectiveness will be tested in a sample of 38 families, who will be randomly assigned to receive L2B Plus or an active health and wellness control condition and followed until 3 months postintervention. A range of psychosocial and physiological factors will be assessed at multiple time points. This study is registered with clinicaltrials.gov (ID NCT03869749; pre-results).
+
+Ethics and dissemination The Institutional Review Board at Colorado State University has approved this study. Findings will be disseminated in scientific journals and conferences, whether they are positive, negative or inconclusive.",https://bmjopen.bmj.com/content/bmjopen/9/11/e030948.full.pdf,"https://scholar.google.com/scholar?q=related:U_mBp5kRSG0J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",bmjopen.bmj.com
+144,11,"BA Hultgren, NM Scaglione, A Buben, R Turrisi",Examining protocol compliance and self-report congruence between daily diaries and event-contingent ecological momentary assessments of college student …,2020.0,Addictive behaviors,Elsevier,https://www.sciencedirect.com/science/article/pii/S0306460320306018,"https://scholar.google.com/scholar?cites=3968944815094153774&as_sdt=2005&sciodt=0,5&hl=en",256,2024-06-11 20:16:42,,,,,,,,,11,2.75,3,4,4.0,"Highlights
+
+•
+
+A Alcohol use and intoxication were similar in event-contingent EMA and daily diaries.
+
+•
+
+Daily diaries had higher compliance than event-contingent EMA on drinking days.
+
+•
+
+Missing EMA associated with higher alcohol use and intoxication reported in daily diaries.
+
+Abstract
+Background
+
+Daily diaries and ecological momentary assessments (EMA) are frequently used to assess event-level college student drinking. While both methods have advantages, they also raise questions about data validity, particularly in regard to alcohol’s impact on protocol compliance. The current study examined congruence in drinking behaviors reported via retrospective daily diaries and event-contingent drinking logs, protocol compliance with each method, and the extent to which alcohol consumption impacted compliance.
+
+Methods
+
+Participants were first-semester college women (n = 69) who reported 4+ drinks during an occasion at least once in the past month. Participants reported the number of drinks consumed and subjective intoxication using a 14-day EMA protocol. Event-contingent drinking logs (via self-initiated EMA) assessed behavior immediately after each drinking event; daily diaries assessed behaviors from the previous day. Pairwise correlations examined congruence between drinking logs and corresponding daily dairies; protocol compliance was examined through descriptive analysis of data missingness; and multilevel regression models assessed the associations between protocol compliance, alcohol consumption, and subjective intoxication.
+
+Results
+
+Drinking log and daily diary reports were highly correlated (r’s = 0.70 to 0.93). On drinking days, diary reports had higher protocol compliance (96.0%) compared to momentary drinking logs (41.4%). Drinking log missingness was associated with greater alcohol use and subjective intoxication reported in the corresponding daily diary (p’s < 0.05).
+
+Conclusions
+
+Similarities in reports of alcohol consumption and subjective intoxication, coupled with higher missingness of momentary assessments suggest daily diaries may have methodological advantages and unique utility in supplementing momentary assessments.",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7919385/,"https://scholar.google.com/scholar?q=related:LsLQ7EeGFDcJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.sciencedirect.com
+147,10,"A Colonna, A Bracci, J Ahlberg…",Ecological momentary assessment of awake bruxism behaviors: a scoping review of findings from smartphone-based studies in healthy young adults,2023.0,Journal of clinical …,mdpi.com,https://www.mdpi.com/2077-0383/12/5/1904,"https://scholar.google.com/scholar?cites=768477481421527485&as_sdt=2005&sciodt=0,5&hl=en",123,2024-06-11 20:16:42,HTML,,,,,,,,10,10.0,3,4,1.0,"Abstract
+Background: The recent introduction of ecological momentary assessment (EMA) smartphone-based strategies has allowed achieving some interesting data on the frequency of different awake bruxism (AB) behaviors reported by an individual in the natural environment. Objective: The present paper aims to review the literature on the reported frequency of AB based on data gathered via smartphone EMA technology. Methods: On September 2022, a systematic search in the Pubmed, Scopus and Google Scholar databases was performed to identify all peer-reviewed English-language studies assessing awake bruxism behaviors using a smartphone-based Ecological Momentary Assessment. The selected articles were assessed independently by two authors according to a structured reading of the articles’ format (PICO). Results: A literature search, for which the search terms “Awake Bruxism” and “Ecological Momentary Assessment” were used, identified 15 articles. Of them, eight fulfilled the inclusion criteria. The results of seven studies using the same smartphone-based app reported a frequency of AB behaviors in the range between 28.3 and 40% over one week, while another investigation adopted a different smartphone-based EMA approach via WhatsApp using a web-based survey program and reported an AB frequency of 58.6%. Most included studies were based on convenience samples with limited age range, highlighting the need for more studies on other population samples. Conclusions: Despite the methodological limits, the results of the reviewed studies provide a standpoint for comparison for future studies on the epidemiology of awake bruxism behaviors.",https://www.mdpi.com/2077-0383/12/5/1904,"https://scholar.google.com/scholar?q=related:vVkEojIuqgoJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.mdpi.com
+154,8,"ML Barrigon, A Porras-Segovia, P Courtet…",Smartphone-based Ecological Momentary Intervention for secondary prevention of suicidal thoughts and behaviour: protocol for the SmartCrisis V. 2.0 randomised …,2022.0,BMJ open,bmjopen.bmj.com,https://bmjopen.bmj.com/content/12/9/e051807.abstract,"https://scholar.google.com/scholar?cites=1447282074761640155&as_sdt=2005&sciodt=0,5&hl=en",53,2024-06-11 20:16:42,,,,,,,,,8,4.0,2,4,2.0,"Abstract
+
+Introduction Suicide is one of the leading public health issues worldwide. Mobile health can help us to combat suicide through monitoring and treatment. The SmartCrisis V.2.0 randomised clinical trial aims to evaluate the effectiveness of a smartphone-based Ecological Momentary Intervention to prevent suicidal thoughts and behaviour.
+
+Methods and analysis The SmartCrisis V.2.0 study is a randomised clinical trial with two parallel groups, conducted among patients with a history of suicidal behaviour treated at five sites in France and Spain. The intervention group will be monitored using Ecological Momentary Assessment (EMA) and will receive an Ecological Momentary Intervention called ‘SmartSafe’ in addition to their treatment as usual (TAU). TAU will consist of mental health follow-up of the patient (scheduled appointments with a psychiatrist) in an outpatient Suicide Prevention programme, with predetermined clinical appointments according to the Brief Intervention Contact recommendations (1, 2, 4, 7 and 11 weeks and 4, 6, 9 and 12 months). The control group would receive TAU and be monitored using EMA.
+
+Ethics and dissemination This study has been approved by the Ethics Committee of the University Hospital Fundación Jiménez Díaz. It is expected that, in the near future, our mobile health intervention and monitoring system can be implemented in routine clinical practice. Results will be disseminated through peer-reviewed journals and psychiatric congresses. Reference number EC005-21_FJD. Participants gave informed consent to participate in the study before taking part.
+
+Trial registration number NCT04775160.",https://bmjopen.bmj.com/content/bmjopen/12/9/e051807.full.pdf,"https://scholar.google.com/scholar?q=related:2zj1A2HHFRQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",bmjopen.bmj.com
+158,8,"D Edge, A Newbold, T Ehring, T Rosenkranz, M Frost…",Reducing worry and rumination in young adults via a mobile phone app: study protocol of the ECoWeB (Emotional Competence for Well-Being in Young …,2021.0,BMC psychiatry,Springer,https://link.springer.com/article/10.1186/s12888-021-03536-0,"https://scholar.google.com/scholar?cites=7018454288821588267&as_sdt=2005&sciodt=0,5&hl=en",281,2024-06-11 20:16:42,HTML,10.1186/s12888-021-03536-0,,,,,,,8,2.67,1,6,3.0,"Background
+
+Promoting well-being and preventing poor mental health in young people is a major global priority. Building emotional competence skills via a mobile app may be an effective, scalable and acceptable way to do this. A particular risk factor for anxiety and depression is elevated worry and rumination (repetitive negative thinking, RNT). An app designed to reduce RNT may prevent future incidence of depression and anxiety.
+
+Method/design
+
+The Emotional Competence for Well-Being in Young Adults study developed an emotional competence app to be tested via randomised controlled trials in a longitudinal prospective cohort. This off-shoot study adapts the app to focus on targeting RNT (worry, rumination), known risk factors for poor mental health. In this study, 16–24 year olds in the UK, who report elevated worry and rumination on standardised questionnaires are randomised to (i) receive the RNT-targeting app immediately for 6 weeks (ii) a waiting list control who receive the app after 6 weeks. In total, the study will aim to recruit 204 participants, with no current diagnosis of major depression, bipolar disorder or psychosis, across the UK. Assessments take place at baseline (pre-randomisation), 6 and 12 weeks post-randomisation. Primary endpoint and outcome for the study is level of rumination assessed on the Rumination Response Styles Questionnaire at 6 weeks. Worry, depressive symptoms, anxiety symptoms and well-being are secondary outcomes. Compliance, adverse events and potentially mediating variables will be carefully monitored.
+
+Discussion
+
+This trial aims to better understand the benefits of tackling RNT via an mobile phone app intervention in young people. This prevention mechanism trial will establish whether targeting worry and rumination directly via an app provides a feasible approach to prevent depression and anxiety, with scope to become a widescale public health strategy for preventing poor mental health and promoting well-being in young people.
+
+Trial registration
+
+ClinicalTrials.gov, NCT04950257. Registered 6 July 2021 – Retrospectively registered.",https://link.springer.com/article/10.1186/s12888-021-03536-0,"https://scholar.google.com/scholar?q=related:KxGHhf2OZmEJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+167,7,"BC Riordan, S Moradi, KB Carey…",Effectiveness of a combined web-based and ecological momentary intervention for incoming first-year university students: Protocol for a 3-arm randomized …,2018.0,JMIR research …,researchprotocols.org,https://www.researchprotocols.org/2018/5/e10164/,"https://scholar.google.com/scholar?cites=16470293320113282045&as_sdt=2005&sciodt=0,5&hl=en",187,2024-06-11 20:16:42,HTML,,,,,,,,7,1.17,2,4,6.0,"Abstract
+
+Background:
+Alcohol use among university students is common, and those who drink often choose to drink heavily (ie, 4 or more drinks per session for women or 5 or more for men). Web-based interventions (WBIs), in which students complete assessments and receive personalized feedback about their alcohol use, and ecological momentary interventions (EMIs), which use mobile devices as a method of delivering intervention information, are 2 methods that have had some success in reducing alcohol use among university students.
+
+
+Objective:
+The aim of this study was to investigate the effectiveness of a combined WBI and EMI intervention to reduce alcohol use among university students.
+
+
+Methods:
+The study is a 3-arm randomized controlled trial. Participants will be randomized into either a WBI+EMI condition, a WBI-only condition, or an assessment-only control. Our sample will consist of first-year university students, recruited through 5 residential colleges at the University of Otago, New Zealand. All participants will complete an online survey at baseline (ie, before Orientation Week); those in the WBI-only and WBI+EMI conditions will immediately receive personalized feedback (ie, the WBI), whereas participants in the assessment-only condition will receive no feedback. In addition, participants randomized into the WBI+EMI, but not those in the WBI-only or assessment-only groups, will receive 8 Orientation Week (2 per day on nights with large social events) and 6 academic year EMIs (delivered fortnightly). Participants in all conditions will complete brief surveys at the end of the first and second semester and report their weekend alcohol use fortnightly throughout each semester via ecological momentary assessments.
+
+
+Results:
+The primary hypothesis is that participants in the WBI+EMI group will consume significantly fewer drinks during weekends in their first semester at university compared with WBI-only and assessment-only groups. Secondary hypotheses are that, when compared with the WBI-only and assessment-only groups, the WBI+EMI group will report consuming fewer drinks during Orientation Week, report experiencing fewer negative alcohol-related consequences after first semester, and report lower Alcohol Use Disorder Identification Test-Consumption scores following their first semester.
+
+
+Conclusions:
+This study adds to a growing body of work investigating the utility of WBIs and EMIs in curbing alcohol consumption. In addition, the study will help to inform policy approaches aimed at curbing alcohol consumption and alcohol-related harm in university students.
+
+
+Trial Registration:
+Australian New Zealand Clinical Trials Registry ACTRN12618000015246; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=374104&isReview=true (Archived by WebCite at http://www.webcitation.org/6z9jRLTz6)
+
+
+Registered Report Identifier:
+RR1-10.2196/10164
+
+
+JMIR Res Protoc 2018;7(5):e10164
+
+doi:10.2196/10164
+
+
+Keywords
+alcohol drinking in college (1); clinical trial (161); smartphone (786); internet (1078) 
+We also recommend
+An Ecological Momentary Intervention to Reduce Alcohol Consumption in Young Adults Delivered During Drinking Events: Protocol for a Pilot Randomized Controlled Trial
+Cassandra JC Wright et al., JMIR Res Protoc, 2017
+Cross-Tailoring Integrative Alcohol and Risky Sexual Behavior Feedback for College Students: Protocol for a Hybrid Type 1 Effectiveness-Implementation Trial
+Anne E Ray et al., JMIR Res Protoc, 2023
+Effectiveness of an Ecological Momentary Intervention for Reducing Risky Alcohol Consumption Among Young Adults: Protocol for a Three-Arm Randomized Controlled Trial
+Cassandra Wright et al., JMIR Res Protoc, 2020
+Effectiveness of a Text Messaging–Based Intervention Targeting Alcohol Consumption Among University Students: Randomized Controlled Trial
+Kristin Thomas et al., JMIR Mhealth Uhealth, 2018
+Mobile Phone-Based Ecological Momentary Intervention to Reduce Young Adults’ Alcohol Use in the Event: A Three-Armed Randomized Controlled Trial
+Cassandra Wright et al., JMIR Mhealth Uhealth, 2018
+Lavender oil preparation Silexan is effective in mild-to-moderate major depression: a randomized, placebo- and reference-controlled trial
+Siegfried Kasper et al., European Archives of Psychiatry and Clinical Neuroscience, 2024
+Long-term potassium binder use for HK may improve clinical outcomes in CKD
+Obi Y, et al. Kidney Med. 2024;6(1):100757.
+Discover how long-term patiromer use may be associated with improved survival in CKD
+Obi Y, et al. Kidney Med. 2024;6(1):100757.
+To access published research related to Alpha-1 antitrypsin deficiency (AATD), visit Unite Alpha
+.
+Visit Unite Alpha, the Alpha-1 antitrypsin deficiency (AATD) Scientific Hub, to learn more about AATD
+.
+Powered by
+I consent to the use of Google Analytics and related cookies across the TrendMD network (widget, website, blog). For more information, see our Privacy Settings and Terms of Use.
+Yes No ",https://www.researchprotocols.org/2018/5/e10164/,"https://scholar.google.com/scholar?q=related:_VvX44I8kuQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+174,6,"SN Rodda, KL Bagot, SS Merkouris…",Smartphone app delivery of a just-in-time adaptive intervention for adult gamblers (gambling habit hacker): protocol for a microrandomized trial,2022.0,JMIR Research …,researchprotocols.org,https://www.researchprotocols.org/2022/7/e38919,"https://scholar.google.com/scholar?cites=13522325334894909245&as_sdt=2005&sciodt=0,5&hl=en",134,2024-06-11 20:16:42,HTML,,,,,,,,6,3.0,2,4,2.0,"Abstract
+
+Background:
+People with gambling problems frequently report repeated unsuccessful attempts to change their behavior. Although many behavior change techniques are available to individuals to reduce gambling harm, they can be challenging to implement or maintain. The provision of implementation support tailored for immediate, real-time, individualized circumstances may improve attempts at behavior change.
+
+
+Objective:
+We aimed to develop and evaluate a Just-In-Time Adaptive Intervention (JITAI) for individuals who require support to adhere to their gambling limits. JITAI development is based on the principles of the Health Action Process Approach with delivery, in alignment with the principles of self-determination theory. The primary objective was to determine the effect of action- and coping planning compared with no intervention on the goal of subsequently adhering to gambling expenditure limits.
+
+
+Methods:
+Gambling Habit Hacker is delivered as a JITAI providing in-the-moment support for adhering to gambling expenditure limits (primary proximal outcome). Delivered via a smartphone app, this JITAI delivers tailored behavior change techniques related to goal setting, action planning, coping planning, and self-monitoring. The Gambling Habit Hacker app will be evaluated using a 28-day microrandomized trial. Up to 200 individuals seeking support for their own gambling from Australia and New Zealand will set a gambling expenditure limit (ie, goal). They will then be asked to complete 3 time-based ecological momentary assessments (EMAs) per day over a 28-day period. EMAs will assess real-time adherence to gambling limits, strength of intention to adhere to goals, goal self-efficacy, urge self-efficacy, and being in high-risk situations. On the basis of the responses to each EMA, participants will be randomized to the control (a set of 25 self-enactable strategies containing names only and no implementation information) or intervention (self-enactable strategy implementation information with facilitated action- and coping planning) conditions. This microrandomized trial will be supplemented with a 6-month within-group follow-up that explores the long-term impact of the app on gambling expenditure (primary distal outcome) and a range of secondary outcomes, as well as an evaluation of the acceptability of the JITAI via postintervention surveys, app use and engagement indices, and semistructured interviews. This trial has been approved by the Deakin University Human Research Ethics Committee (2020-304).
+
+
+Results:
+The intervention has been subject to expert user testing, with high acceptability scores. The results will inform a more nuanced version of the Gambling Habit Hacker app for wider use.
+
+
+Conclusions:
+Gambling Habit Hacker is part of a suite of interventions for addictive behaviors that deliver implementation support grounded in lived experience. This study may inform the usefulness of delivering implementation intentions in real time and in real-world settings. It potentially offers people with gambling problems new support to set their gambling intentions and adhere to their limits.
+
+
+Trial Registration:
+Australian New Zealand Clinical Trials Registry ACTRN12622000497707; www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=383568
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/38919
+
+
+JMIR Res Protoc 2022;11(7):e38919
+
+doi:10.2196/38919
+
+
+Keywords
+Just-In-Time Adaptive Intervention (30); JITAI (11); ecological momentary assessment (234); EMA (33); ecological momentary intervention (23); EMI (5); gambling (18); behavior change technique (15); implementation intentions (2); action planning (6); coping planning (3); microrandomized trial (12); mobile phone (2900) ",https://www.researchprotocols.org/2022/7/e38919,"https://scholar.google.com/scholar?q=related:PRetaz_zqLsJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+186,4,"A Takano, K Ono, K Nozawa, M Sato…",… Mobile App–Based mHealth Approach for Investigating Substance Use and Related Factors in Daily Life: Protocol for an Ecological Momentary Assessment …,2023.0,JMIR Research …,researchprotocols.org,https://www.researchprotocols.org/2023/1/e44275,"https://scholar.google.com/scholar?cites=12127717975568689898&as_sdt=2005&sciodt=0,5&hl=en",102,2024-06-11 20:16:42,HTML,,,,,,,,4,4.0,1,5,1.0,"Abstract
+
+Background:
+Digital health technologies using mobile apps and wearable devices are a promising approach to the investigation of substance use in the real world and for the analysis of predictive factors or harms from substance use. Moreover, consecutive repeated data collection enables the development of predictive algorithms for substance use by machine learning methods.
+
+
+Objective:
+We developed a new self-monitoring mobile app to record daily substance use, triggers, and cravings. Additionally, a wearable activity tracker (Fitbit) was used to collect objective biological and behavioral data before, during, and after substance use. This study aims to describe a model using machine learning methods to determine substance use.
+
+
+Methods:
+This study is an ongoing observational study using a Fitbit and a self-monitoring app. Participants of this study were people with health risks due to alcohol or methamphetamine use. They were required to record their daily substance use and related factors on the self-monitoring app and to always wear a Fitbit for 8 weeks, which collected the following data: (1) heart rate per minute, (2) sleep duration per day, (3) sleep stages per day, (4) the number of steps per day, and (5) the amount of physical activity per day. Fitbit data will first be visualized for data analysis to confirm typical Fitbit data patterns for individual users. Next, machine learning and statistical analysis methods will be performed to create a detection model for substance use based on the combined Fitbit and self-monitoring data. The model will be tested based on 5-fold cross-validation, and further preprocessing and machine learning methods will be conducted based on the preliminary results. The usability and feasibility of this approach will also be evaluated.
+
+
+Results:
+Enrollment for the trial began in September 2020, and the data collection finished in April 2021. In total, 13 people with methamphetamine use disorder and 36 with alcohol problems participated in this study. The severity of methamphetamine or alcohol use disorder assessed by the Drug Abuse Screening Test-10 or the Alcohol Use Disorders Identification Test-10 was moderate to severe. The anticipated results of this study include understanding the physiological and behavioral data before, during, and after alcohol or methamphetamine use and identifying individual patterns of behavior.
+
+
+Conclusions:
+Real-time data on daily life among people with substance use problems were collected in this study. This new approach to data collection might be helpful because of its high confidentiality and convenience. The findings of this study will provide data to support the development of interventions to reduce alcohol and methamphetamine use and associated negative consequences.
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/44275
+
+
+JMIR Res Protoc 2023;12:e44275
+
+doi:10.2196/44275
+
+
+Keywords
+alcohol and drug use (1); alcoholism (9); digital health (1748); drug use (16); ecological momentary assessment (234); ecological momentary intervention (23); electronic health record (355); Fitbit (49); machine learning (1226); mHealth (2929); mobile app (550); self-monitoring (87); wearables devices (1) ",https://www.researchprotocols.org/2023/1/e44275,"https://scholar.google.com/scholar?q=related:6irkTT5PTqgJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+190,4,"NA Dowling, SS Merkouris, GJ Youssef…",A gambling just-in-time adaptive intervention (GamblingLess: in-the-moment): protocol for a microrandomized trial,2022.0,JMIR Research …,researchprotocols.org,https://www.researchprotocols.org/2022/8/e38958/,"https://scholar.google.com/scholar?cites=17540956251009898128&as_sdt=2005&sciodt=0,5&hl=en",216,2024-06-11 20:16:42,HTML,,,,,,,,4,2.0,1,4,2.0,"Abstract
+
+Background:
+The presence of discrete but fluctuating precipitants, in combination with the dynamic nature of gambling episodes, calls for the development of tailored interventions delivered in real time, such as just-in-time adaptive interventions (JITAIs). JITAIs leverage mobile and wireless technologies to address dynamically changing individual needs by providing the type and amount of support required at the right time and only when needed. They have the added benefit of reaching underserved populations by providing accessible, convenient, and low-burden support. Despite these benefits, few JITAIs targeting gambling behavior are available.
+
+
+Objective:
+This study aims to redress this gap in service provision by developing and evaluating a theoretically informed and evidence-based JITAI for people who want to reduce their gambling. Delivered via a smartphone app, GamblingLess: In-The-Moment provides tailored cognitive-behavioral and third-wave interventions targeting cognitive processes explicated by the relapse prevention model (cravings, self-efficacy, and positive outcome expectancies). It aims to reduce gambling symptom severity (distal outcome) through short-term reductions in the likelihood of gambling episodes (primary proximal outcome) by improving craving intensity, self-efficacy, or expectancies (secondary proximal outcomes). The primary aim is to explore the degree to which the delivery of a tailored intervention at a time of cognitive vulnerability reduces the probability of a subsequent gambling episode.
+
+
+Methods:
+GamblingLess: In-The-Moment interventions are delivered to gamblers who are in a state of receptivity (available for treatment) and report a state of cognitive vulnerability via ecological momentary assessments 3 times a day. The JITAI will tailor the type, timing, and amount of support for individual needs. Using a microrandomized trial, a form of sequential factorial design, each eligible participant will be randomized to a tailored intervention condition or no intervention control condition at each ecological momentary assessment across a 28-day period. The microrandomized trial will be supplemented by a 6-month within-group follow-up evaluation to explore long-term effects on primary (gambling symptom severity) and secondary (gambling behavior, craving severity, self-efficacy, and expectancies) outcomes and an acceptability evaluation via postintervention surveys, app use and engagement indices, and semistructured interviews. In all, 200 participants will be recruited from Australia and New Zealand.
+
+
+Results:
+The project was funded in June 2019, with approval from the Deakin University Human Research Ethics Committee (2020-304). Stakeholder user testing revealed high acceptability scores. The trial began on March 29, 2022, and 84 participants have been recruited (as of June 24, 2022). Results are expected to be published mid-2024.
+
+
+Conclusions:
+GamblingLess: In-The-Moment forms part of a suite of theoretically informed and evidence-based web-based and mobile gambling interventions. This trial will provide important empirical data that can be used to facilitate the JITAI’s optimization to make it a more effective, efficient, and scalable tailored intervention.
+
+
+Trial Registration:
+Australian New Zealand Clinical Trials Registry (ANZCTR) ACTRN12622000490774; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=380757&isClinicalTrial=False
+
+
+International Registered Report Identifier (IRRID):
+PRR1-10.2196/38958
+
+
+JMIR Res Protoc 2022;11(8):e38958
+
+doi:10.2196/38958
+
+
+Keywords
+mobile health (1629); mHealth (2929); just-in-time adaptive intervention (30); ecological momentary intervention (23); microrandomized trial (12); gambling (18); addiction (69); treatment (274); intervention (560); protocol (199); relapse (16); mobile phone (2900) ",https://www.researchprotocols.org/2022/8/e38958/,"https://scholar.google.com/scholar?q=related:kNYcOsb-bfMJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+198,3,"P Gual-Montolio, C Suso-Ribera, A García-Palacios…","… emotional disorders using ecological momentary assessments and interventions: Study protocol of a feasibility trial with “My EMI, Emotional Well-being” app",2023.0,Internet …,Elsevier,https://www.sciencedirect.com/science/article/pii/S2214782923000015,"https://scholar.google.com/scholar?cites=5458356515592187449&as_sdt=2005&sciodt=0,5&hl=en",69,2024-06-11 20:16:42,HTML,,,,,,,,3,3.0,1,4,1.0,"Highlights
+
+•
+
+Feasibility data of this study will be important for personalized psycholotherapy for persons with emotional disorders.
+
+•
+
+This study could help increase engagement and retention in online interventions.
+
+•
+
+The study will provide a more flexible and personalize treatment alternative.
+
+•
+
+Ecological Momentary Intervention could enhance adherence to treatment.
+
+Abstract
+Introduction
+
+Emotional disorders are the most frequent mental health problems globally. To ensure the dissemination of psychological treatments for these conditions, novel forms of delivery (e.g., Internet or mobile apps) and more scalable forms of psychotherapy (e.g., transdiagnostic interventions) have become increasingly popular. Research, however, shows that a significant number of patients, around 40 % according to some studies, do not respond to the interventions as expected (i.e., not-on-track patients). Ecological momentary assessments (EMAs) and ecological momentary interventions (EMIs) could simplify tailoring treatments to the patients' progress and rapidly respond to undesired outcomes during psychotherapy. Therefore, these would facilitate measurement-based care with little therapist involvement. This study aims to explore the feasibility of an app-based system called My EMI, Emotional Well-being for people with emotional disorders. According to daily EMAs, the app will provide personalized EMIs while participants receive a self-applied online transdiagnostic treatment. The app will be used as an add-tool to the online intervention to address emotion dysregulation, foster adherence, and reinforce contents. The current study describes the study protocol for this trial.
+
+Method and analysis
+
+A single-group, open trial design will be used. Participants will be 30 adults suffering from emotional disorders. Primary outcomes will be app usability, acceptability, and response rates. Secondary outcomes will be either evaluated in Qualtrics at pre-treatment, post-treatment, and 3-month follow-up (depression and anxiety severity, and transdiagnostic dimensions of emotional disorders) or daily throughout the study with the app (EMAs of mood and five transdiagnostic mechanisms of therapeutic change). EMIs will consist of brief, evidence-based transdiagnostic CBT digital content (images, infographics, or videos) delivered just-in-time. Only if problems persist, short phone calls or episodic videocalls will be conducted. The Ethics Committee of the Jaume I University approved the study and all its procedures (CD/111/2021) in December 2021.
+
+Discussion
+
+Identifying personalized and scalable interventions is paramount to improve mental health care, especially its accessibility, and to reduce the psychological distress of people with mental health problems. Feasibility data of the app (EMA and EMI system) supported by a self-applied online transdiagnostic intervention will be important to explore whether this modern approach is a real option to move forward personalized psychological interventions for persons with emotional disorders.
+
+Trial registration
+
+ClinicalTrials.gov Identifier: NCT05109780. Registered 05 November 2021, https://clinicaltrials.gov/ct2/show/NCT05109780.",https://www.sciencedirect.com/science/article/pii/S2214782923000015,"https://scholar.google.com/scholar?q=related:Oa5P0VT6v0sJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.sciencedirect.com
+200,3,"L Garey, MJ Zvolensky, MW Gallagher…",A Smartphone-Based Intervention for Anxiety and Depression in Racially and Ethnically Diverse Adults (EASE): Protocol for a Randomized Controlled Trial,2022.0,JMIR Research …,researchprotocols.org,https://www.researchprotocols.org/2022/12/e40713,"https://scholar.google.com/scholar?cites=8188683949706487745&as_sdt=2005&sciodt=0,5&hl=en",209,2024-06-11 20:16:42,HTML,,,,,,,,3,1.5,1,4,2.0,"Abstract
+
+Background:
+Clear health disparities have emerged in the rates of COVID-19 exposure, hospitalization, and death among Black, Hispanic, and American Indian (BHAI) individuals, relative to non-Hispanic White (NHW) individuals. BHAI populations have been disproportionately affected by lower behavioral health access and heightened negative mental health outcomes during the pandemic.
+
+
+Objective:
+This project directly addresses health disparities in access to behavioral health care during the COVID-19 pandemic among BHAI populations via an adaptation of the established, initially validated, low-cost, mobile app Easing Anxiety Sensitivity for Everyone (EASE) among individuals with symptoms of elevated anxiety or depression or both.
+
+
+Methods:
+The EASE trial is a 2-arm, prospective, randomized, blinded-assessor study with intention-to-treat analysis. Participants (N=800; n=200, 25%, Black; n=200, 25%, Hispanic; n=200, 25%, American Indian; and n=200, 25%, NHW) are randomized to receive either EASE or an active comparison condition for anxiety and depression. Participants compete an online prescreener, an enrollment call to provide informed consent, a baseline survey, a 6-month intervention period, and 3- and 6-month postbaseline assessments. Select participants also complete a 3- and 6-month postbaseline qualitative interview via phone or an online platform (eg, Zoom). Participants complete 2 scheduled daily ecological momentary assessments (EMAs) during the 6-month study period. These twice-daily EMAs guide a just-in-time approach to immediate, personalized behavioral health care.
+
+
+Results:
+Outcomes include reductions in anxiety and depressive symptoms and functional impairment at 3 and 6 months postrandomization. We also will examine putative mechanisms (eg, anxiety sensitivity [AS] and COVID-19–specific stress and fear) of the intervention effects. Further, as treatment effects may differ across sociocultural factors, perceived discrimination, social support, and socioeconomic status (SES) will be evaluated as potential moderators of treatment effects on the primary outcomes. Process evaluation using data collected during the study, as well as individual interviews with participants, will complement quantitative data.
+
+
+Conclusions:
+Data from this efficacy trial will determine whether EASE successfully improves symptoms of anxiety and depression and whether these improvements outperform an active comparison control app. If successful, findings from this study have the potential to decrease anxiety and depression symptoms among vulnerable populations determined to be most at risk of exacerbated, long-lasting negative health sequelae. Data from this study may be used to support an implementation and dissemination trial of EASE within real-world behavioral health and social service settings.
+
+
+Trial Registration:
+ClinicalTrials.gov NCT05074693; https://clinicaltrials.gov/ct2/show/NCT05074693
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/40713
+
+
+JMIR Res Protoc 2022;11(12):e40713
+
+doi:10.2196/40713
+
+
+Keywords
+COVID-19 (2817); just-in-time adaptive intervention (30); anxiety (645); depression (968); mHealth (2929); minority populations (4); death (35); behavioral (23); care (69); mobile application (108); app (491); public health (832); symptoms (86); risk (234) ",https://www.researchprotocols.org/2022/12/e40713,"https://scholar.google.com/scholar?q=related:wacysKoMpHEJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+205,2,"C Wright, PM Dietze, E Kuntsche…",Effectiveness of an ecological momentary intervention for reducing risky alcohol consumption among young adults: Protocol for a three-arm randomized …,2020.0,JMIR Research …,researchprotocols.org,https://www.researchprotocols.org/2020/3/e14190,"https://scholar.google.com/scholar?cites=14107820520977713609&as_sdt=2005&sciodt=0,5&hl=en",98,2024-06-11 20:16:42,HTML,,,,,,,,2,0.5,1,4,4.0,"Abstract
+
+Background:
+Recent research has investigated the utility of mobile phone–delivered interventions for reducing risky single-occasion drinking, also known as binge drinking. In the past five years, focus has been placed on ecological momentary interventions (EMIs), which aim to deliver intervention content in correspondence to real-time assessments of behavior, also known as ecological momentary assessments (EMAs).
+
+
+Objective:
+This study aims to assess the effect of a fully automated, tailored, mobile phone–delivered EMI termed Mobile Intervention for Drinking in Young people (MIDY) on young people's risky single-occasion drinking behavior.
+
+
+Methods:
+We will use a three-armed randomized controlled trial design to determine the impact of MIDY on peak consumption of alcohol among young people. A list of mobile telephone numbers for random digit dialing will be generated, and researchers will telephone potential participants to screen for eligibility. Participants will be randomized into one of three intervention groups. For 6 weeks, EMI, EMA, and attention control groups will complete hourly EMA surveys on their mobile phones on Friday and Saturday nights. EMI participants will receive personalized feedback in the form of text messages corresponding to their EMA survey responses, which focus on alcohol consumption, spending, and mood. EMA participants will not receive feedback. A third group will also complete EMA and receive feedback text messages at the same time intervals, but these will be focused on sedentary behavior and technology use. All groups will also complete a short survey on Saturday and Sunday mornings, with the primary outcome measure taken on Sunday mornings. A more detailed survey will be sent on the final Sunday of the 6-week period, and then again 1 year after recruitment.
+
+
+Results:
+The primary outcome measure will be an observed change (ie, reduction) in the mean peak number of drinks consumed in a single night over the 6-week intervention period between the EMI and attention control groups as measured in the weekly EMA. We expect to see a greater reduction in mean peak drinking in the EMI group compared to that in the attention control group. As a secondary aim, we will assess whether mean peak drinking is reduced in the EMA group compared to the attention control group. We will use a random-effects mixed-modeling approach using maximum-likelihood estimation to provide estimates of differences in peak drinking across time periods between those receiving the intervention (EMI) and attention control participants. An intention-to-treat approach will be taken for the analysis. Individuals and study groups will be modeled as random and fixed factors, respectively.
+
+
+Conclusions:
+This study extends our previous work investigating the efficacy of a mobile EMI (MIDY) for reducing risky drinking among young adults in Australia, and will add to the expanding literature on the use of mobile interventions for reducing risky alcohol consumption.
+
+
+Trial Registration:
+Australian New Zealand Clinical Trials Registration (ANZCTR): ACTRN12617001509358p; http://www.anzctr.org.au/ACTRN12617001509358p.aspx
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/14190
+
+
+JMIR Res Protoc 2020;9(3):e14190
+
+doi:10.2196/14190
+
+
+Keywords
+alcohol (101); brief intervention (26); young adult (181); alcohol drinking (36); prevention and control (16); mobile phone (2900) 
+We also recommend
+An Ecological Momentary Intervention to Reduce Alcohol Consumption in Young Adults Delivered During Drinking Events: Protocol for a Pilot Randomized Controlled Trial
+Cassandra JC Wright et al., JMIR Res Protoc, 2017
+Mobile Phone-Based Ecological Momentary Intervention to Reduce Young Adults’ Alcohol Use in the Event: A Three-Armed Randomized Controlled Trial
+Cassandra Wright et al., JMIR Mhealth Uhealth, 2018
+Effectiveness of a Combined Web-Based and Ecological Momentary Intervention for Incoming First-Year University Students: Protocol for a 3-Arm Randomized Controlled Trial
+Benjamin C Riordan et al., JMIR Res Protoc, 2018
+Adaptive Text Messaging for Postpartum Risky Drinking: Conceptual Model and Protocol for an Ecological Momentary Assessment Study
+Sarah Dauber et al., JMIR Res Protoc, 2022
+A Text Message Intervention with Adaptive Goal Support to Reduce Alcohol Consumption Among Non-Treatment-Seeking Young Adults: Non-Randomized Clinical Trial with Voluntary Length of Enrollment
+Brian Suffoletto et al., JMIR Mhealth Uhealth, 2018
+Lavender oil preparation Silexan is effective in mild-to-moderate major depression: a randomized, placebo- and reference-controlled trial
+Siegfried Kasper et al., European Archives of Psychiatry and Clinical Neuroscience, 2024
+Long-term potassium binder use for HK may improve clinical outcomes in CKD
+Obi Y, et al. Kidney Med. 2024;6(1):100757.
+To access published research related to Alpha-1 antitrypsin deficiency (AATD), visit Unite Alpha
+.
+Uncover patiromer: Improved long-term survival for a diverse population of CKD patients 
+Obi Y, et al. Kidney Med. 2024;6(1):100757.
+Discover how long-term patiromer use may be associated with improved survival in CKD
+Obi Y, et al. Kidney Med. 2024;6(1):100757.
+Powered by
+I consent to the use of Google Analytics and related cookies across the TrendMD network (widget, website, blog). For more information, see our Privacy Settings and Terms of Use.
+Yes No ",https://www.researchprotocols.org/2020/3/e14190,"https://scholar.google.com/scholar?q=related:ycnXcwQMycMJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+206,2,"Q Wang, S Ng, X Zhou",… the psychological distress of parents of children with autism spectrum disorder: A protocol of randomized control trial of ecological momentary intervention …,2023.0,Plos one,journals.plos.org,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291168,"https://scholar.google.com/scholar?cites=18311454470101977517&as_sdt=2005&sciodt=0,5&hl=en",99,2024-06-11 20:16:42,HTML,,,,,,,,2,2.0,1,3,1.0,"Background
+
+Existing studies have unequivocally demonstrated that parents of children with autism spectrum disorder (ASD) experience various stressful daily life events and suffer from psychological distress. Mindfulness level is found to be an effective buffer between parents’ appraisal of stress life events and psychological distress. However, the mechanism behind the function of mindfulness is unclear, and traditional mindfulness-based intervention (MBI) in experimental settings is not tailored to personal real-life needs. This study proposes to conduct a randomized controlled trial (RCT) to examine the effectiveness of MBI delivered by ecological momentary intervention (EMI) and assessed by ecological momentary assessment (EMA) in changing participants’ cognitive appraisal of stressful life events and thus reducing the psychological distress of parents of children with ASD.
+
+Method
+
+The proposed study will recruit 670 parents of children with ASD and randomly assign them to the intervention and control groups (335 in each group). Participants in the intervention group will install the EMI/A app on their smartphones. In the app, participants can receive practice prompts daily, browse and practice different mindfulness exercises in the intervention library at any time, talk to a virtual counselor (chatbot) when feeling stressed, complete EMA on the cognitive appraisal of life events, and receive the log of change of psychological status daily. Participants in the control group will only receive audio-based standardized mindfulness practice instructions three times per week. The effects of MBI will be assessed based on the EMA data, right after the intervention and at the 2-month follow-up. The primary outcome will be participants’ psychological distress measured by the depression anxiety stress scale. The secondary outcomes will include participants’ subjective well-being, measured by the satisfaction with life scale, and level of resilience, measured by the psychological empowerment scale. Multilevel structural equational modelling will be applied to examine the pathways of the relationship between daily life events, cognitive appraisal, and psychological distress.
+
+Discussion
+
+The potential benefit of the proposed study is to increase the psychological well-being of parents of children with ASD, and the method may extend to participants suffering from other psychological issues in the future.
+
+Trial registration: This trial has been registered on clinicaltrials.gov with the ID of NCT05746468.",https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291168,"https://scholar.google.com/scholar?q=related:rckqg9JaH_4J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",journals.plos.org
+210,2,"SA Bögemann, A Riepenhausen, LMC Puhlmann…",Investigating two mobile just-in-time adaptive interventions to foster psychological resilience: research protocol of the DynaM-INT study,2023.0,BMC psychology,Springer,https://link.springer.com/article/10.1186/s40359-023-01249-5,"https://scholar.google.com/scholar?cites=10391711883724016607&as_sdt=2005&sciodt=0,5&hl=en",133,2024-06-11 20:16:42,HTML,10.1186/s40359-023-01249-5,,,,,,,2,2.0,1,4,1.0,"Background
+
+Stress-related disorders such as anxiety and depression are highly prevalent and cause a tremendous burden for affected individuals and society. In order to improve prevention strategies, knowledge regarding resilience mechanisms and ways to boost them is highly needed. In the Dynamic Modelling of Resilience – interventional multicenter study (DynaM-INT), we will conduct a large-scale feasibility and preliminary efficacy test for two mobile- and wearable-based just-in-time adaptive interventions (JITAIs), designed to target putative resilience mechanisms. Deep participant phenotyping at baseline serves to identify individual predictors for intervention success in terms of target engagement and stress resilience.
+
+Methods
+
+DynaM-INT aims to recruit N = 250 healthy but vulnerable young adults in the transition phase between adolescence and adulthood (18–27 years) across five research sites (Berlin, Mainz, Nijmegen, Tel Aviv, and Warsaw). Participants are included if they report at least three negative burdensome past life events and show increased levels of internalizing symptoms while not being affected by any major mental disorder. Participants are characterized in a multimodal baseline phase, which includes neuropsychological tests, neuroimaging, bio-samples, sociodemographic and psychological questionnaires, a video-recorded interview, as well as ecological momentary assessments (EMA) and ecological physiological assessments (EPA).
+
+Subsequently, participants are randomly assigned to one of two ecological momentary interventions (EMIs), targeting either positive cognitive reappraisal or reward sensitivity. During the following intervention phase, participants' stress responses are tracked using EMA and EPA, and JITAIs are triggered if an individually calibrated stress threshold is crossed. In a three-month-long follow-up phase, parts of the baseline characterization phase are repeated. Throughout the entire study, stressor exposure and mental health are regularly monitored to calculate stressor reactivity as a proxy for outcome resilience. The online monitoring questionnaires and the repetition of the baseline questionnaires also serve to assess target engagement.
+
+Discussion
+
+The DynaM-INT study intends to advance the field of resilience research by feasibility-testing two new mechanistically targeted JITAIs that aim at increasing individual stress resilience and identifying predictors for successful intervention response. Determining these predictors is an important step toward future randomized controlled trials to establish the efficacy of these interventions.",https://link.springer.com/article/10.1186/s40359-023-01249-5,"https://scholar.google.com/scholar?q=related:30uTjebGNpAJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+215,2,"S Eghdami, HR Ahmadkhaniha, HR Baradaran…",Ecological momentary interventions for smoking cessation: a systematic review and meta-analysis,2023.0,Social Psychiatry and …,Springer,https://link.springer.com/article/10.1007/s00127-023-02503-2,"https://scholar.google.com/scholar?cites=12153394857090394379&as_sdt=2005&sciodt=0,5&hl=en",164,2024-06-11 20:16:42,,10.1007/s00127-023-02503-2,,,,,,,2,2.0,1,4,1.0,"Background and objectives
+
+Tobacco use is an important cause of preventable mortality and morbidity worldwide. Only 7% of smokers successfully quit annually, despite numerous evidence-based smoking cessation treatments. An important reason for failure is barriers to accessing appropriate smoking cessation interventions, which can be minimized by technology-delivered interventions, such as ecological momentary interventions. Ecological momentary interventions provide the right type and intensity of treatment in real time, based on ecological momentary assessments of relevant variables. The aim of this review was to assess the effectiveness of ecological momentary interventions in smoking cessation.
+
+Methods
+
+We searched MEDLINE, Scopus, CENTRAL, psychINFO, and ProQuest without applying any filters on 19 September, 2022. One author screened search results for obvious irrelevant and duplicate studies. The remaining studies were independently reviewed by two authors to exclude irrelevant studies, and then they extracted data from the included studies. We collated study findings, transformed data into a common rubric, and calculated a weighted treatment effect across studies using Review Manager 5.
+
+Findings
+
+We analyzed 10 studies with a total of 2391 participants. Assessment methods included exhaled CO analyzers, bidirectional SMS, data input in apps, and hand movement detection. Interventions were based on acceptance and commitment therapy and cognitive behavioral therapy. Smoking abstinence was significantly higher in participants of intervention groups compared to control groups (RR = 1.24; 95% CI 1.07–1.44, P = 0.004; I2 = 0%).
+
+Conclusion
+
+Ecological momentary intervention is a novel area of research in behavioral science. The results of this systematic review based on the available literature suggest that these interventions could be beneficial for smoking cessation.",,"https://scholar.google.com/scholar?q=related:C6nuJzuIqagJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+218,2,"H Kim, S Park, Y Kim, S Kwon…",Ecological momentary assessment of mental health in adults at suicide risk: An observational study protocol,2022.0,Journal of Advanced …,Wiley Online Library,https://onlinelibrary.wiley.com/doi/abs/10.1111/jan.15142,"https://scholar.google.com/scholar?cites=12811485499128043630&as_sdt=2005&sciodt=0,5&hl=en",199,2024-06-11 20:16:42,,10.1111/jan.15142,,,,,,,2,1.0,0,5,2.0,"
+
+Abstract
+
+Aims
+
+To describe the research protocol for an ecological momentary assessment (EMA) designed to examine patterns of suicidal ideation and relevant psychosocial stress indicators in adults at risk for suicide.
+
+Design
+
+This observational and longitudinal study will collect data for 28 consecutive days.
+
+Methods
+
+A total of 150 adults at risk for suicide will be recruited from a single suicide prevention centre and an outpatient clinic in Korea. Self-report questionnaires will be administrated during weeks 0, 1, 3 and 5. Participants will receive text messages three times a day for 4 weeks prompting them to access an online survey link for daily mood survey including depression, anxiety, stress and suicidal ideation. In addition, for the first 2 weeks, they will wear an actigraphy device designed to collect actigraphic data in terms of sleep patterns and physical activity. Data analyses such as descriptive statistics, independent t-tests, one-way ANOVA, chi-squared statistics and time-series and correlation analyses will be performed using IBM SPSS 26.0 and SAS version 9.3. The study received funding from National Research Foundation of Korea in February 2020. Institutional Review Board approval for our study was obtained in April 2021.
+
+Discussions
+
+This study will yield fundamental information about daily patterns of suicide ideation and psychosocial stress indicators to develop preventive interventions for adults at risk for suicide.
+
+Impact
+
+Our study will contribute to the development of EMAs and interventions for adults at risk for suicide aimed at providing timely and individualized mental health services in a community setting.
+
+Trial Registration: The trial is registered with the Clinical Research Information Service (CRIS). CRIS Registration Number: KCT0006165.
+",https://onlinelibrary.wiley.com/doi/pdf/10.1111/jan.15142,"https://scholar.google.com/scholar?q=related:bliY7C6Ky7EJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",onlinelibrary.wiley.com
+220,2,"L Yao, Y Yang, Z Wang, X Pan, L Xu",Compliance with ecological momentary assessment programmes in the elderly: a systematic review and meta-analysis,2023.0,BMJ open,bmjopen.bmj.com,https://bmjopen.bmj.com/content/13/7/e069523.abstract,"https://scholar.google.com/scholar?cites=14921585377297163055&as_sdt=2005&sciodt=0,5&hl=en",213,2024-06-11 20:16:42,,,,,,,,,2,2.0,0,5,1.0,"Abstract
+
+Objective Ecological momentary assessment (EMA) refers to the repeated sampling of information about an individual’s symptoms and behaviours, enabling the capture of ecologically meaningful real-time information in a timely manner. Compliance with EMA is critical in determining the validity of an assessment. However, there is limited evidence related to how the elderly comply with EMA programmes or the factors that are associated with compliance.
+
+Design Systematic review and meta-analysis.
+
+Data sources PubMed, Embase, the Cochrane Library and Web of Science were searched up to 17 July 2022.
+
+Eligibility criteria We included observational studies on EMA in the elderly reported in English.
+
+Data extraction and synthesis Two investigators independently performed screening and data extraction. Discrepancies were resolved by discussion or a third investigator. A systematic review was carried out to characterise the basic characteristics of the participants and EMA programmes. Random-effects meta-analysis was conducted to assess overall compliance and to explore factors associated with differences in compliance among the elderly.
+
+Results A total of 20 studies with 2047 participants were included in the systematic review and meta-analysis. Meta-analysis showed that the combined compliance rate was 86.41% (95% CI: 77.38% to 92.20%; I2=96.4%; p<0.001). Subgroup analysis revealed high levels of heterogeneity in terms of the methods used to assess population classification, assessment method and assessment frequency, although these may not be the sources of heterogeneity. Meta-regression analysis showed that population classification and assessment period might have a significant impact on heterogeneity (p<0.05). Egger’s test indicated significant publication bias (p<0.001).
+
+Conclusions Compliance with EMA programmes is high in the elderly. It is recommended that scholars design reasonable EMA programmes according to the health status of the elderly in the future.",https://bmjopen.bmj.com/content/bmjopen/13/7/e069523.full.pdf,"https://scholar.google.com/scholar?q=related:L-N1u9ceFM8J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",bmjopen.bmj.com
+226,1,"P de Vries Lianne, BB ML…",Smartphone-Based Ecological Momentary Assessment of Well-Being: A Systematic Review and Recommendations for Future Studies,2021.0,Journal of Happiness …,search.proquest.com,https://search.proquest.com/openview/ecaee8526ec4987cfc0e2fda7be22fe3/1?pq-origsite=gscholar&cbl=55390,"https://scholar.google.com/scholar?cites=682472677630304456&as_sdt=2005&sciodt=0,5&hl=en",82,2024-06-11 20:16:42,,,,,,,,,1,0.33,0,3,3.0,"
+Abstract
+Feelings of well-being and happiness fluctuate over time and contexts. Ecological Momen-
+tary Assessment (EMA) studies can capture fluctuations in momentary behavior, and
+experiences by assessing these multiple times per day. Traditionally, EMA was performed
+using pen and paper. Recently, due to technological advances EMA studies can be con-
+ducted more easily with smartphones, a device ubiquitous in our society. The goal of this
+review was to evaluate the literature on smartphone-based EMA in well-being research in
+healthy subjects. The systematic review was conducted according to the Preferred Report-
+ing Items for Systematic Review and Meta-Analysis (PRISMA) guidelines. Searching Pub-
+Med and Web of Science, we identified 53 studies using smartphone-based EMA of well-
+being. Studies were heterogeneous in designs, context, and measures. The average study
+duration was 12.8 days, with well-being assessed 2–12 times per day. Half of the stud-
+ies included objective data (e.g. location). Only 47.2% reported compliance, indicating a
+mean of 71.6%. Well-being fluctuated daily and weekly, with higher well-being in evenings
+and weekends. These fluctuations disappeared when location and activity were accounted
+for. On average, being in nature and physical activity relates to higher well-being. Work-
+ing relates to lower well-being, but workplace and company do influence well-being. The
+important advantages of using smartphones instead of other devices to collect EMAs are
+the easier data collection and flexible designs. Smartphone-based EMA reach far larger
+maximum sample sizes and more easily add objective data to their designs than palm-top/
+PDA studies. Smartphone-based EMA research is feasible to gain insight in well-being
+fluctuations and its determinants and offers the opportunity for parallel objective data col-
+lection. Most studies currently focus on group comparisons, while studies on individual
+differences in well-being patterns and fluctuations are lacking. We provide recommenda-
+tions for future smartphone-based EMA research regarding measures, objective data and
+analyses.
+",,"https://scholar.google.com/scholar?q=related:yGAQz0iheAkJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",search.proquest.com
+232,1,"G Kiekens, L Claes, S Schoefs…",The detection of acute risk of self-injury project: protocol for an ecological momentary assessment study among individuals seeking treatment,2023.0,JMIR research …,researchprotocols.org,https://www.researchprotocols.org/2023/1/e46244/,"https://scholar.google.com/scholar?cites=13049283327841161339&as_sdt=2005&sciodt=0,5&hl=en",175,2024-06-11 20:16:42,HTML,,,,,,,,1,1.0,0,4,1.0,"Abstract
+
+Background:
+Nonsuicidal self-injury (NSSI) is a major mental health concern. Despite increased research efforts on establishing the prevalence and correlates of the presence and severity of NSSI, we still lack basic knowledge of the course, predictors, and relationship of NSSI with other self-damaging behaviors in daily life. Such information will be helpful for better informing mental health professionals and allocating treatment resources. The DAILY (Detection of Acute rIsk of seLf-injurY) project will address these gaps among individuals seeking treatment.
+
+
+Objective:
+This protocol paper presents the DAILY project’s aims, design, and materials used. The primary objectives are to advance understanding of (1) the short-term course and contexts of elevated risk for NSSI thoughts, urges, and behavior; (2) the transition from NSSI thoughts and urges to NSSI behavior; and (3) the association of NSSI with disordered eating, substance use, and suicidal thoughts and behaviors. A secondary aim is to evaluate the perspectives of individuals seeking treatment and mental health professionals regarding the feasibility, scope, and utility of digital self-monitoring and interventions that target NSSI in daily life.
+
+
+Methods:
+The DAILY project is funded by the Research Foundation Flanders (Belgium). Data collection involves 3 phases: a baseline assessment (phase 1), 28 days of ecological momentary assessment (EMA) followed by a clinical session and feedback survey (phase 2), and 2 follow-up surveys and an optional interview (phase 3). The EMA protocol consists of regular EMA surveys (6 times per day), additional burst EMA surveys spaced at a higher frequency when experiencing intense NSSI urges (3 surveys within 30 minutes), and event registrations of NSSI behavior. The primary outcomes are NSSI thoughts, NSSI urges, self-efficacy to resist NSSI, and NSSI behavior, with disordered eating (restrictive eating, binge eating, and purging), substance use (binge drinking and smoking cannabis), and suicidal thoughts and behaviors surveyed as secondary outcomes. The assessed predictors include emotions, cognitions, contextual information, and social appraisals.
+
+
+Results:
+We will recruit approximately 120 individuals seeking treatment aged 15 to 39 years from mental health services across the Flanders region of Belgium. Recruitment began in June 2021 and data collection is anticipated to conclude in August 2023.
+
+
+Conclusions:
+The findings of the DAILY project will provide a detailed characterization of the short-term course and patterns of risk for NSSI and advance understanding of how, why, and when NSSI and other self-damaging behaviors unfold among individuals seeking treatment. This will inform clinical practice and provide the scientific building blocks for novel intervention approaches outside of the therapy room that support people who self-injure in real time.
+
+
+International Registered Report Identifier (IRRID):
+DERR1-10.2196/46244
+
+
+JMIR Res Protoc 2023;12:e46244
+
+doi:10.2196/46244
+
+
+Keywords
+nonsuicidal self-injury (10); suicidal thoughts and behaviors (2); real-time (10); experience sampling (25); ecological momentary assessment (234); digital interventions (69); mobile phone (2900) ",https://www.researchprotocols.org/2023/1/e46244/,"https://scholar.google.com/scholar?q=related:e1BmcQxeGLUJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+248,0,"L Altweck, S Schmidt, S Tomczyk","… Use Patterns and Quality of Life in Parents: Protocol for a Pilot Quasi-Experimental, Nonrandomized Controlled Trial Using Ecological Momentary Assessment",2024.0,JMIR Research Protocols,researchprotocols.org,https://www.researchprotocols.org/2024/1/e54728,,49,2024-06-11 20:16:42,HTML,,,,,,,,0,0.0,0,3,1.0,"Abstract
+
+Background:
+The gender gap in time use and its impact on health and well-being are still prevalent. Women work longer hours than men when considering both paid and unpaid (eg, childcare and chores) work, and this gender disparity is particularly visible among parents. Less is known about factors that could potentially mediate or moderate this relationship (eg, work-family conflict and gender role beliefs). Ecological momentary assessment (EMA) allows for the documentation of changes in momentary internal states, such as time use, stress, or mood. It has shown particular validity to measure shorter-term activities (eg, unpaid work) and is thus useful to address gender differences.
+
+
+Objective:
+The feasibility of the daily EMA surveys in a parent sample will be examined. The associations between time use, well-being, and stress will be examined, along with potential moderating and mediating factors such as gender, gender role beliefs, and work-family conflict. Finally, the act of monitoring one’s own time use, well-being, and stress will be examined in relation to, for example, the quality of life.
+
+
+Methods:
+We conducted a quasi-experimental, nonrandomized controlled trial with 3 data collection methods, namely, online questionnaires, EMA surveys, and qualitative interviews. The intervention group (n=64) will participate in the online questionnaires and EMA surveys, and a subsample of the intervention group (n=6-17) will also be invited to participate in qualitative interviews. Over a period of 1 week, participants in the intervention group will answer daily EMA surveys (4 times per day). In contrast, the control group (n=17) will only participate in the online questionnaires at baseline and after 1 week. The following constructs were surveyed: sociodemographic background (eg, age, gender, and household composition; baseline questionnaire); mediators and moderators (eg, gender role beliefs and work-family conflict; baseline and follow-up questionnaires); well-being, quality of life, and trait mindfulness (baseline and follow-up questionnaires); momentary activity and well-being, as well as state mindfulness (EMA); and feasibility (baseline and follow-up questionnaires as well as interviews). We anticipate that participants will regard the daily EMA as feasible. Particular daily time-use patterns (eg, high paid and unpaid workload) are expected to be related to lower well-being, higher stress, and health-related quality of life. These associations are expected to be moderated and mediated by factors such as gender, gender role beliefs, work-family conflict, and social support. Participants in the intervention group are expected to show higher values of mindfulness, well-being, health-related quality of life, and lower stress.
+
+
+Results:
+Patient recruitment started in November 2023 and ended in mid April 2024. Data analysis commenced in mid April 2024.
+
+
+Conclusions:
+This study aims to provide valuable insights into the feasibility of using EMAs and the potential benefits of activity tracking in various aspects of daily life.
+
+
+Trial Registration:
+Open Science Framework 8qj3d; https://osf.io/8qj3d
+
+
+International Registered Report Identifier (IRRID):
+PRR1-10.2196/54728
+
+
+JMIR Res Protoc 2024;13:e54728
+
+doi:10.2196/54728
+
+
+Keywords
+time-use (1); well-being (240); parents (124); ecological momentary assessment (234); feasibility (338); health-related quality of life (66); ambulatory assessment (15); work-family conflict (1); gender roles (2); mixed-methods (17); sex differences (10); stress (297) ",https://www.researchprotocols.org/2024/1/e54728,"https://scholar.google.com/scholar?q=related:HUboatmeGDQJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchprotocols.org
+249,0,"IH Bell, SF Fielding-Smith, M Hayward, SL Rossell…",Smartphone-based ecological momentary assessment and intervention in a coping-focused intervention for hearing voices (SAVVy): study protocol for …,,sussex.figshare.com,,https://sussex.figshare.com/articles/journal_contribution/_Study_Protocol_Smartphone-based_ecological_momentary_assessment_and_intervention_in_a_coping-focused_intervention_for_hearing_voices_SAVVy_study_protocol_for_a_pilot_randomised_controlled_trial/23457488,,56,2024-06-11 20:16:42,Study Protocol,,,,,,,,0,0.0,0,5,,"Background Smartphone-based ecological momentary assessment and intervention (EMA/I) show promise for enhancing psychological treatments for psychosis. EMA has the potential to improve assessment and formulation of experiences which fluctuate day-to-day, and EMI may be used to prompt use of therapeutic strategies in daily life. The current study is an examination of these capabilities in the context of a brief, coping-focused intervention for distressing voice hearing experiences. Methods/design This is a rater-blinded, pilot randomised controlled trial comparing a four-session intervention in conjunction with use of smartphone EMA/I between sessions, versus treatment-as-usual. The recruitment target is 34 participants with persisting and distressing voice hearing experiences, recruited through a Voices Clinic based in Melbourne, Australia, and via wider advertising. Allocation will be made using minimisation procedure, balancing of the frequency of voices between groups. Assessments are completed at baseline and 8 weeks post-baseline. The primary outcomes of this trial will focus on feasibility and acceptability of the intervention and trial methodology, with secondary outcomes examining preliminary clinical effects related to overall voice severity, the emotional and functional impact of the voices, and emotional distress. Discussion This study offers a highly novel examination of specific smartphone capabilities and their integration with traditional psychological treatment for distressing voices. Such technology has potential to enhance psychological interventions and promote adaptation to distressing experiences. Trial registration Australian New Zealand Clinical Trial Registry, ACTRN12617000348358. Registered on 7 March 2017.",https://sussex.figshare.com/articles/journal_contribution/_Study_Protocol_Smartphone-based_ecological_momentary_assessment_and_intervention_in_a_coping-focused_intervention_for_hearing_voices_SAVVy_study_protocol_for_a_pilot_randomised_controlled_trial/23457488/1/files/41165801.pdf,"https://scholar.google.com/scholar?q=related:VeI-3ERXLCoJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",sussex.figshare.com
+253,0,"MJ Zhang, WJA He, TT Luk, MP Wang…",Effectiveness of personalized smoking cessation intervention based on ecological momentary assessment for smokers who prefer unaided quitting: protocol …,2023.0,Frontiers in Public …,frontiersin.org,https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1147096/full,,89,2024-06-11 20:16:42,HTML,10.3389/fpubh.2023.1147096,,,,,,,0,0.0,0,5,1.0,"Min Jin ZhangWan Jia Aaron HeTzu Tsun LukMan Ping WangSophia Siu Chee ChanYee Tak Derek Cheung*
+School of Nursing, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong, Hong Kong SAR, China
+
+Introduction: Ecological momentary assessment (EMA)-based smoking cessation intervention may help personalize intervention for smokers who prefer to quit smoking unaided. This study aims to evaluate the effectiveness of EMA-based phone counseling and instant messaging for smoking cessation.
+
+Methods/design: This is a two-arm, accessor-blinded, simple individual randomized controlled trial (allocation ratio 1:1). Participants will be recruited from community sites and online platforms in Hong Kong. Interventions will be delivered via a phone call and instant messaging. Current adult smokers who (1) self-report no intention to use smoking cessation services and medication in the coming month and (2) have not used smoking cessation services or nicotine replacement therapy in the past 7 days will be recruited. Recruited participants will be randomized to intervention or control groups via an online randomizer. All participants will be required to complete EMAs (five times per day for 7 consecutive days). The intervention group (n = 220) will receive a nurse-led brief phone counseling immediately after the 1-week EMAs and 10-week EMA-based advice via instant messaging applications (e.g., WhatsApp, WeChat). The 10-week EMA-based advice covers a summary of the 1-week EMAs, and tailored cessation support focused on personalized smoking triggers. The control group (n = 220) will not receive any intervention during the same period. The primary outcomes are participants' progression toward smoking cessation assessed by the Incremental Behavior Change toward Smoking Cessation (IBC-S) and biochemically validated abstinence at the 3-month follow-up. Secondary outcomes include self-reported and biochemically validated tobacco abstinence at the 6-month follow-up.
+
+Discussion: The findings will provide evidence that the EMA-based tailored smoking cessation intervention can be adapted as a new health promotion strategy for current smokers who are unwilling to use smoking cessation aids.
+
+Clinical trial registration: https://classic.clinicaltrials.gov/ct2/show/NCT05212220, identifier: NCT05212220.",https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1147096/full,"https://scholar.google.com/scholar?q=related:Hsl66KoaH1UJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.frontiersin.org
+258,0,"R Kraft, M Reichert, R Pryss",Mobile Crowdsensing in Ecological Momentary Assessment mHealth Studies: A Systematic Review and Analysis,2024.0,Sensors,mdpi.com,https://www.mdpi.com/1424-8220/24/2/472,,113,2024-06-11 20:16:42,HTML,,,,,,,,0,0.0,0,3,1.0,"Abstract
+As mobile devices have become a central part of our daily lives, they are also becoming increasingly important in research. In the medical context, for example, smartphones are used to collect ecologically valid and longitudinal data using Ecological Momentary Assessment (EMA), which is mostly implemented through questionnaires delivered via smart notifications. This type of data collection is intended to capture a patient’s condition on a moment-to-moment and longer-term basis. To collect more objective and contextual data and to understand patients even better, researchers can not only use patients’ input via EMA, but also use sensors as part of the Mobile Crowdsensing (MCS) approach. In this paper, we examine how researchers have embraced the topic of MCS in the context of EMA through a systematic literature review. This PRISMA-guided review is based on the databases PubMed, Web of Science, and EBSCOhost. It is shown through the results that both EMA research in general and the use of sensors in EMA research are steadily increasing. In addition, most of the studies reviewed used mobile apps to deliver EMA to participants, used a fixed-time prompting strategy, and used signal-contingent or interval-contingent self-assessment as sampling/assessment strategies. The most commonly used sensors in EMA studies are the accelerometer and GPS. In most studies, these sensors are used for simple data collection, but sensor data are also commonly used to verify study participant responses and, less commonly, to trigger EMA prompts. Security and privacy aspects are addressed in only a subset of mHealth EMA publications. Moreover, we found that EMA adherence was negatively correlated with the total number of prompts and was higher in studies using a microinteraction-based EMA (
+𝜇
+EMA) approach as well as in studies utilizing sensors. Overall, we envision that the potential of the technological capabilities of smartphones and sensors could be better exploited in future, more automated approaches.",https://www.mdpi.com/1424-8220/24/2/472,"https://scholar.google.com/scholar?q=related:KavufL45CtAJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.mdpi.com
+261,0,"AD Tate, AR Fertig, JN de Brito, ÉM Ellis…",Momentary Factors and Study Characteristics Associated With Participant Burden and Protocol Adherence: Ecological Momentary Assessment,2024.0,JMIR Formative …,formative.jmir.org,https://formative.jmir.org/2024/1/e49512/,,122,2024-06-11 20:16:42,HTML,,,,,,,,0,0.0,0,5,1.0,"Abstract
+
+Background:
+Ecological momentary assessment (EMA) has become a popular mobile health study design to understand the lived experiences of dynamic environments. The numerous study design choices available to EMA researchers, however, may quickly increase participant burden and could affect overall adherence, which could limit the usability of the collected data.
+
+
+Objective:
+This study quantifies what study design, participant attributes, and momentary factors may affect self-reported burden and adherence.
+
+
+Methods:
+The EMA from the Phase 1 Family Matters Study (n=150 adult Black, Hmong, Latino or Latina, Native American, Somali, and White caregivers; n=1392 observation days) was examined to understand how participant self-reported survey burden was related to both design and momentary antecedents of adherence. The daily burden was measured by the question “Overall, how difficult was it for you to fill out the surveys today?” on a 5-item Likert scale (0=not at all and 4=extremely). Daily protocol adherence was defined as completing at least 2 signal-contingent surveys, 1 event-contingent survey, and 1 end-of-day survey each. Stress and mood were measured earlier in the day, sociodemographic and psychosocial characteristics were reported using a comprehensive cross-sectional survey, and EMA timestamps for weekends and weekdays were used to parameterize time-series models to evaluate prospective correlates of end-of-day study burden.
+
+
+Results:
+The burden was low at 1.2 (SD 1.14) indicating “a little” burden on average. Participants with elevated previous 30-day chronic stress levels (mean burden difference: 0.8; P=.04), 1 in 5 more immigrant households (P=.02), and the language primarily spoken in the home (P=.04; 3 in 20 more non-English–speaking households) were found to be population attributes of elevated moderate-high burden. Current and 1-day lagged nonadherence were correlated with elevated 0.39 and 0.36 burdens, respectively (P=.001), and the association decayed by the second day (β=0.08; P=.47). Unit increases in momentary antecedents, including daily depressed mood (P=.002) and across-day change in stress (P=.008), were positively associated with 0.15 and 0.07 higher end-of-day burdens after controlling for current-day adherence.
+
+
+Conclusions:
+The 8-day EMA implementation appeared to capture momentary sources of stress and depressed mood without substantial burden to a racially or ethnically diverse and immigrant or refugee sample of parents. Attention to sociodemographic attributes (eg, EMA in the primary language of the caregiver) was important for minimizing participant burden and improving data quality. Momentary stress and depressed mood were strong determinants of participant-experienced EMA burden and may affect adherence to mobile health study protocols. There were no strong indicators of EMA design attributes that created a persistent burden for caregivers. EMA stands to be an important observational design to address dynamic public health challenges related to human-environment interactions when the design is carefully tailored to the study population and to study research objectives.
+
+
+JMIR Form Res 2024;8:e49512
+
+doi:10.2196/49512
+
+
+Keywords
+adherence (292); burden (29); data quality (50); ecological momentary assessment (234); mental health (1649); mHealth (2929); mobile health (1629); participant adherence (1); public health (832); stress (297); study design (13); survey burden (1); survey (371) ",https://formative.jmir.org/2024/1/e49512/,"https://scholar.google.com/scholar?q=related:mzNf_cVFoEkJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",formative.jmir.org
+263,0,"JM Pavlacic, BN Hampton, J Young, SM Witcraft…",Systematic Review of Mindfulness-Based Ecological Momentary Interventions: Synthesizing Current Methods and Identifying Directions for Future Research,2024.0,Journal of Technology in …,Springer,https://link.springer.com/article/10.1007/s41347-024-00416-8,,138,2024-06-11 20:16:42,,10.1007/s41347-024-00416-8,,,,,,,0,0.0,0,5,1.0,"Understanding how to disseminate mindfulness-based interventions can help address disparities to support service access and reduce psychopathology. Ecological momentary interventions (EMIs), which are provided in real-world environments using technology, incorporate mindfulness procedures. We conducted a systematic review of mindfulness-based EMIs to identify targets for streamlining design and implementation of these interventions. Databases were searched in November, 2022, and screened without publication date restrictions. References from pertinent systematic and meta-analytic reviews were then screened by two authors, with discrepancies resolved by a third author in Covidence at all review stages (i.e., abstract screen; full-text screen) for inclusion. The final number of articles was 82. There was considerable variability in design of mindfulness-based EMIs, and samples were predominantly White or did not report race/ethnicity. Many studies did not report or discuss statistical power, and theoretical orientations of interventions were variable. Feasibility, effects, and moderators are briefly discussed. While mindfulness-based EMIs are touted to increase access to evidence-based interventions and promote psychological well-being, our findings highlight a lack of diverse samples and reporting of essential study characteristics, information regarding whether studies were sufficiently powered, and a lack of standardization in intervention delivery. The question of whether mindfulness-based EMIs are efficacious is obscured by heterogeneity regarding design and implementation of these interventions. Consolidation of common mindfulness-based EMI methods could inform design decisions and adaptations to certain populations.",,"https://scholar.google.com/scholar?q=related:4Dan7iRDAPsJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",link.springer.com
+265,0,"B Suffoletto, A Pisani, T Conner, CJC Wright",An Ecological Momentary Intervention to Reduce Alcohol Consumption in Young Adults Delivered During Drinking Events: Protocol for a Pilot Randomized …,,researchgate.net,,https://www.researchgate.net/profile/Robin-Room-2/publication/317162917_An_Ecological_Momentary_Intervention_to_Reduce_Alcohol_Consumption_in_Young_Adults_Delivered_During_Drinking_Events_Protocol_for_a_Pilot_Randomized_Controlled_Trial/links/5b6440e6458515298ce15524/An-Ecological-Momentary-Intervention-to-Reduce-Alcohol-Consumption-in-Young-Adults-Delivered-During-Drinking-Events-Protocol-for-a-Pilot-Randomized-Controlled-Trial,,141,2024-06-11 20:16:42,DOC,,,,,,,,0,0.0,0,4,,"
+Abstract
+
+Background
+Risky drinking is a significant public health issue in young Australian adults. Brief interventions are one of few effective methods of reducing risky drinking but are time and cost intensive; innovative methods of delivery are therefore of interest. Mobile phones offer new opportunities to collect data and intervene during risky drinking events. Mobile phones have successfully been used for delivery of alcohol-related brief interventions and data collection but not in combination with or during drinking events.
+
+Objective
+This pilot study will investigate the efficacy of an ecological momentary intervention (EMI), with combined ecological momentary assessment (EMA) and brief intervention delivered by mobile phones to young adults during risky drinking events.
+
+Methods
+We will use a 3-armed randomized controlled trial to investigate the efficacy of the intervention for reducing peak single occasion drinking. Our sample is recruited from an observational cohort study of young, risky drinkers. Participants will be randomized into 1 of 3 intervention arms. On 6 nights across a 12-week study period, EMI and EMA groups will complete hourly EMA surveys on their mobile phone. EMI participants will receive tailored feedback short message service (SMS) texts corresponding to their EMA survey responses. The EMI participants will not receive feedback SMS. A third group will have no contact (no-contact control). All groups will then be contacted for a follow-up interview within 4 weeks of the 12-week study period ending.
+
+Results
+The primary outcome is mean reduction in standard drinks consumed during their most recent heavy drinking occasion as measured at follow-up. Secondary outcomes include alcohol consumption over the previous 6 months, experiences of alcohol-related harms, attitudes toward drinking and drunkenness, hazardous drinking and use of tobacco and illicit drugs. A random effects mixed modelling approach using maximum likelihood estimation will be used to provide estimates of differences in mean drinking levels between those receiving the intervention and control participants.
+
+Conclusions
+This study is novel in that, unlike previous work, it will intervene repeatedly during single occasion drinking events. Further, it extends previous research in this area, which has applied limited tailoring of message content for SMS-based brief interventions. The findings of this study will contribute to the growing body of evidence to inform the use of mobile health interventions for reducing alcohol consumption and harms.
+",https://www.researchgate.net/profile/Robin-Room-2/publication/317162917_An_Ecological_Momentary_Intervention_to_Reduce_Alcohol_Consumption_in_Young_Adults_Delivered_During_Drinking_Events_Protocol_for_a_Pilot_Randomized_Controlled_Trial/links/5b6440e6458515298ce15524/An-Ecological-Momentary-Intervention-to-Reduce-Alcohol-Consumption-in-Young-Adults-Delivered-During-Drinking-Events-Protocol-for-a-Pilot-Randomized-Controlled-Trial,"https://scholar.google.com/scholar?q=related:Jah-Ba187ycJ:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",www.researchgate.net
+279,0,"MA Marciniak, L Shanahan, J Rohde, A Schulz…",Standalone smartphone CBT-based Ecological Momentary Interventions to increase mental health-a narrative review,2020.0,,psyarxiv.com,https://psyarxiv.com/r4vwz/,,196,2024-06-11 20:16:42,,,,,,,,,0,0.0,0,5,4.0,"Introduction: A growing number of psychological interventions are delivered via smartphone with the aim to increase the efficacy and effectiveness of these treatments and provide scalable access to interventions for improving mental health. Most of the scientifically tested apps are based on cognitive behavioural therapy principles which are considered as a gold standard for the treatment of many mental health problems. Objective: This review aimed to investigate standalone smartphone-based ‘ecological momentary interventions’ (EMIs) to improve mental health, that were built based on principles derived from cognitive behavioural therapy (CBT). Methods: We searched MEDLINE, PsycINFO, Embase and PubMed databases for peer-reviewed studies published between 1st January 2007 and 15th January 2020. We included studies with a focus on standalone app-based approaches to improve mental health and their feasibility, and/or efficacy and/or effectiveness. Both within- and between-group designs and studies with both healthy and clinical samples were included. Blended interventions, e.g., app-based treatments in combination with psychotherapy, were not included. Selected studies were evaluated in terms of their design, i.e., choice of the control condition, sample characteristics, EMI content, EMI delivery characteristics, feasibility, efficacy and effectiveness. The latter was defined in terms of improvement in primary outcomes used in the studies. Results: A total of 26 studies were selected. The results show that EMIs based on CBT principles can be successfully delivered, significantly increase well-being among users, and reduce mental health symptoms. Standalone EMIs were rated as helpful (m=70.8%), and outcomes were satisfying by users (m=72.6%). Conclusions: Study quality was heterogeneous, and feasibility was often not reported in the reviewed studies, hence limiting the conclusions that can be drawn from the existing data. Together, the studies show that EMIs may help increase mental health and thus support individuals in their daily life. Such EMIs provide readily available, scalable and evidence-based mental health support. These characteristics appear crucial in the context of a global crisis, such as the COVID-19 pandemic, but may also help reduce personal and economic costs of mental health impairment beyond this situation or in the context of potential future pandemics.",https://psyarxiv.com/r4vwz/download?format=pdf,"https://scholar.google.com/scholar?q=related:kVQc8gC2YJ8J:scholar.google.com/&scioq=%22ecological+momentary+assessment%22%7C%22experience+sampling%22+%22ecological+momentary+intervention%22+%22mobile%22%7C%22smartphone%22%7C%22app%22&hl=en&as_sdt=0,5&as_vis=1",psyarxiv.com
